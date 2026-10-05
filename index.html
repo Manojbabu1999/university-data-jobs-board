@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>University Data Jobs · Live Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1e1b4b; --mut:#5b5b7a;
+    --c-an:#0284c7; --c-en:#ea580c; --c-ds:#7c3aed; --c-ai:#db2777;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:Inter,system-ui,sans-serif;color:var(--ink);overflow-x:hidden;min-height:100vh;
+    background:linear-gradient(180deg,#fff8f0 0%,#fdf2ff 42%,#ecfeff 100%);
+  }
+  h1,h2,.disp{font-family:"Space Grotesk",Inter,sans-serif}
+  /* ---------- bright backdrop ---------- */
+  .blob{position:fixed;border-radius:50%;filter:blur(90px);z-index:-2;opacity:.5;pointer-events:none;animation:drift 20s ease-in-out infinite alternate}
+  @keyframes drift{from{transform:translate(0,0) scale(1)}to{transform:translate(60px,-40px) scale(1.12)}}
+  #stars{position:fixed;inset:0;z-index:-1}
+  .wrap{max-width:1400px;margin:0 auto;padding:0 28px}
+  .kicker{display:inline-flex;align-items:center;gap:10px;font-size:12px;font-weight:700;letter-spacing:3px;text-transform:uppercase;
+    color:#9d174d;background:#fff;border:2px solid #f9a8d4;padding:8px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(219,39,119,.15)}
+  .kicker .dot{width:9px;height:9px;border-radius:50%;background:linear-gradient(135deg,#f472b6,#fb923c);animation:blink 1.6s infinite}
+  @keyframes blink{50%{opacity:.3}}
+  /* ---------- hero ---------- */
+  .hero{padding:64px 0 26px;position:relative}
+  .hero h1{font-size:clamp(38px,6.4vw,72px);line-height:1.02;letter-spacing:-1px;margin:20px 0 14px;color:var(--ink)}
+  .hero h1 .grad{background:linear-gradient(92deg,#db2777,#ea580c,#7c3aed,#0284c7);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero p{color:var(--mut);font-size:16px;max-width:640px;line-height:1.65}
+  .hero p b{color:var(--ink)}
+  .statrow{display:flex;gap:16px;flex-wrap:wrap;margin-top:28px}
+  .stat{flex:1;min-width:140px;background:#fff;border-radius:20px;padding:22px;position:relative;overflow:hidden;
+    box-shadow:0 10px 30px rgba(124,58,237,.1);border:1px solid #f1e8ff}
+  .stat::after{content:"";position:absolute;top:0;left:0;right:0;height:5px;background:var(--bar,linear-gradient(90deg,#f472b6,#fb923c))}
+  .stat b{font-size:clamp(30px,3.6vw,42px);font-family:"Space Grotesk";display:block;color:var(--ink)}
+  .stat span{color:var(--mut);font-size:12px;font-weight:600;letter-spacing:1px;text-transform:uppercase}
+  .updated{display:inline-block;margin-top:18px;font-size:13px;font-weight:600;color:#166534;background:#dcfce7;
+    border:2px solid #86efac;padding:9px 18px;border-radius:999px}
+  /* ---------- filter bar ---------- */
+  .fbar{position:sticky;top:0;z-index:50;background:rgba(255,251,245,.88);backdrop-filter:blur(16px);
+    border-top:2px solid #ffe4e6;border-bottom:2px solid #ffe4e6;padding:14px 0;margin-top:30px}
+  .fbar .wrap{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .chip{cursor:pointer;background:#fff;color:var(--ink);border:2px solid #e9d5ff;
+    padding:10px 18px;border-radius:999px;font-size:13.5px;font-weight:700;transition:.22s;font-family:Inter;box-shadow:0 3px 10px rgba(124,58,237,.08)}
+  .chip small{color:var(--mut);font-weight:600;margin-left:6px}
+  .chip:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(124,58,237,.18)}
+  .chip.on[data-cat="all"]{background:linear-gradient(92deg,#7c3aed,#db2777);color:#fff;border-color:transparent}
+  .chip.on[data-cat="all"] small{color:#ffe4f1}
+  .chip.on[data-cat="analytics"]{background:var(--c-an);color:#fff;border-color:transparent}
+  .chip.on[data-cat="analytics"] small{color:#e0f2fe}
+  .chip.on[data-cat="engineering"]{background:var(--c-en);color:#fff;border-color:transparent}
+  .chip.on[data-cat="engineering"] small{color:#ffedd5}
+  .chip.on[data-cat="datascience"]{background:var(--c-ds);color:#fff;border-color:transparent}
+  .chip.on[data-cat="datascience"] small{color:#ede9fe}
+  .chip.on[data-cat="aiml"]{background:var(--c-ai);color:#fff;border-color:transparent}
+  .chip.on[data-cat="aiml"] small{color:#fce7f3}
+  .search{margin-left:auto;display:flex;align-items:center;gap:8px;background:#fff;
+    border:2px solid #e9d5ff;border-radius:999px;padding:10px 18px;min-width:230px;box-shadow:0 3px 10px rgba(124,58,237,.08)}
+  .search input{background:none;border:none;outline:none;color:var(--ink);font-size:14px;width:100%;font-family:Inter;font-weight:500}
+  .search input::placeholder{color:#a5a5c5}
+  /* ---------- regions ---------- */
+  section{padding:46px 0 6px}
+  h2{font-size:clamp(26px,3.8vw,40px);margin:16px 0 6px;color:var(--ink)}
+  h2 .grad{background:linear-gradient(92deg,#ea580c,#db2777,#7c3aed);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .sub{color:var(--mut);font-size:14.5px;margin-bottom:8px}
+  .rgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:22px}
+  .rcard{cursor:pointer;background:#fff;border-radius:22px;padding:24px;transition:.28s;position:relative;overflow:hidden;
+    border:2px solid #f1e8ff;box-shadow:0 8px 24px rgba(124,58,237,.08)}
+  .rcard::before{content:"";position:absolute;top:0;left:0;right:0;height:7px;background:var(--rg,linear-gradient(90deg,#38bdf8,#818cf8))}
+  .rcard[data-r="Northeast"]{--rg:linear-gradient(90deg,#38bdf8,#2563eb)}
+  .rcard[data-r="Midwest"]{--rg:linear-gradient(90deg,#a78bfa,#7c3aed)}
+  .rcard[data-r="South"]{--rg:linear-gradient(90deg,#fb923c,#ea580c)}
+  .rcard[data-r="West"]{--rg:linear-gradient(90deg,#34d399,#0d9488)}
+  .rcard:hover{transform:translateY(-6px) rotate(-.4deg);box-shadow:0 18px 44px rgba(124,58,237,.2)}
+  .rcard.on{border-color:var(--ink);box-shadow:0 0 0 3px var(--ink),0 18px 44px rgba(124,58,237,.22)}
+  .rcard .rn{font-family:"Space Grotesk";font-size:19px;font-weight:700}
+  .rcard .rc{font-family:"Space Grotesk";font-size:42px;font-weight:700;margin:6px 0 2px}
+  .rcard[data-r="Northeast"] .rc{color:#2563eb}.rcard[data-r="Midwest"] .rc{color:#7c3aed}
+  .rcard[data-r="South"] .rc{color:#ea580c}.rcard[data-r="West"] .rc{color:#0d9488}
+  .rcard .rs{color:var(--mut);font-size:12.5px;line-height:1.5}
+  .states{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px;min-height:48px}
+  .spill{cursor:pointer;background:#fff;color:var(--ink);border:2px solid #e9d5ff;
+    padding:10px 18px;border-radius:16px;font-size:14px;font-weight:700;transition:.22s;font-family:Inter;box-shadow:0 3px 10px rgba(124,58,237,.07)}
+  .spill small{margin-left:7px;font-weight:800;background:linear-gradient(92deg,#7c3aed,#db2777);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .spill:hover{transform:translateY(-3px);box-shadow:0 10px 22px rgba(124,58,237,.18)}
+  .spill.on{background:linear-gradient(92deg,#7c3aed,#db2777);color:#fff;border-color:transparent;box-shadow:0 10px 24px rgba(219,39,119,.35)}
+  .spill.on small{color:#fff;-webkit-text-fill-color:#fff;background:none}
+  .spill.dim{opacity:.35}
+  /* ---------- jobs ---------- */
+  .meta{display:flex;align-items:center;gap:14px;margin:26px 0 6px;flex-wrap:wrap}
+  .meta .rescount{color:var(--mut);font-size:14px;font-weight:600}
+  .meta .rescount b{color:#db2777;font-family:"Space Grotesk";font-size:19px}
+  .reset{cursor:pointer;background:#fff;border:2px dashed #f9a8d4;color:#9d174d;
+    padding:9px 18px;border-radius:999px;font-size:13px;font-weight:700;transition:.22s;font-family:Inter}
+  .reset:hover{background:#fdf2f8}
+  .jgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:18px;margin-top:18px}
+  .job{background:#fff;border-radius:22px;padding:24px;display:flex;flex-direction:column;gap:10px;
+    transition:transform .28s,box-shadow .28s;position:relative;overflow:hidden;
+    border:1px solid #f1e8ff;box-shadow:0 8px 26px rgba(124,58,237,.09)}
+  .job::before{content:"";position:absolute;left:0;top:0;bottom:0;width:7px;background:var(--jb,#38bdf8)}
+  .job:hover{transform:translateY(-7px) rotate(.3deg);box-shadow:0 22px 55px rgba(124,58,237,.2)}
+  .job .cat{align-self:flex-start;font-size:11px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;
+    padding:7px 14px;border-radius:999px}
+  .cat.analytics{color:#0369a1;background:#e0f2fe}
+  .cat.engineering{color:#c2410c;background:#ffedd5}
+  .cat.datascience{color:#6d28d9;background:#ede9fe}
+  .cat.aiml{color:#be185d;background:#fce7f3}
+  .job[data-cat="analytics"]{--jb:linear-gradient(180deg,#38bdf8,#0284c7)}
+  .job[data-cat="engineering"]{--jb:linear-gradient(180deg,#fb923c,#ea580c)}
+  .job[data-cat="datascience"]{--jb:linear-gradient(180deg,#a78bfa,#7c3aed)}
+  .job[data-cat="aiml"]{--jb:linear-gradient(180deg,#f472b6,#db2777)}
+  .job h3{font-size:17px;line-height:1.35;color:var(--ink);padding-left:6px}
+  .job .where{color:var(--mut);font-size:13.5px;padding-left:6px}
+  .job .where b{color:var(--ink);font-weight:700}
+  .job .post{color:#a5a5c5;font-size:12px;margin-top:auto;padding-left:6px;font-weight:600}
+  .btnrow{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding-left:6px}
+  .apply{align-self:flex-start;text-decoration:none;font-weight:800;font-size:14px;color:#fff;
+    background:linear-gradient(92deg,#7c3aed,#db2777);padding:12px 24px;border-radius:999px;transition:.22s;display:inline-block;
+    box-shadow:0 8px 20px rgba(219,39,119,.3)}
+  .apply:hover{transform:translateY(-2px) scale(1.03);box-shadow:0 12px 28px rgba(219,39,119,.42)}
+  .apply.na{background:#f1f5f9;color:var(--mut);pointer-events:none;box-shadow:none}
+  .copybtn{cursor:pointer;background:#fff;border:2px solid #e9d5ff;color:#7c3aed;font-size:13px;font-weight:700;
+    padding:10px 18px;border-radius:999px;transition:.22s;font-family:Inter}
+  .copybtn:hover{border-color:#7c3aed;transform:translateY(-2px)}
+  .empty{text-align:center;color:var(--mut);padding:60px 20px;font-size:15px;font-weight:600;display:none;
+    background:#fff;border-radius:22px;border:2px dashed #f9a8d4;margin-top:18px}
+  /* ---------- desktop data table ---------- */
+  .tscroll{overflow-x:auto;margin-top:20px;border-radius:20px;background:#fff;border:1px solid #f1e8ff;
+    box-shadow:0 12px 34px rgba(124,58,237,.1)}
+  table.jobs{width:100%;border-collapse:collapse;min-width:1020px;font-size:14px}
+  table.jobs thead th{position:sticky;top:0;z-index:2;text-align:left;padding:15px 18px;font-size:11.5px;font-weight:800;
+    letter-spacing:1.5px;text-transform:uppercase;color:#7c3aed;background:linear-gradient(180deg,#faf5ff,#f3edff);
+    border-bottom:2px solid #e9d5ff;white-space:nowrap}
+  table.jobs tbody td{padding:15px 18px;border-bottom:1px solid #f6f1ff;vertical-align:middle}
+  table.jobs tbody tr{transition:background .16s}
+  table.jobs tbody tr:hover{background:#fbf7ff}
+  table.jobs tbody tr:last-child td{border-bottom:none}
+  table.jobs tbody tr.is-applied{opacity:.42}
+  .c-title{font-weight:700;color:var(--ink);min-width:220px}
+  .c-date{white-space:nowrap}
+  .dcell{display:inline-block;background:#ede9fe;color:#6d28d9;font-weight:800;font-size:12.5px;
+    padding:6px 13px;border-radius:999px;margin-right:8px}
+  .c-loc{white-space:nowrap;color:var(--mut);font-weight:600}
+  .c-act{white-space:nowrap}
+  .apply.sm{padding:10px 18px;font-size:13px}
+  .copybtn.sm,.appbtn.sm{padding:9px 13px;font-size:13px}
+  .nolink{color:var(--mut);font-size:12.5px;font-weight:600}
+  /* date strip */
+  .dstrip{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:20px 0 4px}
+  .dlab{font-weight:800;font-size:12.5px;letter-spacing:2px;color:var(--mut);text-transform:uppercase}
+  .dpill{cursor:pointer;background:#fff;color:var(--ink);border:2px solid #e9d5ff;
+    padding:10px 18px;border-radius:999px;font-size:13.5px;font-weight:700;transition:.22s;font-family:Inter;
+    box-shadow:0 3px 10px rgba(124,58,237,.07)}
+  .dpill small{color:#db2777;font-weight:800;margin-left:7px}
+  .dpill:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(124,58,237,.18)}
+  .dpill.on{background:linear-gradient(92deg,#ea580c,#db2777);color:#fff;border-color:transparent;box-shadow:0 10px 24px rgba(234,88,12,.3)}
+  .dpill.on small{color:#fff}
+  /* new badge + applied */
+  .toprow{display:flex;gap:8px;align-items:center;justify-content:space-between}
+  .newbadge{background:linear-gradient(92deg,#db2777,#ea580c);color:#fff;font-size:10.5px;font-weight:800;
+    letter-spacing:1.5px;padding:7px 13px;border-radius:999px;box-shadow:0 4px 14px rgba(219,39,119,.4);animation:blink 1.8s infinite}
+  .job.is-applied{opacity:.42;filter:saturate(.35)}
+  .appbtn{cursor:pointer;background:#fff;border:2px solid #e9d5ff;color:#7c3aed;font-size:12.5px;font-weight:700;
+    padding:9px 16px;border-radius:999px;transition:.2s;font-family:Inter}
+  .appbtn:hover{border-color:#7c3aed;transform:translateY(-2px)}
+  .appbtn.done{background:#dcfce7;border-color:#86efac;color:#166534}
+  .note{background:#fffbeb;border:2px solid #fcd34d;border-radius:18px;padding:22px 26px;margin-top:42px;
+    font-size:14px;color:#92400e;line-height:1.7;box-shadow:0 8px 24px rgba(234,179,8,.12)}
+  .note b{color:#78350f}
+  .foot{padding:46px 0 72px;color:var(--mut);font-size:12.5px;line-height:1.8;font-weight:500}
+  .reveal{opacity:0;transform:translateY(30px);transition:opacity .8s ease,transform .8s cubic-bezier(.2,.8,.25,1)}
+  .reveal.in{opacity:1;transform:none}
+</style>
+</head>
+<body>
+<div class="blob" style="width:520px;height:520px;background:#f9a8d4;top:-140px;left:-120px"></div>
+<div class="blob" style="width:480px;height:480px;background:#a5f3fc;bottom:-160px;right:-100px;animation-delay:-7s"></div>
+<div class="blob" style="width:380px;height:380px;background:#fde68a;top:44%;left:58%;animation-delay:-13s;opacity:.35"></div>
+<div class="blob" style="width:340px;height:340px;background:#c4b5fd;top:22%;right:12%;animation-delay:-4s;opacity:.4"></div>
+<canvas id="stars"></canvas>
+
+<header class="hero"><div class="wrap">
+  <span class="kicker"><span class="dot"></span>Universities only · Snapshot Oct 5, 2026</span>
+  <h1>University <span class="grad">data jobs</span>,<br>live board. 🎓</h1>
+  <p>Every open staff posting in <b>data analytics, data engineering, data science and AI/ML</b> at US universities — links go <b>straight to the university's own posting page</b>. Pick a region, pick a state, tap any job. ✨</p>
+  <div class="statrow">
+    <div class="stat" style="--bar:linear-gradient(90deg,#f472b6,#fb923c)"><b><span class="count" data-to="24">0</span></b><span>Open roles</span></div>
+    <div class="stat" style="--bar:linear-gradient(90deg,#a78bfa,#7c3aed)"><b><span class="count" data-to="14">0</span></b><span>Universities</span></div>
+    <div class="stat" style="--bar:linear-gradient(90deg,#38bdf8,#2563eb)"><b><span class="count" data-to="10">0</span></b><span>States</span></div>
+    <div class="stat" style="--bar:linear-gradient(90deg,#34d399,#0d9488)"><b>7 AM</b><span>Daily refresh (ET)</span></div>
+  </div>
+  <span class="updated">✅ Updated Oct 5, 2026 · refreshes every morning 7 AM ET · direct university links only</span>
+</div></header>
+
+<div class="fbar"><div class="wrap" id="catchips"></div></div>
+
+<div class="wrap">
+  <section class="reveal">
+    <span class="kicker"><span class="dot"></span>Step 1 · Region</span>
+    <h2>Pick a <span class="grad">region</span> 🗺️</h2>
+    <p class="sub">Then pick a state to see its postings.</p>
+    <div class="rgrid" id="rgrid"></div>
+    <div class="states" id="states"></div>
+  </section>
+
+  <section class="reveal">
+    <span class="kicker"><span class="dot"></span>Step 2 · Roles</span>
+    <div class="meta">
+      <h2 style="margin:0">Open <span class="grad">roles</span> 💼</h2>
+      <span class="rescount" id="rescount"></span>
+      <button class="reset" id="hideapp">🙈 Hide applied</button>
+      <button class="reset" id="reset">✕ Clear all filters</button>
+      <div class="search"><span>🔍</span><input id="q" placeholder="Search title or university…"></div>
+    </div>
+    <div class="dstrip" id="dstrip"></div>
+    <div class="tscroll"><table class="jobs">
+      <thead><tr>
+        <th>Posted</th><th>Role</th><th>University</th><th>Location</th><th>Category</th><th>Actions</th>
+      </tr></thead>
+      <tbody id="jbody"></tbody>
+    </table></div>
+    <div class="empty" id="empty">No roles match those filters — try clearing them.</div>
+  </section>
+
+  <div class="note">🔍 <b>Heads up:</b> every link opens the university's own posting page directly — no aggregators. Postings shown were listed within the last 7 days. Still, roles can close anytime, so if a link looks stale, check the university's careers portal. For STEM OPT, confirm the university's E-Verify participation <b>per posting</b>.</div>
+
+  <footer class="foot">Curated · Snapshot Oct 5, 2026 · 24 roles · 14 universities · Universities only, no private sector · Refreshes daily at 7 AM ET.</footer>
+</div>
+
+<script>
+const JOBS = [{"category": "analytics", "city": "New York", "posted": "Sep 29 2026", "state": "NY", "title": "Decision Support Research Analyst", "university": "Columbia University", "url": "https://opportunities.columbia.edu/en-US/jobs/decision-support-research-analyst-new-york-united-states", "posted_iso": "2026-09-29"}, {"category": "engineering", "city": "Boston", "posted": "10/5/2026", "state": "MA", "title": "Data Engineer III AI, Automation, & Data Engineering", "university": "Boston University", "url": "https://jobs.silkroad.com/BU/External/jobs/317369", "posted_iso": "2026-10-05"}, {"category": "engineering", "city": "Boston", "posted": "10/5/2026", "state": "MA", "title": "Senior Analytics Engineer AI, Automation, & Data Engineering", "university": "Boston University", "url": "https://jobs.silkroad.com/BU/External/jobs/317371", "posted_iso": "2026-10-05"}, {"category": "engineering", "city": "Boston", "posted": "10/5/2026", "state": "MA", "title": "Senior Data Engineer AI, Automation, & Data Engineering", "university": "Boston University", "url": "https://jobs.silkroad.com/BU/External/jobs/317368", "posted_iso": "2026-10-05"}, {"category": "analytics", "city": "Boston", "posted": "9/29/2026", "state": "MA", "title": "Research Data Analyst I, Clinical, Pathology & Lab Medicine", "university": "Boston University", "url": "https://jobs.silkroad.com/BU/External/jobs/317353", "posted_iso": "2026-09-29"}, {"category": "analytics", "city": "New Brunswick", "posted": "Oct 1, 2026", "state": "NJ", "title": "Data Analyst", "university": "Rutgers University", "url": "https://jobs.rutgers.edu/postings/281854", "posted_iso": "2026-10-01"}, {"category": "analytics", "city": "Piscataway", "posted": "09/28/2026", "state": "NJ", "title": "Oracle Financial Reporting Analyst", "university": "Rutgers University", "url": "https://jobs.rutgers.edu/postings/281577", "posted_iso": "2026-09-28"}, {"category": "engineering", "city": "Princeton", "posted": "Oct 5, 2026", "state": "NJ", "title": "Data Engineer", "university": "Princeton University", "url": "https://main-princeton.icims.com/jobs/22210/data-engineer/job", "posted_iso": "2026-10-05"}, {"category": "analytics", "city": "Austin", "posted": "Sep 30, 2026", "state": "TX", "title": "Epic Business Intelligence Report Developer", "university": "UT Austin", "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Epic-Business-Intelligence-Report-Developer_R_00049141", "posted_iso": "2026-09-30"}, {"category": "aiml", "city": "Austin", "posted": "Sep 30, 2026", "state": "TX", "title": "R&D Data Analysis and Machine Learning Software Engineer (Engineering Scientist Associate)", "university": "UT Austin", "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Data-Analysis-and-Machine-Learning-Software-Engineer--Engineering-Scientist-Associate-_R_00047702", "posted_iso": "2026-09-30"}, {"category": "aiml", "city": "Austin", "posted": "Sep 30, 2026", "state": "TX", "title": "R&D Data Analysis and Machine Learning Software Engineer", "university": "UT Austin", "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Data-Analysis-and-Machine-Learning-Software-Engineer_R_00047743", "posted_iso": "2026-09-30"}, {"category": "analytics", "city": "Chapel Hill", "posted": "Sep 29, 2026", "state": "NC", "title": "Statistical Programmer", "university": "UNC Chapel Hill", "url": "https://unc.peopleadmin.com/postings/326157", "posted_iso": "2026-09-29"}, {"category": "analytics", "city": "College Station", "posted": "Oct 5, 2026", "state": "TX", "title": "Data Analyst \u2013 Athletic Financial Reporting", "university": "Texas A&M", "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Data-Analyst---Athletic-Financial-Reporting_R-097742-1", "posted_iso": "2026-10-05"}, {"category": "analytics", "city": "Stanford", "posted": "Oct 01, 2026", "state": "CA", "title": "SCI OnCore Data Analyst (Remote)", "university": "Stanford", "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/200266?jobId=200266", "posted_iso": "2026-10-01"}, {"category": "engineering", "city": "Stanford", "posted": "Oct 01, 2026", "state": "CA", "title": "Data Engineer (Software Developer 2)", "university": "Stanford", "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201222?jobId=201222", "posted_iso": "2026-10-01"}, {"category": "datascience", "city": "Stanford", "posted": "Sep 30, 2026", "state": "CA", "title": "Data Scientist, RegLab - Stanford Law School", "university": "Stanford", "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201247?jobId=201247", "posted_iso": "2026-09-30"}, {"category": "analytics", "city": "Seattle", "posted": "Oct 02, 2026", "state": "WA", "title": "Senior Cogito Business Analyst 3", "university": "UW Seattle", "url": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/UWHires/job/Seattle-WA/Senior-Cogito-Business-Analyst-3_REQ-0000137769", "posted_iso": "2026-10-02"}, {"category": "analytics", "city": "Los Angeles", "posted": "Oct 05, 2026", "state": "CA", "title": "Research Data Analyst 2", "university": "UCLA", "url": "https://jobs.ucla.edu/jobs/11676", "posted_iso": "2026-10-05"}, {"category": "analytics", "city": "Columbus", "posted": "Sep 29, 2026", "state": "OH", "title": "Senior Data Analytics Specialist", "university": "Ohio State University", "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-Data-Analytics-Specialist_R159236", "posted_iso": "2026-09-29"}, {"category": "analytics", "city": "Urbana", "posted": "Sep 29, 2026", "state": "IL", "title": "Financial Accounting & Reporting Analyst-Hybrid In State", "university": "University of Illinois Urbana-Champaign", "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18149?c=illinois", "posted_iso": "2026-09-29"}, {"title": "Data Scientist, M-Powering Teacher Coaching", "university": "Harvard University", "city": "Cambridge", "state": "MA", "category": "datascience", "url": "https://careers.harvard.edu/job/data-scientist-m-powering-teacher-coaching-in-cambridge-ma-united-states-jid-2262", "posted": "2026-10-01", "posted_iso": "2026-10-01"}, {"title": "AI Solutions Architect", "university": "Harvard University", "city": "Cambridge", "state": "MA", "category": "aiml", "url": "https://careers.harvard.edu/job/ai-solutions-architect-in-cambridge-ma-united-states-jid-2253", "posted": "2026-10-01", "posted_iso": "2026-10-01"}, {"title": "Programmer II", "university": "Harvard University", "city": "Boston", "state": "MA", "category": "analytics", "url": "https://careers.harvard.edu/job/programmer-ii-in-boston-ma-united-states-jid-2280", "posted": "2026-10-05", "posted_iso": "2026-10-05"}, {"title": "Senior Data Scientist - Multiomics and Population Cohorts", "university": "University of Michigan", "city": "Ann Arbor", "state": "MI", "category": "datascience", "url": "https://careers.umich.edu/job_detail/280230/senior-data-scientist-multiomics-and-population-cohorts", "posted": "2026-09-29", "posted_iso": "2026-09-29"}];
+const SNAPSHOT_ISO = "2026-10-05";
+/* newest postings first */
+JOBS.sort((a,b)=>{
+  const x=a.posted_iso||"", y=b.posted_iso||"";
+  return x<y?1:(x>y?-1:(a.title<b.title?-1:1));
+});
+function dlabel(iso){try{return new Date(iso+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"})}catch(e){return iso}}
+function isFresh(iso){if(!iso||!SNAPSHOT_ISO||SNAPSHOT_ISO.indexOf("__")===0)return false;
+  return (new Date(SNAPSHOT_ISO)-new Date(iso))/864e5<=1.5}
+const CATS = {
+  analytics:{label:"Data Analytics", color:"#0284c7"},
+  engineering:{label:"Data Engineering", color:"#ea580c"},
+  datascience:{label:"Data Science", color:"#7c3aed"},
+  aiml:{label:"AI / ML", color:"#db2777"}
+};
+const STATE_NAMES = {AL:"Alabama",CA:"California",CT:"Connecticut",FL:"Florida",IL:"Illinois",LA:"Louisiana",MA:"Massachusetts",MD:"Maryland",MI:"Michigan",MN:"Minnesota",NC:"North Carolina",NJ:"New Jersey",NY:"New York",PA:"Pennsylvania",SC:"South Carolina",TN:"Tennessee",TX:"Texas",VA:"Virginia",WA:"Washington",OH:"Ohio"};
+const REGIONS = {
+  "Northeast":{states:["CT","MA","NJ","NY","PA"]},
+  "Midwest":{states:["IL","MI","MN","OH"]},
+  "South":{states:["AL","FL","LA","MD","NC","SC","TN","TX","VA"]},
+  "West":{states:["CA","WA"]}
+};
+let fCat="all", fRegion=null, fState=null, fQ="", fDate="all", hideApplied=false;
+/* applied tracker (persists in this browser) */
+let applied=new Set();
+try{applied=new Set(JSON.parse(localStorage.getItem("ujobs_applied_v1")||"[]"))}catch(e){}
+function saveApplied(){try{localStorage.setItem("ujobs_applied_v1",JSON.stringify([...applied]))}catch(e){}}
+function jkey(j){return (j.url&&j.url!=="n/a")?j.url:(j.title+"@"+j.university)}
+
+/* confetti particles */
+(function(){const c=document.getElementById("stars"),x=c.getContext("2d");let W,H;const P=[];
+const cols=["#f472b6","#fb923c","#a78bfa","#38bdf8","#34d399","#facc15"];
+function rs(){W=c.width=innerWidth;H=c.height=innerHeight}rs();addEventListener("resize",rs);
+for(let i=0;i<70;i++)P.push({x:Math.random()*innerWidth,y:Math.random()*innerHeight,r:Math.random()*3+1.5,s:Math.random()*.35+.08,o:Math.random()*.5+.25,ph:Math.random()*6.28,c:cols[i%cols.length],sq:Math.random()<.4,rot:Math.random()*6.28});
+(function loop(t){x.clearRect(0,0,W,H);P.forEach(p=>{p.y-=p.s;p.rot+=.004;if(p.y<-6){p.y=H+6;p.x=Math.random()*W}
+x.globalAlpha=p.o*(0.6+0.4*Math.sin(t/900+p.ph));x.fillStyle=p.c;
+if(p.sq){x.save();x.translate(p.x,p.y);x.rotate(p.rot);x.fillRect(-p.r,-p.r,p.r*2,p.r*2);x.restore()}
+else{x.beginPath();x.arc(p.x,p.y,p.r,0,6.28);x.fill()}});x.globalAlpha=1;requestAnimationFrame(loop)})(0)})();
+
+/* counters + reveal */
+function countUp(el){const to=parseFloat(el.dataset.to);if(isNaN(to))return;const t0=performance.now();
+(function s(t){const k=Math.min(1,(t-t0)/1600),e=1-Math.pow(2,-10*k);el.textContent=Math.round(to*e);if(k<1)requestAnimationFrame(s)})(t0)}
+const cio=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){countUp(e.target);cio.unobserve(e.target)}}),{threshold:.4});
+document.querySelectorAll(".count").forEach(el=>cio.observe(el));
+const rio=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");rio.unobserve(e.target)}}),{threshold:.1});
+document.querySelectorAll(".reveal").forEach(el=>rio.observe(el));
+
+/* category chips */
+(function(){
+  const w=document.getElementById("catchips");
+  const counts={};JOBS.forEach(j=>counts[j.category]=(counts[j.category]||0)+1);
+  const mk=(k,label,n)=>`<button class="chip${fCat===k?" on":""}" data-cat="${k}">${label}<small>${n}</small></button>`;
+  w.innerHTML = mk("all","All roles",JOBS.length) + Object.keys(CATS).map(k=>mk(k,CATS[k].label,counts[k]||0)).join("");
+  w.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{fCat=c.dataset.cat;
+    w.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));c.classList.add("on");render()});
+})();
+
+/* regions */
+(function(){
+  const g=document.getElementById("rgrid");
+  const cnt=r=>JOBS.filter(j=>REGIONS[r].states.includes(j.state)).length;
+  g.innerHTML=Object.keys(REGIONS).map(r=>{const st=REGIONS[r].states.filter(s=>JOBS.some(j=>j.state===s));
+    return `<div class="rcard" data-r="${r}"><div class="rn">${r}</div><div class="rc">${cnt(r)}</div>
+    <div class="rs">${st.map(s=>STATE_NAMES[s]).join(" · ")||"—"}</div></div>`}).join("");
+  g.querySelectorAll(".rcard").forEach(c=>c.onclick=()=>{
+    const r=c.dataset.r;
+    if(fRegion===r){fRegion=null;fState=null}else{fRegion=r;fState=null}
+    g.querySelectorAll(".rcard").forEach(x=>x.classList.toggle("on",x.dataset.r===fRegion));
+    renderStates();render();
+  });
+})();
+function renderStates(){
+  const w=document.getElementById("states");
+  if(!fRegion){w.innerHTML=`<span style="color:var(--mut);font-size:13.5px;font-weight:600">Select a region above to browse its states 👆</span>`;return}
+  const sts=REGIONS[fRegion].states.filter(s=>JOBS.some(j=>j.state===s));
+  w.innerHTML=sts.map(s=>{const n=JOBS.filter(j=>j.state===s).length;
+    return `<button class="spill${fState===s?" on":""}" data-s="${s}">${STATE_NAMES[s]}<small>${n}</small></button>`}).join("");
+  w.querySelectorAll(".spill").forEach(b=>b.onclick=()=>{fState=fState===b.dataset.s?null:b.dataset.s;renderStates();render()});
+}
+renderStates();
+
+/* search + reset + hide-applied */
+document.getElementById("q").addEventListener("input",e=>{fQ=e.target.value.toLowerCase();render()});
+document.getElementById("hideapp").onclick=e=>{hideApplied=!hideApplied;
+  e.target.textContent=hideApplied?`👀 Show applied (${applied.size})`:"🙈 Hide applied";render()};
+document.getElementById("reset").onclick=()=>{fCat="all";fRegion=null;fState=null;fQ="";fDate="all";hideApplied=false;
+  document.getElementById("q").value="";
+  document.getElementById("hideapp").textContent="🙈 Hide applied";
+  document.querySelectorAll("#catchips .chip").forEach((x,i)=>x.classList.toggle("on",i===0));
+  document.querySelectorAll(".rcard").forEach(x=>x.classList.remove("on"));renderStates();renderDates();render()};
+
+/* date strip */
+function renderDates(){
+  const w=document.getElementById("dstrip");
+  const dates=[...new Set(JOBS.map(j=>j.posted_iso).filter(Boolean))].sort().reverse();
+  const cnt=d=>JOBS.filter(j=>j.posted_iso===d).length;
+  w.innerHTML=`<span class="dlab">📅 Posted:</span>`+
+    `<button class="dpill${fDate==="all"?" on":""}" data-d="all">All dates</button>`+
+    dates.map(d=>`<button class="dpill${fDate===d?" on":""}" data-d="${d}">${isFresh(d)?"✨ ":""}${dlabel(d)}<small>${cnt(d)}</small></button>`).join("");
+  w.querySelectorAll(".dpill").forEach(b=>b.onclick=()=>{fDate=b.dataset.d;renderDates();render()});
+}
+renderDates();
+
+/* job cards */
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function catMatch(j){return fCat==="all"||j.category===fCat}
+function updateCounts(){
+  document.querySelectorAll(".rcard").forEach(c=>{
+    const n=JOBS.filter(j=>catMatch(j)&&REGIONS[c.dataset.r].states.includes(j.state)).length;
+    c.querySelector(".rc").textContent=n;
+  });
+  document.querySelectorAll(".spill").forEach(b=>{
+    const n=JOBS.filter(j=>catMatch(j)&&j.state===b.dataset.s).length;
+    b.querySelector("small").textContent=n;
+    b.classList.toggle("dim",n===0);
+  });
+}
+function render(){
+  updateCounts();
+  const list=JOBS.filter(j=>
+    (fCat==="all"||j.category===fCat)&&
+    (fDate==="all"||j.posted_iso===fDate)&&
+    (!hideApplied||!applied.has(jkey(j)))&&
+    (!fState||j.state===fState)&&
+    (!fRegion||REGIONS[fRegion].states.includes(j.state))&&
+    (!fQ||(j.title+" "+j.university).toLowerCase().includes(fQ)));
+  let rc=`Showing <b>${list.length}</b> of ${JOBS.length} roles`;
+  if(fState)rc+=` in <b>${STATE_NAMES[fState]}</b>`;else if(fRegion)rc+=` in the <b>${fRegion}</b>`;
+  if(fDate!=="all")rc+=` · posted <b>${dlabel(fDate)}</b>`;
+  document.getElementById("rescount").innerHTML=rc;
+  const g=document.getElementById("jbody");
+  g.innerHTML=list.map(j=>{
+    const k=jkey(j), done=applied.has(k), fresh=isFresh(j.posted_iso);
+    const view=(j.url&&j.url!=="n/a")
+      ? `<a class="apply sm" href="${esc(j.url)}">View ↗</a> <button class="copybtn sm" data-url="${esc(j.url)}" title="Copy link">⧉</button>`
+      : `<span class="nolink">check portal</span>`;
+    return `<tr class="${done?"is-applied":""}">
+      <td class="c-date"><span class="dcell">${j.posted_iso?dlabel(j.posted_iso):"—"}</span>${fresh?'<span class="newbadge">NEW</span>':""}</td>
+      <td class="c-title">${esc(j.title)}</td>
+      <td>${esc(j.university)}</td>
+      <td class="c-loc">${esc(j.city)}, ${j.state}</td>
+      <td><span class="cat ${j.category}">${CATS[j.category].label}</span></td>
+      <td class="c-act"><div class="btnrow">${view}<button class="appbtn sm${done?" done":""}" data-k="${esc(k)}" title="${done?"Applied — tap to undo":"Mark as applied"}">${done?"✓":"○"}</button></div></td>
+    </tr>`}).join("");
+  const emptyEl=document.getElementById("empty");
+  if(list.length){emptyEl.style.display="none"}
+  else{emptyEl.style.display="block";
+    const what=(fCat!=="all"?CATS[fCat].label+" ":"")+(fDate!=="all"?dlabel(fDate)+" ":"")+(fState?STATE_NAMES[fState]+" ":fRegion?fRegion+" ":"");
+    emptyEl.textContent=`No ${what}roles match those filters — try clearing them.`;}
+  g.querySelectorAll(".copybtn").forEach(b=>b.onclick=async()=>{
+    const u=b.dataset.url;
+    let ok=false;
+    try{await navigator.clipboard.writeText(u);ok=true}
+    catch(e){const t=document.createElement("textarea");t.value=u;document.body.appendChild(t);t.select();
+      try{ok=document.execCommand("copy")}catch(_){}t.remove()}
+    b.textContent=ok?"✓ Copied":"Copy failed — long-press the View posting button";
+    setTimeout(()=>b.textContent="⧉ Copy link",1800);
+  });
+  g.querySelectorAll(".appbtn").forEach(b=>b.onclick=()=>{
+    const k=b.dataset.k;
+    applied.has(k)?applied.delete(k):applied.add(k);
+    saveApplied();
+    const hb=document.getElementById("hideapp");
+    if(hideApplied)hb.textContent=`👀 Show applied (${applied.size})`;
+    render();
+  });
+}
+render();
+</script>
+</body>
+</html>
