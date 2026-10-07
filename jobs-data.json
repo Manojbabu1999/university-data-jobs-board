@@ -1,14 +1,5 @@
 [
  {
-  "category": "analytics",
-  "city": "New York",
-  "posted": "Sep 29 2026",
-  "state": "NY",
-  "title": "Decision Support Research Analyst",
-  "university": "Columbia University",
-  "url": "https://opportunities.columbia.edu/en-US/jobs/decision-support-research-analyst-new-york-united-states"
- },
- {
   "category": "engineering",
   "city": "Boston",
   "posted": "10/5/2026",
@@ -34,15 +25,6 @@
   "title": "Senior Data Engineer AI, Automation, & Data Engineering",
   "university": "Boston University",
   "url": "https://jobs.silkroad.com/BU/External/jobs/317368"
- },
- {
-  "category": "analytics",
-  "city": "Boston",
-  "posted": "9/29/2026",
-  "state": "MA",
-  "title": "Research Data Analyst I, Clinical, Pathology & Lab Medicine",
-  "university": "Boston University",
-  "url": "https://jobs.silkroad.com/BU/External/jobs/317353"
  },
  {
   "category": "analytics",
@@ -91,30 +73,12 @@
  },
  {
   "category": "analytics",
-  "city": "Chapel Hill",
-  "posted": "Sep 29, 2026",
-  "state": "NC",
-  "title": "Statistical Programmer",
-  "university": "UNC Chapel Hill",
-  "url": "https://unc.peopleadmin.com/postings/326157"
- },
- {
-  "category": "analytics",
   "city": "College Station",
   "posted": "Oct 5, 2026",
   "state": "TX",
   "title": "Data Analyst – Athletic Financial Reporting",
   "university": "Texas A&M",
   "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Data-Analyst---Athletic-Financial-Reporting_R-097742-1"
- },
- {
-  "category": "analytics",
-  "city": "Stanford",
-  "posted": "Oct 01, 2026",
-  "state": "CA",
-  "title": "SCI OnCore Data Analyst (Remote)",
-  "university": "Stanford",
-  "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/200266?jobId=200266"
  },
  {
   "category": "engineering",
@@ -153,24 +117,6 @@
   "url": "https://jobs.ucla.edu/jobs/11676"
  },
  {
-  "category": "analytics",
-  "city": "Columbus",
-  "posted": "Sep 29, 2026",
-  "state": "OH",
-  "title": "Senior Data Analytics Specialist",
-  "university": "Ohio State University",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-Data-Analytics-Specialist_R159236"
- },
- {
-  "category": "analytics",
-  "city": "Urbana",
-  "posted": "Sep 29, 2026",
-  "state": "IL",
-  "title": "Financial Accounting & Reporting Analyst-Hybrid In State",
-  "university": "University of Illinois Urbana-Champaign",
-  "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18149?c=illinois"
- },
- {
   "title": "Data Scientist, M-Powering Teacher Coaching",
   "university": "Harvard University",
   "city": "Cambridge",
@@ -196,15 +142,6 @@
   "category": "analytics",
   "url": "https://careers.harvard.edu/job/programmer-ii-in-boston-ma-united-states-jid-2280",
   "posted": "2026-10-05"
- },
- {
-  "title": "Senior Data Scientist - Multiomics and Population Cohorts",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "datascience",
-  "url": "https://careers.umich.edu/job_detail/280230/senior-data-scientist-multiomics-and-population-cohorts",
-  "posted": "2026-09-29"
  },
  {
   "title": "AI Computational Scientist – Senior Software Engineer",
@@ -288,24 +225,6 @@
   "posted": "Oct 1, 2026"
  },
  {
-  "title": "Genomic Data Analyst / Statistical Geneticist",
-  "university": "University of Pittsburgh",
-  "city": "Pittsburgh",
-  "state": "PA",
-  "category": "analytics",
-  "url": "https://cfopitt.taleo.net/careersection/pitt_staff_external/jobdetail.ftl?job=26006222&lang=en",
-  "posted": "Sep 29, 2026"
- },
- {
-  "title": "Data & Reporting Specialist",
-  "university": "University of Wisconsin–Madison",
-  "city": "Madison",
-  "state": "WI",
-  "category": "analytics",
-  "url": "https://jobs.wisc.edu/jobs/data-reporting-specialist-madison-wisconsin-united-states",
-  "posted": "Oct 1, 2026 (observed Oct 1, 2026)"
- },
- {
   "title": "Planning and Data Analysis Specialist Senior",
   "university": "Arizona State University",
   "city": "Tempe",
@@ -313,5 +232,32 @@
   "category": "analytics",
   "url": "https://asu.wd1.myworkdayjobs.com/en-US/ASUStaffCareers/job/Campus-Tempe/Planning-and-Data-Analysis-Specialist-Senior_JR127982",
   "posted": "Oct 5, 2026"
+ },
+ {
+  "title": "Business Intelligence Analyst Lead",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/283969/business-intelligence-analyst-lead",
+  "posted": "10/06/2026"
+ },
+ {
+  "title": "Statistician Lead",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/283723/statistician-lead",
+  "posted": "9/30/2026"
+ },
+ {
+  "title": "Data Analyst- School of Medicine, BMI",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "analytics",
+  "url": "https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job",
+  "posted": "Oct 7, 2026 (observed in Emory live feed; no posted date shown)"
  }
 ]
