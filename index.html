@@ -378,7 +378,7 @@ function render(){
   list.forEach(j=>{
     const k=jkey(j), done=applied.has(k), fresh=isFresh(j.posted_iso);
     const day=j.posted_iso||"undated";
-    if(!dateF && day!==lastDay){
+    if(fDate==="all" && day!==lastDay){
       lastDay=day; const n=dayCount[day];
       rows+=`<tr class="daydiv"><td colspan="6">📅 ${day==="undated"?"Undated":dlabel(day)} · ${n} role${n>1?"s":""}</td></tr>`;
     }
