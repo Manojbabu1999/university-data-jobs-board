@@ -48,6 +48,10 @@
   .chip{cursor:pointer;background:#fff;color:var(--ink);border:2px solid #e9d5ff;
     padding:10px 18px;border-radius:999px;font-size:13.5px;font-weight:700;transition:.22s;font-family:Inter;box-shadow:0 3px 10px rgba(124,58,237,.08)}
   .chip small{color:var(--mut);font-weight:600;margin-left:6px}
+  .chip.appchip{border-color:#bbf7d0}
+  .chip.appchip small{color:#16a34a;font-weight:800}
+  .chip.on[data-cat="__applied"]{background:linear-gradient(92deg,#16a34a,#65a30d);color:#fff;border-color:transparent}
+  .chip.on[data-cat="__applied"] small{color:#f0fdf4}
   .chip:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(124,58,237,.18)}
   .chip.on[data-cat="all"]{background:linear-gradient(92deg,#7c3aed,#db2777);color:#fff;border-color:transparent}
   .chip.on[data-cat="all"] small{color:#ffe4f1}
@@ -295,15 +299,21 @@ document.querySelectorAll(".count").forEach(el=>cio.observe(el));
 const rio=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");rio.unobserve(e.target)}}),{threshold:.1});
 document.querySelectorAll(".reveal").forEach(el=>rio.observe(el));
 
-/* category chips */
-(function(){
+/* category chips (incl. ✅ Applied tracker chip next to All roles) */
+function renderCats(){
   const w=document.getElementById("catchips");
   const counts={};JOBS.forEach(j=>counts[j.category]=(counts[j.category]||0)+1);
-  const mk=(k,label,n)=>`<button class="chip${fCat===k?" on":""}" data-cat="${k}">${label}<small>${n}</small></button>`;
-  w.innerHTML = mk("all","All roles",JOBS.length) + Object.keys(CATS).map(k=>mk(k,CATS[k].label,counts[k]||0)).join("");
-  w.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{fCat=c.dataset.cat;
-    w.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));c.classList.add("on");render()});
-})();
+  const mk=(k,label,n,on)=>`<button class="chip${on?" on":""}" data-cat="${k}">${label}<small>${n}</small></button>`;
+  w.innerHTML = mk("all","All roles",JOBS.length,!showApplied&&fCat==="all")
+    + `<button class="chip appchip${showApplied?" on":""}" data-cat="__applied">✅ Applied<small>${applied.size}</small></button>`
+    + Object.keys(CATS).map(k=>mk(k,CATS[k].label,counts[k]||0,!showApplied&&fCat===k)).join("");
+  w.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{
+    if(c.dataset.cat==="__applied"){setShowApplied(!showApplied);return}
+    fCat=c.dataset.cat;setShowApplied(false);
+  });
+}
+function setShowApplied(v){showApplied=v;if(v)hideApplied=false;paintApp();renderCats();render()}
+renderCats();
 
 /* regions */
 (function(){
@@ -337,13 +347,12 @@ function paintApp(){
   s.innerHTML=`✅ Show applied (${applied.size})`;
   h.classList.toggle("on",hideApplied); s.classList.toggle("on",showApplied);
 }
-document.getElementById("hideapp").onclick=()=>{hideApplied=!hideApplied;if(hideApplied)showApplied=false;paintApp();render()};
-document.getElementById("showapp").onclick=()=>{showApplied=!showApplied;if(showApplied)hideApplied=false;paintApp();render()};
+document.getElementById("hideapp").onclick=()=>{hideApplied=!hideApplied;if(hideApplied)showApplied=false;paintApp();renderCats();render()};
+document.getElementById("showapp").onclick=()=>setShowApplied(!showApplied);
 paintApp();
 document.getElementById("reset").onclick=()=>{fCat="all";fRegion=null;fState=null;fQ="";fDate="all";hideApplied=false;showApplied=false;
   document.getElementById("q").value="";
-  paintApp();
-  document.querySelectorAll("#catchips .chip").forEach((x,i)=>x.classList.toggle("on",i===0));
+  paintApp();renderCats();
   document.querySelectorAll(".rcard").forEach(x=>x.classList.remove("on"));renderStates();renderDates();render()};
 
 /* date strip */
@@ -414,7 +423,7 @@ function render(){
   else{emptyEl.style.display="block";
     if(showApplied&&applied.size===0){
       emptyEl.innerHTML=`You haven't marked any roles as applied yet.<br><button class="showall" id="showall2">Browse all ${JOBS.length} roles</button>`;
-      document.getElementById("showall2").onclick=()=>{showApplied=false;paintApp();render()};
+      document.getElementById("showall2").onclick=()=>setShowApplied(false);
     }else{
       const what=(fCat!=="all"?CATS[fCat].label+" ":"")+(fDate!=="all"?dlabel(fDate)+" ":"")+(fState?STATE_NAMES[fState]+" ":fRegion?fRegion+" ":"");
       emptyEl.innerHTML=`No ${what}roles match those filters.<br><button class="showall" id="showall">Show all ${JOBS.length} roles</button>`;
@@ -433,7 +442,7 @@ function render(){
     const k=b.dataset.k;
     applied.has(k)?applied.delete(k):applied.add(k);
     saveApplied();
-    paintApp();
+    paintApp();renderCats();
     render();
   });
 }
