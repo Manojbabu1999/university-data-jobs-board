@@ -129,6 +129,9 @@
   .copybtn:hover{border-color:#7c3aed;transform:translateY(-2px)}
   .empty{text-align:center;color:var(--mut);padding:60px 20px;font-size:15px;font-weight:600;display:none;
     background:#fff;border-radius:22px;border:2px dashed #f9a8d4;margin-top:18px}
+  .showall{margin-top:16px;cursor:pointer;border:none;border-radius:999px;padding:14px 30px;font-size:15px;font-weight:800;
+    color:#fff;background:linear-gradient(92deg,#ea580c,#db2777);box-shadow:0 8px 22px rgba(234,88,12,.35)}
+  .showall:active{transform:scale(.96)}
   /* ---------- desktop data table ---------- */
   .tscroll{overflow-x:auto;margin-top:20px;border-radius:20px;background:#fff;border:1px solid #f1e8ff;
     box-shadow:0 12px 34px rgba(124,58,237,.1)}
@@ -399,7 +402,8 @@ function render(){
   if(list.length){emptyEl.style.display="none"}
   else{emptyEl.style.display="block";
     const what=(fCat!=="all"?CATS[fCat].label+" ":"")+(fDate!=="all"?dlabel(fDate)+" ":"")+(fState?STATE_NAMES[fState]+" ":fRegion?fRegion+" ":"");
-    emptyEl.textContent=`No ${what}roles match those filters — try clearing them.`;}
+    emptyEl.innerHTML=`No ${what}roles match those filters.<br><button class="showall" id="showall">Show all ${JOBS.length} roles</button>`;
+    document.getElementById("showall").onclick=()=>document.getElementById("reset").click();}
   g.querySelectorAll(".copybtn").forEach(b=>b.onclick=async()=>{
     const u=b.dataset.url;
     let ok=false;
