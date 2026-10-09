@@ -150,6 +150,14 @@
   .apply.sm{padding:10px 18px;font-size:13px}
   .copybtn.sm,.appbtn.sm{padding:9px 13px;font-size:13px}
   .nolink{color:var(--mut);font-size:12.5px;font-weight:600}
+  /* ---------- day grouping + entrance animation ---------- */
+  @keyframes rowIn{from{opacity:0;transform:translateY(14px) scale(.995)}to{opacity:1;transform:none}}
+  table.jobs tbody tr{animation:rowIn .5s cubic-bezier(.2,.7,.25,1) both}
+  table.jobs tbody tr.daydiv{animation:rowIn .45s ease both;background:linear-gradient(90deg,#ede9fe,#fce7f3,#e0f2fe)}
+  table.jobs tbody tr.daydiv td{padding:11px 18px;font-size:12.5px;font-weight:800;letter-spacing:1.4px;
+    text-transform:uppercase;color:#6d28d9;border-bottom:2px solid #e9d5ff;white-space:nowrap}
+  .dpill{transition:transform .18s cubic-bezier(.2,.7,.3,1.4),box-shadow .18s}
+  .dpill.on{transform:scale(1.08);box-shadow:0 6px 18px rgba(124,58,237,.35)}
   /* date strip */
   .dstrip{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:20px 0 4px}
   .dlab{font-weight:800;font-size:12.5px;letter-spacing:2px;color:var(--mut);text-transform:uppercase}
@@ -365,19 +373,28 @@ function render(){
   if(fDate!=="all")rc+=` · posted <b>${dlabel(fDate)}</b>`;
   document.getElementById("rescount").innerHTML=rc;
   const g=document.getElementById("jbody");
-  g.innerHTML=list.map(j=>{
+  let rows="",lastDay="@@",ri=0;
+  const dayCount={}; list.forEach(j=>{const d=j.posted_iso||"undated"; dayCount[d]=(dayCount[d]||0)+1;});
+  list.forEach(j=>{
     const k=jkey(j), done=applied.has(k), fresh=isFresh(j.posted_iso);
+    const day=j.posted_iso||"undated";
+    if(!dateF && day!==lastDay){
+      lastDay=day; const n=dayCount[day];
+      rows+=`<tr class="daydiv"><td colspan="6">📅 ${day==="undated"?"Undated":dlabel(day)} · ${n} role${n>1?"s":""}</td></tr>`;
+    }
     const view=(j.url&&j.url!=="n/a")
       ? `<a class="apply sm" href="${esc(j.url)}">View ↗</a> <button class="copybtn sm" data-url="${esc(j.url)}" title="Copy link">⧉</button>`
       : `<span class="nolink">check portal</span>`;
-    return `<tr class="${done?"is-applied":""}">
+    rows+=`<tr class="${done?"is-applied":""}" style="animation-delay:${Math.min(ri*40,700)}ms">
       <td class="c-date"><span class="dcell">${j.posted_iso?dlabel(j.posted_iso):"—"}</span>${fresh?'<span class="newbadge">NEW</span>':""}</td>
       <td class="c-title">${esc(j.title)}</td>
       <td>${esc(j.university)}</td>
       <td class="c-loc">${esc(j.city)}, ${j.state}</td>
       <td><span class="cat ${j.category}">${CATS[j.category].label}</span></td>
       <td class="c-act"><div class="btnrow">${view}<button class="appbtn sm${done?" done":""}" data-k="${esc(k)}" title="${done?"Applied — tap to undo":"Mark as applied"}">${done?"✓":"○"}</button></div></td>
-    </tr>`}).join("");
+    </tr>`; ri++;
+  });
+  g.innerHTML=rows;
   const emptyEl=document.getElementById("empty");
   if(list.length){emptyEl.style.display="none"}
   else{emptyEl.style.display="block";
