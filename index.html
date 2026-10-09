@@ -98,6 +98,8 @@
   .reset{cursor:pointer;background:#fff;border:2px dashed #f9a8d4;color:#9d174d;
     padding:9px 18px;border-radius:999px;font-size:13px;font-weight:700;transition:.22s;font-family:Inter}
   .reset:hover{background:#fdf2f8}
+  .reset.on{background:linear-gradient(92deg,#ea580c,#db2777);color:#fff;border:2px solid transparent;
+    box-shadow:0 8px 22px rgba(234,88,12,.35)}
   .jgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:18px;margin-top:18px}
   .job{background:#fff;border-radius:22px;padding:24px;display:flex;flex-direction:column;gap:10px;
     transition:transform .28s,box-shadow .28s;position:relative;overflow:hidden;
@@ -225,6 +227,7 @@
       <h2 style="margin:0">Open <span class="grad">roles</span> 💼</h2>
       <span class="rescount" id="rescount"></span>
       <button class="reset" id="hideapp">🙈 Hide applied</button>
+      <button class="reset" id="showapp">✅ Show applied</button>
       <button class="reset" id="reset">✕ Clear all filters</button>
       <div class="search"><span>🔍</span><input id="q" placeholder="Search title or university…"></div>
     </div>
@@ -267,7 +270,7 @@ const REGIONS = {
   "South":{states:["AL","FL","LA","MD","NC","SC","TN","TX","VA"]},
   "West":{states:["CA","WA"]}
 };
-let fCat="all", fRegion=null, fState=null, fQ="", fDate="all", hideApplied=false;
+let fCat="all", fRegion=null, fState=null, fQ="", fDate="all", hideApplied=false, showApplied=false;
 /* applied tracker (persists in this browser) */
 let applied=new Set();
 try{applied=new Set(JSON.parse(localStorage.getItem("ujobs_applied_v1")||"[]"))}catch(e){}
@@ -328,11 +331,18 @@ renderStates();
 
 /* search + reset + hide-applied */
 document.getElementById("q").addEventListener("input",e=>{fQ=e.target.value.toLowerCase();render()});
-document.getElementById("hideapp").onclick=e=>{hideApplied=!hideApplied;
-  e.target.textContent=hideApplied?`👀 Show applied (${applied.size})`:"🙈 Hide applied";render()};
-document.getElementById("reset").onclick=()=>{fCat="all";fRegion=null;fState=null;fQ="";fDate="all";hideApplied=false;
+function paintApp(){
+  const h=document.getElementById("hideapp"), s=document.getElementById("showapp");
+  h.innerHTML=hideApplied?`👀 Applied hidden (${applied.size}) — tap to unhide`:`🙈 Hide applied`;
+  s.innerHTML=`✅ Show applied (${applied.size})`;
+  h.classList.toggle("on",hideApplied); s.classList.toggle("on",showApplied);
+}
+document.getElementById("hideapp").onclick=()=>{hideApplied=!hideApplied;if(hideApplied)showApplied=false;paintApp();render()};
+document.getElementById("showapp").onclick=()=>{showApplied=!showApplied;if(showApplied)hideApplied=false;paintApp();render()};
+paintApp();
+document.getElementById("reset").onclick=()=>{fCat="all";fRegion=null;fState=null;fQ="";fDate="all";hideApplied=false;showApplied=false;
   document.getElementById("q").value="";
-  document.getElementById("hideapp").textContent="🙈 Hide applied";
+  paintApp();
   document.querySelectorAll("#catchips .chip").forEach((x,i)=>x.classList.toggle("on",i===0));
   document.querySelectorAll(".rcard").forEach(x=>x.classList.remove("on"));renderStates();renderDates();render()};
 
@@ -368,6 +378,7 @@ function render(){
     (fCat==="all"||j.category===fCat)&&
     (fDate==="all"||j.posted_iso===fDate)&&
     (!hideApplied||!applied.has(jkey(j)))&&
+    (!showApplied||applied.has(jkey(j)))&&
     (!fState||j.state===fState)&&
     (!fRegion||REGIONS[fRegion].states.includes(j.state))&&
     (!fQ||(j.title+" "+j.university).toLowerCase().includes(fQ)));
@@ -401,9 +412,14 @@ function render(){
   const emptyEl=document.getElementById("empty");
   if(list.length){emptyEl.style.display="none"}
   else{emptyEl.style.display="block";
-    const what=(fCat!=="all"?CATS[fCat].label+" ":"")+(fDate!=="all"?dlabel(fDate)+" ":"")+(fState?STATE_NAMES[fState]+" ":fRegion?fRegion+" ":"");
-    emptyEl.innerHTML=`No ${what}roles match those filters.<br><button class="showall" id="showall">Show all ${JOBS.length} roles</button>`;
-    document.getElementById("showall").onclick=()=>document.getElementById("reset").click();}
+    if(showApplied&&applied.size===0){
+      emptyEl.innerHTML=`You haven't marked any roles as applied yet.<br><button class="showall" id="showall2">Browse all ${JOBS.length} roles</button>`;
+      document.getElementById("showall2").onclick=()=>{showApplied=false;paintApp();render()};
+    }else{
+      const what=(fCat!=="all"?CATS[fCat].label+" ":"")+(fDate!=="all"?dlabel(fDate)+" ":"")+(fState?STATE_NAMES[fState]+" ":fRegion?fRegion+" ":"");
+      emptyEl.innerHTML=`No ${what}roles match those filters.<br><button class="showall" id="showall">Show all ${JOBS.length} roles</button>`;
+      document.getElementById("showall").onclick=()=>document.getElementById("reset").click();
+    }}
   g.querySelectorAll(".copybtn").forEach(b=>b.onclick=async()=>{
     const u=b.dataset.url;
     let ok=false;
@@ -417,8 +433,7 @@ function render(){
     const k=b.dataset.k;
     applied.has(k)?applied.delete(k):applied.add(k);
     saveApplied();
-    const hb=document.getElementById("hideapp");
-    if(hideApplied)hb.textContent=`👀 Show applied (${applied.size})`;
+    paintApp();
     render();
   });
 }
