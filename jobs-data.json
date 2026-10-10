@@ -1,84 +1,57 @@
 [
  {
-  "category": "engineering",
-  "city": "Boston",
-  "posted": "10/5/2026",
-  "state": "MA",
-  "title": "Data Engineer III AI, Automation, & Data Engineering",
-  "university": "Boston University",
-  "url": "https://jobs.silkroad.com/BU/External/jobs/317369"
- },
- {
-  "category": "engineering",
-  "city": "Boston",
-  "posted": "10/5/2026",
-  "state": "MA",
-  "title": "Senior Analytics Engineer AI, Automation, & Data Engineering",
-  "university": "Boston University",
-  "url": "https://jobs.silkroad.com/BU/External/jobs/317371"
- },
- {
-  "category": "engineering",
-  "city": "Boston",
-  "posted": "10/5/2026",
-  "state": "MA",
-  "title": "Senior Data Engineer AI, Automation, & Data Engineering",
-  "university": "Boston University",
-  "url": "https://jobs.silkroad.com/BU/External/jobs/317368"
- },
- {
-  "category": "engineering",
-  "city": "Princeton",
-  "posted": "Oct 5, 2026",
-  "state": "NJ",
-  "title": "Data Engineer",
-  "university": "Princeton University",
-  "url": "https://main-princeton.icims.com/jobs/22210/data-engineer/job"
- },
- {
+  "title": "Research Informatics Analyst School of Medicine Brain Health",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
   "category": "analytics",
-  "city": "Seattle",
-  "posted": "Oct 02, 2026",
-  "state": "WA",
-  "title": "Senior Cogito Business Analyst 3",
-  "university": "UW Seattle",
-  "url": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/UWHires/job/Seattle-WA/Senior-Cogito-Business-Analyst-3_REQ-0000137769"
+  "url": "https://staff-emory.icims.com/jobs/174109/research-informatics-analyst-school-of-medicine-brain-health/job",
+  "posted": "Oct 10, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)"
  },
  {
+  "title": "Data Analyst, Senior- Winship Cancer Institute",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
   "category": "analytics",
-  "city": "Los Angeles",
-  "posted": "Oct 05, 2026",
-  "state": "CA",
-  "title": "Research Data Analyst 2",
-  "university": "UCLA",
-  "url": "https://jobs.ucla.edu/jobs/11676"
+  "url": "https://staff-emory.icims.com/jobs/174883/data-analyst%2c-senior--winship-cancer-institute/job",
+  "posted": "Oct 10, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)"
  },
  {
+  "title": "AI Scientist/Engineer II- School of Medicine, BMI",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "aiml",
+  "url": "https://staff-emory.icims.com/jobs/170568/ai-scientist-engineer-ii--school-of-medicine%2c-bmi/job",
+  "posted": "Oct 10, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)"
+ },
+ {
+  "title": "Data Engineer II (School of Medicine)",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "engineering",
+  "url": "https://staff-emory.icims.com/jobs/173883/data-engineer-ii-%28school-of-medicine%29/job",
+  "posted": "Oct 10, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)"
+ },
+ {
+  "title": "Senior Data Analyst, CHAMPS Network Program - The Task Force for Global Health",
+  "university": "Emory University",
+  "city": "Decatur",
+  "state": "GA",
   "category": "analytics",
-  "city": "Boston",
-  "posted": "2026-10-05",
-  "state": "MA",
-  "title": "Programmer II",
-  "university": "Harvard University",
-  "url": "https://careers.harvard.edu/job/programmer-ii-in-boston-ma-united-states-jid-2280"
+  "url": "https://staff-emory.icims.com/jobs/173773/senior-data-analyst%2c-champs-network-program---the-task-force-for-global-health/job",
+  "posted": "Oct 10, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)"
  },
  {
-  "category": "datascience",
-  "city": "Durham",
-  "posted": "Oct 6, 2026",
-  "state": "NC",
-  "title": "Quantitative Associate",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Quantitative-Associate-NC-27710/1390904000/"
- },
- {
-  "category": "analytics",
-  "city": "Ann Arbor",
-  "posted": "10/06/2026",
-  "state": "MI",
-  "title": "Business Intelligence Analyst Lead",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/283969/business-intelligence-analyst-lead"
+  "title": "AI Scientist/Engineer II - School of Medicine, Biomedical Engineering",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "aiml",
+  "url": "https://staff-emory.icims.com/jobs/174172/ai-scientist-engineer-ii---school-of-medicine%2c-biomedical-engineering/job",
+  "posted": "Oct 10, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)"
  },
  {
   "category": "analytics",
@@ -88,15 +61,6 @@
   "title": "Data Analyst- School of Medicine, BMI",
   "university": "Emory University",
   "url": "https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job"
- },
- {
-  "category": "datascience",
-  "city": "Chapel Hill",
-  "posted": "10/06/2026",
-  "state": "NC",
-  "title": "Bioinformatics Analyst",
-  "university": "UNC Chapel Hill",
-  "url": "https://unc.peopleadmin.com/postings/326594"
  },
  {
   "category": "analytics",
@@ -135,6 +99,24 @@
   "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Weather-&-Earth-Systems-MA-02420/1435374500/"
  },
  {
+  "title": "Financial or Business Analyst Senior/Intermediate",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/284170",
+  "posted": "10/09/2026"
+ },
+ {
+  "title": "Senior Data Engineer",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "engineering",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Senior-Data-Engineer_R_00049321",
+  "posted": "Oct 8, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
   "category": "datascience",
   "city": "Ann Arbor",
   "posted": "10/07/2026",
@@ -144,6 +126,105 @@
   "url": "https://careers.umich.edu/job_detail/284091/statistician-senior"
  },
  {
+  "title": "Principal Data Analyst",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "analytics",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Principal-Data-Analyst_R_00049027",
+  "posted": "Oct 7, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "Software and Data Engineer",
+  "university": "University of Maryland",
+  "city": "College Park",
+  "state": "MD",
+  "category": "engineering",
+  "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/University-of-Maryland-College-Park/Software-and-Data-Engineer_JR105146",
+  "posted": "Oct 7, 2026 (from UMD's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "category": "datascience",
+  "city": "Durham",
+  "posted": "Oct 6, 2026",
+  "state": "NC",
+  "title": "Quantitative Associate",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Quantitative-Associate-NC-27710/1390904000/"
+ },
+ {
+  "category": "analytics",
+  "city": "Ann Arbor",
+  "posted": "10/06/2026",
+  "state": "MI",
+  "title": "Business Intelligence Analyst Lead",
+  "university": "University of Michigan",
+  "url": "https://careers.umich.edu/job_detail/283969/business-intelligence-analyst-lead"
+ },
+ {
+  "category": "datascience",
+  "city": "Chapel Hill",
+  "posted": "10/06/2026",
+  "state": "NC",
+  "title": "Bioinformatics Analyst",
+  "university": "UNC Chapel Hill",
+  "url": "https://unc.peopleadmin.com/postings/326594"
+ },
+ {
+  "category": "engineering",
+  "city": "Boston",
+  "posted": "10/5/2026",
+  "state": "MA",
+  "title": "Data Engineer III AI, Automation, & Data Engineering",
+  "university": "Boston University",
+  "url": "https://jobs.silkroad.com/BU/External/jobs/317369"
+ },
+ {
+  "category": "engineering",
+  "city": "Boston",
+  "posted": "10/5/2026",
+  "state": "MA",
+  "title": "Senior Analytics Engineer AI, Automation, & Data Engineering",
+  "university": "Boston University",
+  "url": "https://jobs.silkroad.com/BU/External/jobs/317371"
+ },
+ {
+  "category": "engineering",
+  "city": "Boston",
+  "posted": "10/5/2026",
+  "state": "MA",
+  "title": "Senior Data Engineer AI, Automation, & Data Engineering",
+  "university": "Boston University",
+  "url": "https://jobs.silkroad.com/BU/External/jobs/317368"
+ },
+ {
+  "category": "engineering",
+  "city": "Princeton",
+  "posted": "Oct 5, 2026",
+  "state": "NJ",
+  "title": "Data Engineer",
+  "university": "Princeton University",
+  "url": "https://main-princeton.icims.com/jobs/22210/data-engineer/job"
+ },
+ {
+  "category": "analytics",
+  "city": "Los Angeles",
+  "posted": "Oct 05, 2026",
+  "state": "CA",
+  "title": "Research Data Analyst 2",
+  "university": "UCLA",
+  "url": "https://jobs.ucla.edu/jobs/11676"
+ },
+ {
+  "category": "analytics",
+  "city": "Boston",
+  "posted": "2026-10-05",
+  "state": "MA",
+  "title": "Programmer II",
+  "university": "Harvard University",
+  "url": "https://careers.harvard.edu/job/programmer-ii-in-boston-ma-united-states-jid-2280"
+ },
+ {
   "category": "datascience",
   "city": "Ann Arbor",
   "posted": "10/05/2026",
@@ -151,6 +232,24 @@
   "title": "Bioinfo-Comput Biologist Sr",
   "university": "University of Michigan",
   "url": "https://careers.umich.edu/job_detail/283419/bioinfo-comput-biologist-sr"
+ },
+ {
+  "title": "Business Systems Analyst - Senior / Intermediate",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/283732",
+  "posted": "10/05/2026"
+ },
+ {
+  "category": "analytics",
+  "city": "Seattle",
+  "posted": "Oct 02, 2026",
+  "state": "WA",
+  "title": "Senior Cogito Business Analyst 3",
+  "university": "UW Seattle",
+  "url": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/UWHires/job/Seattle-WA/Senior-Cogito-Business-Analyst-3_REQ-0000137769"
  },
  {
   "category": "analytics",
@@ -169,15 +268,6 @@
   "title": "Data Engineer (Software Developer 2)",
   "university": "Stanford",
   "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201222?jobId=201222"
- },
- {
-  "category": "datascience",
-  "city": "Cambridge",
-  "posted": "2026-10-01",
-  "state": "MA",
-  "title": "Data Scientist, M-Powering Teacher Coaching",
-  "university": "Harvard University",
-  "url": "https://careers.harvard.edu/job/data-scientist-m-powering-teacher-coaching-in-cambridge-ma-united-states-jid-2262"
  },
  {
   "category": "aiml",
@@ -205,5 +295,41 @@
   "title": "Research Analyst",
   "university": "University of Kentucky",
   "url": "https://ukjobs.uky.edu/postings/650540"
+ },
+ {
+  "title": "R&D Data Analysis and Machine Learning Software Engineer",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "aiml",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Data-Analysis-and-Machine-Learning-Software-Engineer_R_00047743",
+  "posted": "Sep 30, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "R&D Data Analysis and Machine Learning Software Engineer (Engineering Scientist Associate)",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "aiml",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Data-Analysis-and-Machine-Learning-Software-Engineer--Engineering-Scientist-Associate-_R_00047702",
+  "posted": "Sep 30, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "Computational Linguist",
+  "university": "University of Maryland",
+  "city": "College Park",
+  "state": "MD",
+  "category": "aiml",
+  "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/University-of-Maryland-College-Park/Computational-Linguist_JR105038",
+  "posted": "Sep 28, 2026 (from UMD's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "AI Solutions Developer",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "aiml",
+  "url": "https://careers.umich.edu/job_detail/283639",
+  "posted": "9/28/2026"
  }
 ]
