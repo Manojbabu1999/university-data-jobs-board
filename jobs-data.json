@@ -83,7 +83,7 @@
  {
   "category": "engineering",
   "city": "Lexington",
-  "posted": "Oct 9, 2026 (observed live on MIT portal; no posted date shown)",
+  "posted": "Oct 11, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "Software/Data Engineer",
   "university": "MIT",
@@ -92,7 +92,7 @@
  {
   "category": "aiml",
   "city": "Lexington",
-  "posted": "Oct 9, 2026 (observed live on MIT portal; no posted date shown)",
+  "posted": "Oct 11, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Weather & Earth Systems",
   "university": "MIT",
@@ -331,5 +331,95 @@
   "category": "aiml",
   "url": "https://careers.umich.edu/job_detail/283639",
   "posted": "9/28/2026"
+ },
+ {
+  "title": "AI/ML Engineer - Assistant Staff",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Assistant-Staff-MA-02420/1433079500/",
+  "posted": "Oct 11, 2026 (observed live on careers.ll.mit.edu; no posted date shown)"
+ },
+ {
+  "title": "AI/ML Engineer - Technical Staff",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Technical-Staff-MA-02420/1433078400/",
+  "posted": "Oct 11, 2026 (observed live on careers.ll.mit.edu; no posted date shown)"
+ },
+ {
+  "title": "AI/ML Engineer - Associate Staff",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-Associate-Staff-MA-02420/1433080800/",
+  "posted": "Oct 11, 2026 (observed live on careers.ll.mit.edu; no posted date shown)"
+ },
+ {
+  "title": "Statistician Lead",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/283723/statistician-lead",
+  "posted": "9/30/2026"
+ },
+ {
+  "title": "Senior Data Scientist - Multiomics and Population Cohorts",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "datascience",
+  "url": "https://careers.umich.edu/job_detail/280230",
+  "posted": "9/29/2026"
+ },
+ {
+  "title": "Financial Analyst Senior - Medical School Finance Team",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/283587",
+  "posted": "9/28/2026"
+ },
+ {
+  "title": "AI Computational Scientist \u2013 Senior Software Engineer",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "aiml",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/AI-Computational-Scientist---Senior-Software-Engineer_R_00049221",
+  "posted": "Oct 5, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "Research Engineering/ Scientist Assistant - Deep Learning for Structural Biology",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "aiml",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering--Scientist-Assistant---Deep-Learning-for-Structural-Biology_R_00049213",
+  "posted": "Oct 6, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "Research Engineering/ Scientist Assistant - Computational Biology and Protein Modeling",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "datascience",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering--Scientist-Assitant---Computational-Biology-and-Protein-Modeling_R_00049223",
+  "posted": "Oct 6, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
+ },
+ {
+  "title": "Lead Informaticist",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "analytics",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Lead-Informaticist_R_00048869",
+  "posted": "Sep 30, 2026 (from UT's own Workday CXS feed; detail page bot-walled)"
  }
 ]
