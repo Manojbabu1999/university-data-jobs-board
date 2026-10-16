@@ -3,7 +3,7 @@
   "category": "engineering",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "Software/Data Engineer",
   "university": "MIT",
@@ -13,7 +13,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Weather & Earth Systems",
   "university": "MIT",
@@ -23,7 +23,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Assistant Staff",
   "university": "MIT",
@@ -33,7 +33,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Technical Staff",
   "university": "MIT",
@@ -43,7 +43,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Associate Staff",
   "university": "MIT",
@@ -53,7 +53,7 @@
   "category": "datascience",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "Data Scientist (Associate Staff)",
   "university": "MIT",
@@ -63,11 +63,21 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 15, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
   "state": "MA",
   "title": "Machine Learning Developer",
   "university": "MIT",
   "url": "https://careers.ll.mit.edu/job/Lexington-Machine-Learning-Developer-MA-02420/1427619200/"
+ },
+ {
+  "category": "aiml",
+  "city": "Fort Meade",
+  "eligibility_note": "US citizenship required",
+  "posted": "Oct 16, 2026 (observed live on careers.ll.mit.edu; no posted date shown; listing requires current active TS/SCI clearance at application, on-site Ft Meade)",
+  "state": "MD",
+  "title": "AI/ML Research Scientist",
+  "university": "MIT",
+  "url": "https://careers.ll.mit.edu/job/Ft-Meade-AIML-Research-Scientist-MD-20755/1386365900/"
  },
  {
   "category": "engineering",
@@ -79,18 +89,9 @@
   "url": "https://jobs.silkroad.com/BU/External/jobs/317371"
  },
  {
-  "category": "aiml",
-  "city": "Cambridge",
-  "posted": "2026-10-01",
-  "state": "MA",
-  "title": "AI Solutions Architect",
-  "university": "Harvard University",
-  "url": "https://careers.harvard.edu/job/ai-solutions-architect-in-cambridge-ma-united-states-jid-2253"
- },
- {
   "category": "analytics",
   "city": "Boston",
-  "posted": "Oct 9, 2026 (page 'Posting date'; Term Appointment: No)",
+  "posted": "Oct 15, 2026 (page 'Published'; re-posted today)",
   "state": "MA",
   "title": "Director, Data & Technology, Alumni Engagement and Development",
   "university": "Harvard University",
@@ -98,35 +99,26 @@
  },
  {
   "category": "analytics",
-  "city": "New Brunswick",
-  "posted": "Oct 1, 2026",
-  "state": "NJ",
-  "title": "Data Analyst",
-  "university": "Rutgers University",
-  "url": "https://jobs.rutgers.edu/postings/281854"
+  "city": "New York",
+  "posted": "Oct 9, 2026 (page 'Published')",
+  "state": "NY",
+  "title": "Senior Procure to Pay Data Analyst",
+  "university": "NYU",
+  "url": "https://uscareers-nyu.icims.com/jobs/16219/senior-procure-to-pay-data-analyst/job"
  },
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Research Informatics Analyst School of Medicine Brain Health",
   "university": "Emory University",
   "url": "https://staff-emory.icims.com/jobs/174109/research-informatics-analyst-school-of-medicine-brain-health/job"
  },
  {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Data Analyst, Senior- Winship Cancer Institute",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174883/data-analyst%2c-senior--winship-cancer-institute/job"
- },
- {
   "category": "aiml",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "AI Scientist/Engineer II- School of Medicine, BMI",
   "university": "Emory University",
@@ -135,7 +127,7 @@
  {
   "category": "engineering",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Data Engineer II (School of Medicine)",
   "university": "Emory University",
@@ -144,7 +136,7 @@
  {
   "category": "analytics",
   "city": "Decatur",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Senior Data Analyst, CHAMPS Network Program - The Task Force for Global Health",
   "university": "Emory University",
@@ -153,7 +145,7 @@
  {
   "category": "aiml",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "AI Scientist/Engineer II - School of Medicine, Biomedical Engineering",
   "university": "Emory University",
@@ -162,7 +154,7 @@
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Data Analyst- School of Medicine, BMI",
   "university": "Emory University",
@@ -171,7 +163,7 @@
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Lead Research Informatics Analyst - School of Nursing - Office of Nursing Research",
   "university": "Emory University",
@@ -180,7 +172,7 @@
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Data Analyst - School of Medicine Ophthalmology Eagle Eye Suite",
   "university": "Emory University",
@@ -189,7 +181,7 @@
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Sr. Research Informatics Data Specialist - OIT",
   "university": "Emory University",
@@ -198,7 +190,7 @@
  {
   "category": "datascience",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Associate Scientist Bioinformatics - School of Medicine Orthopaedics",
   "university": "Emory University",
@@ -207,7 +199,7 @@
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Director for Accounting, Data Analytics and Business Intelligence - School of Medicine",
   "university": "Emory University",
@@ -216,7 +208,7 @@
  {
   "category": "datascience",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Assistant Scientist, Bioinformatics- School of Medicine, BMI",
   "university": "Emory University",
@@ -225,7 +217,7 @@
  {
   "category": "analytics",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Senior Data Analyst - School of Medicine, Pediatrics, HemThrom",
   "university": "Emory University",
@@ -234,7 +226,7 @@
  {
   "category": "datascience",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Senior Biostatistician - Office of Nursing Research - School of Nursing",
   "university": "Emory University",
@@ -243,7 +235,7 @@
  {
   "category": "datascience",
   "city": "Atlanta",
-  "posted": "Oct 15, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "posted": "Oct 16, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
   "state": "GA",
   "title": "Associate Director, Biostatistics - School of Medicine, Pediatrics, Innovation Research",
   "university": "Emory University",
@@ -252,7 +244,7 @@
  {
   "category": "engineering",
   "city": "Austin",
-  "posted": "Oct 8, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
+  "posted": "Oct 8, 2026 (published date on UT's own Workday posting; detail page rendered live today)",
   "state": "TX",
   "title": "Senior Data Engineer",
   "university": "UT Austin",
@@ -261,43 +253,16 @@
  {
   "category": "aiml",
   "city": "Austin",
-  "posted": "Oct 5, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
+  "posted": "Oct 5, 2026 (published date on UT's own Workday posting; detail page rendered live today)",
   "state": "TX",
   "title": "AI Computational Scientist – Senior Software Engineer",
   "university": "UT Austin",
   "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/AI-Computational-Scientist---Senior-Software-Engineer_R_00049221"
  },
  {
-  "category": "aiml",
-  "city": "Austin",
-  "posted": "Oct 6, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
-  "state": "TX",
-  "title": "Research Engineering/ Scientist Assistant - Deep Learning for Structural Biology",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering--Scientist-Assistant---Deep-Learning-for-Structural-Biology_R_00049213"
- },
- {
   "category": "datascience",
   "city": "Austin",
-  "posted": "Oct 6, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
-  "state": "TX",
-  "title": "Research Engineering/ Scientist Assistant - Computational Biology and Protein Modeling",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Research-Engineering--Scientist-Assitant---Computational-Biology-and-Protein-Modeling_R_00049223"
- },
- {
-  "category": "datascience",
-  "city": "Austin",
-  "posted": "Oct 12, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
-  "state": "TX",
-  "title": "Biostatistician",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Biostatistician_R_00049356"
- },
- {
-  "category": "datascience",
-  "city": "Austin",
-  "posted": "Oct 13, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
+  "posted": "Oct 13, 2026 (published date on UT's own Workday posting; detail page rendered live today)",
   "state": "TX",
   "title": "Biostatistician I",
   "university": "UT Austin",
@@ -306,7 +271,7 @@
  {
   "category": "analytics",
   "city": "Austin",
-  "posted": "Oct 13, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
+  "posted": "Oct 13, 2026 (published date on UT's own Workday posting; detail page rendered live today)",
   "state": "TX",
   "title": "Senior Data Analyst",
   "university": "UT Austin",
@@ -315,7 +280,7 @@
  {
   "category": "engineering",
   "city": "College Park",
-  "posted": "Oct 7, 2026 (from UMD's own Workday CXS feed; detail page bot-walled)",
+  "posted": "Oct 7, 2026 (from UMD's own Workday CXS feed: 'Posted 9 Days Ago')",
   "state": "MD",
   "title": "Software and Data Engineer",
   "university": "University of Maryland",
@@ -349,27 +314,9 @@
   "url": "https://unc.peopleadmin.com/postings/326594"
  },
  {
-  "category": "datascience",
-  "city": "Chapel Hill",
-  "posted": "10/01/2026",
-  "state": "NC",
-  "title": "Research Associate",
-  "university": "UNC Chapel Hill",
-  "url": "https://unc.peopleadmin.com/postings/326378"
- },
- {
-  "category": "datascience",
-  "city": "Lexington",
-  "posted": "10/01/2026",
-  "state": "KY",
-  "title": "Research Analyst",
-  "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/650540"
- },
- {
   "category": "analytics",
   "city": "Lexington",
-  "posted": "Oct 12, 2026 (UK's own PeopleAdmin Atom feed)",
+  "posted": "10/12/2026",
   "state": "KY",
   "title": "Data Analyst II",
   "university": "University of Kentucky",
@@ -378,7 +325,7 @@
  {
   "category": "analytics",
   "city": "Lexington",
-  "posted": "Oct 12, 2026 (UK's own PeopleAdmin Atom feed)",
+  "posted": "10/12/2026",
   "state": "KY",
   "title": "Performance Analyst Principal/UKHC",
   "university": "University of Kentucky",
@@ -387,20 +334,11 @@
  {
   "category": "analytics",
   "city": "Lexington",
-  "posted": "Oct 12, 2026 (UK's own PeopleAdmin Atom feed)",
+  "posted": "10/12/2026",
   "state": "KY",
   "title": "Performance Analyst Principal/UKHC",
   "university": "University of Kentucky",
   "url": "https://ukjobs.uky.edu/postings/651689"
- },
- {
-  "category": "aiml",
-  "city": "Austin",
-  "posted": "Oct 14, 2026 (from UT's own Workday CXS feed; detail page bot-walled)",
-  "state": "TX",
-  "title": "AI Engineer",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/AI-Engineer_R_00049413"
  },
  {
   "category": "analytics",
@@ -432,20 +370,20 @@
  {
   "category": "analytics",
   "city": "Ann Arbor",
-  "posted": "10/05/2026",
-  "state": "MI",
-  "title": "Business Systems Analyst - Senior / Intermediate",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/283732"
- },
- {
-  "category": "analytics",
-  "city": "Ann Arbor",
   "posted": "10/13/2026",
   "state": "MI",
   "title": "Business Intelligence/Data Analyst (Hybrid)",
   "university": "University of Michigan",
   "url": "https://careers.umich.edu/job_detail/284245/business-intelligencedata-analyst-hybrid"
+ },
+ {
+  "category": "analytics",
+  "city": "Ann Arbor",
+  "posted": "10/14/2026",
+  "state": "MI",
+  "title": "Health Data Analyst",
+  "university": "University of Michigan",
+  "url": "https://careers.umich.edu/job_detail/284377"
  },
  {
   "category": "analytics",
@@ -466,24 +404,6 @@
   "url": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/UWHires/job/Seattle-WA/Senior-Cogito-Business-Analyst-3_REQ-0000137769"
  },
  {
-  "category": "engineering",
-  "city": "Stanford",
-  "posted": "Oct 01, 2026",
-  "state": "CA",
-  "title": "Data Engineer (Software Developer 2)",
-  "university": "Stanford",
-  "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201222?jobId=201222"
- },
- {
-  "category": "analytics",
-  "city": "Ann Arbor",
-  "posted": "10/14/2026",
-  "state": "MI",
-  "title": "Health Data Analyst",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/284377"
- },
- {
   "category": "analytics",
   "city": "Stanford",
   "posted": "Oct 05, 2026",
@@ -502,12 +422,12 @@
   "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201338?jobId=201338"
  },
  {
-  "title": "Senior Procure to Pay Data Analyst",
-  "university": "NYU",
-  "city": "New York",
-  "state": "NY",
-  "category": "analytics",
-  "url": "https://uscareers-nyu.icims.com/jobs/16219/senior-procure-to-pay-data-analyst/job",
-  "posted": "Oct 9, 2026 (page 'Published' date; $110-130K NYC pay transparency range)"
+  "category": "aiml",
+  "city": "Austin",
+  "posted": "Oct 14, 2026 (detail page verified live; Position Duration: Expected to Continue, 40h/wk, Dell Medical School)",
+  "state": "TX",
+  "title": "AI Engineer",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/AI-Engineer_R_00049413"
  }
 ]
