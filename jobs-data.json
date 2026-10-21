@@ -20,15 +20,6 @@
  {
   "category": "analytics",
   "city": "Ann Arbor",
-  "posted": "10/06/2026",
-  "state": "MI",
-  "title": "Business Intelligence Analyst Lead",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/283969/business-intelligence-analyst-lead"
- },
- {
-  "category": "analytics",
-  "city": "Ann Arbor",
   "eligibility_note": "Applicants will not be sponsored for work visas",
   "posted": "10/13/2026",
   "state": "MI",
@@ -74,58 +65,13 @@
   "url": "https://careers.umich.edu/job_detail/284556"
  },
  {
-  "category": "analytics",
-  "city": "East Lansing",
-  "posted": "Oct 7, 2026",
+  "category": "engineering",
+  "city": "Ann Arbor",
+  "posted": "Oct 14, 2026 (inferred: sequential ID 284416 between 10/14 posting 284377 and 10/16 posting 284521; no posted date shown on page)",
   "state": "MI",
-  "title": "HR Data Analyst I - Time and Payroll / Business Applications Analyst I",
-  "university": "Michigan State",
-  "url": "https://careers.msu.edu/jobs/hr-data-analyst-i-time-and-payroll-business-applications-analyst-i-east-lansing-michigan-united-states"
- },
- {
-  "category": "analytics",
-  "city": "East Lansing",
-  "posted": "Oct 7, 2026",
-  "state": "MI",
-  "title": "HR Data Analyst II - OMPA / Business Applications Analyst II",
-  "university": "Michigan State",
-  "url": "https://careers.msu.edu/jobs/hr-data-analyst-ii-ompa-business-applications-analyst-ii-east-lansing-michigan-united-states"
- },
- {
-  "category": "analytics",
-  "city": "East Lansing",
-  "posted": "Oct 7, 2026",
-  "state": "MI",
-  "title": "HR Data Analyst I - OMPA / Business Applications Analyst I",
-  "university": "Michigan State",
-  "url": "https://careers.msu.edu/jobs/hr-data-analyst-i-ompa-business-applications-analyst-i-east-lansing-michigan-united-states"
- },
- {
-  "category": "analytics",
-  "city": "East Lansing",
-  "posted": "Oct 7, 2026",
-  "state": "MI",
-  "title": "HR Data Analyst II - Time and Payroll / Business Applications Analyst II",
-  "university": "Michigan State",
-  "url": "https://careers.msu.edu/jobs/hr-data-analyst-ii-time-and-payroll-business-applications-analyst-ii-east-lansing-michigan-united-states"
- },
- {
-  "category": "analytics",
-  "city": "East Lansing",
-  "posted": "Oct 7, 2026",
-  "state": "MI",
-  "title": "HR Business Intelligence Analyst I / Business Applications Analyst I",
-  "university": "Michigan State",
-  "url": "https://careers.msu.edu/jobs/hr-business-intelligence-analyst-i-business-applications-analyst-i-east-lansing-michigan-united-states"
- },
- {
-  "category": "analytics",
-  "city": "East Lansing",
-  "posted": "Oct 7, 2026",
-  "state": "MI",
-  "title": "HR Business Intelligence Analyst II / Business Applications Analyst II",
-  "university": "Michigan State",
-  "url": "https://careers.msu.edu/jobs/hr-business-intelligence-analyst-ii-business-applications-analyst-ii-east-lansing-michigan-united-states"
+  "title": "Database Analyst/Programmer Senior",
+  "university": "University of Michigan",
+  "url": "https://careers.umich.edu/job_detail/284416/database-analystprogrammer-senior"
  },
  {
   "category": "analytics",
@@ -148,6 +94,15 @@
  },
  {
   "category": "analytics",
+  "city": "Columbus",
+  "posted": "Oct 9, 2026 (Published date on OSU Workday posting)",
+  "state": "OH",
+  "title": "Senior Reporting and Analytics Analyst - Government Resource Center",
+  "university": "Ohio State",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Senior-Reporting-and-Analytics-Analyst---Government-Resource-Center_R160582-1"
+ },
+ {
+  "category": "analytics",
   "city": "Chicago",
   "posted": "Oct 9, 2026",
   "state": "IL",
@@ -158,424 +113,11 @@
  {
   "category": "analytics",
   "city": "Urbana",
-  "posted": "10/15/2026 (live browser 10/20: title + posted date confirmed; 100% full-time Civil Service, Apply Now active, closes Nov 5, 2026)",
+  "posted": "10/15/2026 (live browser 10/20: title + posted date confirmed; 100% full-time Civil Service, Apply Now active, closes Nov 5, 2026; detail page not re-extractable 10/21 but aggregator listing crawled today still shows it live, posted ~5 days ago)",
   "state": "IL",
   "title": "Senior Associate Data Visualization Specialist",
   "university": "University of Illinois Urbana-Champaign",
   "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18250?c=illinois"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Research Informatics Analyst School of Medicine Brain Health",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174109/research-informatics-analyst-school-of-medicine-brain-health/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "AI Scientist/Engineer II- School of Medicine, BMI",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/170568/ai-scientist-engineer-ii--school-of-medicine%2c-bmi/job"
- },
- {
-  "category": "engineering",
-  "city": "Atlanta",
-  "eligibility_note": "Posting states position not eligible for visa sponsorship",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Data Engineer II (School of Medicine)",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/173883/data-engineer-ii-%28school-of-medicine%29/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "AI Scientist/Engineer II - School of Medicine, Biomedical Engineering",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174172/ai-scientist-engineer-ii---school-of-medicine%2c-biomedical-engineering/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Data Analyst- School of Medicine, BMI",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Lead Research Informatics Analyst - School of Nursing - Office of Nursing Research",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/169430/lead-research-informatics-analyst---school-of-nursing---office-of-nursing-research/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Data Analyst - School of Medicine Ophthalmology Eagle Eye Suite",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/172997/data-analyst---school-of-medicine-ophthalmology-eagle-eye-suite/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Sr. Research Informatics Data Specialist - OIT",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/160777/sr-research-informatics-data-specialist---oit/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Associate Scientist Bioinformatics - School of Medicine Orthopaedics",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/161397/associate-scientist-bioinformatics---school-of-medicine-orthopaedics/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Director for Accounting, Data Analytics and Business Intelligence - School of Medicine",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/167243/director-for-accounting--data-analytics-and-business-intelligence---school-of-medicine/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Assistant Scientist, Bioinformatics- School of Medicine, BMI",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/170304/assistant-scientist--bioinformatics--school-of-medicine--bmi/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Senior Data Analyst | School of Medicine - Pediatrics, HemThrom",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174300/senior-data-analyst-%7c-school-of-medicine-pediatrics%2c-hemthrom/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Senior Biostatistician - Office of Nursing Research - School of Nursing",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/173002/senior-biostatistician---office-of-nursing-research---school-of-nursing/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Associate Director, Biostatistics | School of Medicine - Pediatrics, Innovation Research",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/169637/associate-director%2c-biostatistics-%7c-school-of-medicine-pediatrics/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 20, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Artificial Intelligence (AI) Solutions Lead - AI and Automation",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/175043/artificial-intelligence-%28ai%29-solutions-lead---ai-and-automation/job"
- },
- {
-  "category": "datascience",
-  "city": "Durham",
-  "posted": "Oct 6, 2026",
-  "state": "NC",
-  "title": "Quantitative Associate",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Quantitative-Associate-NC-27710/1390904000/"
- },
- {
-  "category": "analytics",
-  "city": "Durham",
-  "posted": "Oct 17, 2026",
-  "state": "NC",
-  "title": "Consultant, IT",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Consultant%2C-IT-NC-27710/1431545500/"
- },
- {
-  "category": "analytics",
-  "city": "Durham",
-  "posted": "Oct 15, 2026",
-  "state": "NC",
-  "title": "Management Engineer - Acute Care Analytics and Improvement",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Management-Engineer-Acute-Care-Analytics-and-Improvement-NC-27710/1440625500/"
- },
- {
-  "category": "aiml",
-  "city": "Durham",
-  "posted": "Oct 17, 2026",
-  "state": "NC",
-  "title": "Research Computing - AI Engagement Specialist",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Research-Computing-AI-Engagement-Specialist-NC-27710/1399812200/"
- },
- {
-  "category": "analytics",
-  "city": "Durham",
-  "posted": "Oct 14, 2026",
-  "state": "NC",
-  "title": "Prospect Management Analyst I",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Prospect-Management-Analyst-I-NC-27710/1440197100/"
- },
- {
-  "category": "datascience",
-  "city": "Durham",
-  "posted": "Oct 19, 2026",
-  "state": "NC",
-  "title": "Biostatistician III",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Biostatistician-III-NC-27710/1412570900/"
- },
- {
-  "category": "datascience",
-  "city": "Durham",
-  "posted": "Oct 16, 2026",
-  "state": "NC",
-  "title": "ASSOCIATE DIRECTOR, BIOSTATISTICS DCRI",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-ASSOCIATE-DIRECTOR%2C-BIOSTATISTICS-DCRI-NC-27710/1359956600/"
- },
- {
-  "category": "analytics",
-  "city": "Durham",
-  "posted": "Oct 15, 2026",
-  "state": "NC",
-  "title": "Management Engineer - Coding and Clinical Documentation Integrity",
-  "university": "Duke University",
-  "url": "https://careers.duke.edu/job/Durham-Management-Engineer-Coding-and-Clinical-Documentation-Integrity-NC-27710/1440484300/"
- },
- {
-  "category": "datascience",
-  "city": "Chapel Hill",
-  "posted": "10/06/2026",
-  "state": "NC",
-  "title": "Bioinformatics Analyst",
-  "university": "UNC Chapel Hill",
-  "url": "https://unc.peopleadmin.com/postings/326594"
- },
- {
-  "category": "analytics",
-  "city": "Lexington",
-  "posted": "10/12/2026",
-  "state": "KY",
-  "title": "Data Analyst II",
-  "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/651565"
- },
- {
-  "category": "analytics",
-  "city": "Lexington",
-  "posted": "10/12/2026",
-  "state": "KY",
-  "title": "Performance Analyst Principal/UKHC",
-  "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/651688"
- },
- {
-  "category": "analytics",
-  "city": "Lexington",
-  "posted": "10/12/2026",
-  "state": "KY",
-  "title": "Performance Analyst Principal/UKHC",
-  "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/651689"
- },
- {
-  "category": "analytics",
-  "city": "Austin",
-  "posted": "Oct 13, 2026 (CXS 'Posted 7 Days Ago')",
-  "state": "TX",
-  "title": "Senior Data Analyst",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Senior-Data-Analyst_R_00049399"
- },
- {
-  "category": "aiml",
-  "city": "Austin",
-  "posted": "Oct 14, 2026 (CXS 'Posted 6 Days Ago')",
-  "state": "TX",
-  "title": "AI Engineer",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/AI-Engineer_R_00049413"
- },
- {
-  "category": "analytics",
-  "city": "Austin",
-  "posted": "Oct 16, 2026 (CXS 'Posted 4 Days Ago')",
-  "state": "TX",
-  "title": "Senior HRIS Analyst",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Senior-HRIS-Analyst_R_00048443"
- },
- {
-  "category": "engineering",
-  "city": "Austin",
-  "posted": "Oct 16, 2026 (CXS 'Posted 4 Days Ago')",
-  "state": "TX",
-  "title": "Multi-Source Data Fusion Research Associate",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Multi-Source-Data-Fusion-Research-Associate_R_00049401"
- },
- {
-  "category": "engineering",
-  "city": "Austin",
-  "eligibility_note": "US citizenship required",
-  "posted": "Oct 19, 2026 (CXS 'Posted Yesterday'; detail page Published: 2026-10-19)",
-  "state": "TX",
-  "title": "Robotics and Autonomy Engineer (ES)",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Robotics-and-Autonomy-Engineer--ES-_R_00049398"
- },
- {
-  "category": "engineering",
-  "city": "Austin",
-  "eligibility_note": "US citizenship required",
-  "posted": "Oct 16, 2026 (CXS 'Posted 4 Days Ago'; detail page Published: 2026-10-16)",
-  "state": "TX",
-  "title": "Assured PNT and Sensor Fusion Research Associate",
-  "university": "UT Austin",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Assured-PNT-and-Sensor-Fusion-Research-Associate_R_00049394"
- },
- {
-  "category": "analytics",
-  "city": "College Station",
-  "posted": "Oct 15, 2026 (CXS 'Posted 5 Days Ago')",
-  "state": "TX",
-  "title": "Education & Workforce Outcomes Analyst",
-  "university": "Texas A&M",
-  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/Education---Workforce-Outcomes-Analyst_R-098003-1"
- },
- {
-  "category": "engineering",
-  "city": "College Station",
-  "posted": "Oct 16, 2026 (CXS 'Posted 4 Days Ago')",
-  "state": "TX",
-  "title": "GCOOS Applications Specialist",
-  "university": "Texas A&M",
-  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/GCOOS-Applications-Specialist_R-098122-1"
- },
- {
-  "category": "analytics",
-  "city": "Dallas",
-  "posted": "Oct 7, 2026 (CXS 'Posted 13 Days Ago')",
-  "state": "TX",
-  "title": "Clinical Informatics Specialist",
-  "university": "Texas A&M",
-  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/Dallas-TX/Clinical-Informatics-Specialist_R-089601-1"
- },
- {
-  "category": "analytics",
-  "city": "Stanford",
-  "posted": "Oct 13, 2026",
-  "state": "CA",
-  "title": "Research Data Analyst 2 (Hybrid Opportunity)",
-  "university": "Stanford",
-  "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201391?jobId=201391"
- },
- {
-  "category": "datascience",
-  "city": "Los Angeles",
-  "posted": "Oct 10, 2026",
-  "state": "CA",
-  "title": "Associate Data Scientist",
-  "university": "University of Southern California",
-  "url": "https://usccareers.usc.edu/job/los-angeles/associate-data-scientist/1209/101773710528"
- },
- {
-  "category": "datascience",
-  "city": "Los Angeles",
-  "posted": "Oct 16, 2026",
-  "state": "CA",
-  "title": "Data Scientist (ITS)",
-  "university": "University of Southern California",
-  "url": "https://usccareers.usc.edu/job/los-angeles/data-scientist-its/1209/97926279440"
- },
- {
-  "category": "analytics",
-  "city": "Berkeley",
-  "evidence_note": "Verified live via UC's own systemwide jobs portal (jobs.universityofcalifornia.edu), crawled <1 hour before report: Requisition 89358, Posting Date 10/14/2026, Full Time. Direct PeopleSoft page is cookie-walled in text fetch.",
-  "posted": "10/14/2026",
-  "state": "CA",
-  "title": "Research Analyst (Innovative Genomics Institute)",
-  "university": "UC Berkeley",
-  "url": "https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=89358&PostingSeq=1"
- },
- {
-  "category": "engineering",
-  "city": "Berkeley",
-  "evidence_note": "Verified live via UC's own systemwide jobs portal (jobs.universityofcalifornia.edu), crawled ~2 hours before report: Requisition 89443, Posting Date 10/14/2026, Full Time. Direct PeopleSoft page is cookie-walled in text fetch.",
-  "posted": "10/14/2026",
-  "state": "CA",
-  "title": "Information System Analyst 2 (Office of Laboratory Animal Care)",
-  "university": "UC Berkeley",
-  "url": "https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=89443&PostingSeq=1"
- },
- {
-  "category": "analytics",
-  "city": "San Diego",
-  "posted": "10/15/2026 (filing deadline 10/29/2026)",
-  "state": "CA",
-  "title": "Research Data Analyst 3 - Medicine",
-  "university": "UC San Diego",
-  "url": "https://employment.ucsd.edu/research-data-analyst-3-medicine-141794/job/676856D6F83F082B2B0E513A200DDD9D"
- },
- {
-  "category": "analytics",
-  "city": "Los Angeles",
-  "evidence_note": "NEW today. UCLA Health (UCLA's own Avature ATS tenant). Detail page fetched live: Posted Date 10/06/2026, Employment Type '2 - Staff: Career', Duration Indefinite, Los Angeles CA, Requisition 33427, $82,434-$171,779. No term-limit or citizenship-bar language.",
-  "posted": "Oct 6, 2026",
-  "state": "CA",
-  "title": "Health Services Business Data Analyst",
-  "university": "UCLA",
-  "url": "https://uclahealth.avature.net/careers/JobDetail/33427"
- },
- {
-  "category": "engineering",
-  "city": "Sacramento",
-  "evidence_note": "NEW today. UC Davis Health Databricks Platform data architect (engineering family). Verified live via UC's own systemwide jobs portal, crawled <1 hour before report: Full Time, Requisition 89168, Posting Date 10/8/2026, Work Location Sacramento. Direct PeopleSoft page is cookie-walled in text fetch (same as Berkeley pattern); URL taken verbatim from the portal's 'View full' link.",
-  "posted": "Oct 8, 2026",
-  "state": "CA",
-  "title": "Cloud Data Architect",
-  "university": "UC Davis",
-  "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89168&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant"
- },
- {
-  "category": "analytics",
-  "city": "San Diego",
-  "evidence_note": "NEW today. UCSD Office of the Vice Chancellor for Finance and Administration, Data Insights and Analytics dept (staff leadership, analytics family). Verified live via UC's own systemwide jobs portal, crawled <1 hour before report: San Diego, Full Time, Requisition 141747, Posting Date 10/8/2026. Direct jobs.ucsd.edu detail URL renders the generic careers landing page in text fetch (JS-required site, same behavior as the UMich standing lesson); URL taken verbatim from the portal's 'View full' link.",
-  "posted": "Oct 8, 2026",
-  "state": "CA",
-  "title": "Associate Director, Data Insights and Analytics",
-  "university": "UC San Diego",
-  "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141747"
  },
  {
   "category": "engineering",
@@ -660,21 +202,31 @@
  {
   "category": "analytics",
   "city": "Boston",
-  "posted": "Oct 9, 2026 (page 'Posted' date; Job ID 004096SR; live-browser verified 10/20)",
+  "eligibility_note": "Harvard unable to provide visa sponsorship",
+  "posted": "Oct 15, 2026 (page 'Posted' date; live-browser verified 10/20)",
   "state": "MA",
   "title": "Director, Data & Technology, Alumni Engagement and Development",
   "university": "Harvard University",
-  "url": "https://careers.harvard.edu/job/director-data-and-technology-alumni-engagement-and-development-in-boston-ma-united-states-jid-2322",
-  "eligibility_note": "Harvard unable to provide visa sponsorship"
+  "url": "https://careers.harvard.edu/job/director-data-and-technology-alumni-engagement-and-development-in-boston-ma-united-states-jid-2322"
  },
  {
   "category": "aiml",
   "city": "Boston",
+  "eligibility_note": "Harvard unable to provide visa sponsorship",
   "posted": "Oct 14, 2026 (SmartRecruiters listing released 2026-10-14; no posted date visible on page text today)",
   "state": "MA",
   "title": "Senior Application Analyst, AI Operations, IT",
   "university": "Harvard University",
   "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016113667"
+ },
+ {
+  "category": "analytics",
+  "city": "Boston",
+  "posted": "Oct 16, 2026 (page 'Published' field)",
+  "state": "MA",
+  "title": "Director of Enrollment Analytics",
+  "university": "Northeastern University",
+  "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Director-of-Enrollment-Analytics_R143023"
  },
  {
   "category": "analytics",
@@ -715,15 +267,6 @@
   "url": "https://uscareers-nyu.icims.com/jobs/16263/director%2c-clinical-informatics-and-information-technology/job"
  },
  {
-  "category": "aiml",
-  "city": "New York",
-  "posted": "Oct 14, 2026 (Opening on Oct 14 2026; Regular staff, Full Time)",
-  "state": "NY",
-  "title": "Programmer",
-  "university": "Columbia",
-  "url": "https://opportunities.columbia.edu/jobs/programmer-columbia-university-medical-center-new-york-united-states-a6744916-4a12-40ff-849e-3339ab420f66"
- },
- {
   "category": "analytics",
   "city": "Baltimore",
   "posted": "Oct 14, 2026 (Requisition 676448; Published 2026-10-14; Full Time)",
@@ -734,40 +277,48 @@
  },
  {
   "category": "engineering",
-  "city": "College Park",
-  "eligibility_note": "F1 STEM OPT support not available",
-  "posted": "Oct 20, 2026 (observed live; page shows Published 2026-10-07)",
-  "state": "MD",
-  "title": "Software and Data Engineer",
-  "university": "University of Maryland",
-  "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/University-of-Maryland-College-Park/Software-and-Data-Engineer_JR105146"
+  "city": "New Haven",
+  "posted": "Oct 20, 2026 (page Published field; portal API postedDate Oct 13)",
+  "state": "CT",
+  "title": "Lead Clinical Data Engineer",
+  "university": "Yale",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138288WDEXTERNALENUS/Lead-Clinical-Data-Engineer"
  },
  {
   "category": "analytics",
-  "city": "Boston",
-  "posted": "Oct 20, 2026 (NEU Workday CXS feed: 'Posted 13 Days Ago', \u2248 Oct 7)",
-  "state": "MA",
-  "title": "Research Data Analyst, DIBI",
-  "university": "Northeastern University",
-  "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Research-Data-Analyst--DIBI_R142888"
+  "city": "West Haven",
+  "posted": "Oct 21, 2026 (page Published field)",
+  "state": "CT",
+  "title": "Research Analyst",
+  "university": "Yale",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138971WDEXTERNALENUS/Research-Analyst"
  },
  {
   "category": "datascience",
-  "city": "Boston",
-  "posted": "Oct 20, 2026 (NEU Workday CXS feed: 'Posted 13 Days Ago', \u2248 Oct 7)",
-  "state": "MA",
-  "title": "Associate Data Scientist, DIBI",
-  "university": "Northeastern University",
-  "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Associate-Data-Scientist--DIBI_R142889"
+  "city": "New Haven",
+  "posted": "Oct 10, 2026 (live page Published; prior carry-over note said Oct 6)",
+  "state": "CT",
+  "title": "Data Coordinator 2",
+  "university": "Yale",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138443WDEXTERNALENUS/Data-Coordinator-2"
  },
  {
   "category": "analytics",
-  "city": "Boston",
-  "posted": "Oct 20, 2026 (NEU Workday CXS feed: 'Posted 4 Days Ago', \u2248 Oct 16)",
-  "state": "MA",
-  "title": "Director of Enrollment Analytics",
-  "university": "Northeastern University",
-  "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Director-of-Enrollment-Analytics_R143023"
+  "city": "New Haven",
+  "posted": "Oct 16, 2026 (page Published field)",
+  "state": "CT",
+  "title": "Associate Director, Strategic Analysis",
+  "university": "Yale",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138308WDEXTERNALENUS/Associate-Director-Strategic-Analysis"
+ },
+ {
+  "category": "analytics",
+  "city": "New Haven",
+  "posted": "Oct 19, 2026 (posted date unconfirmed on re-fetch 10/21; page live with matching title, no closed banner)",
+  "state": "CT",
+  "title": "Senior Strategy Analyst",
+  "university": "Yale",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138765WDEXTERNALENUS/Senior-Strategy-Analyst"
  },
  {
   "category": "analytics",
@@ -781,6 +332,7 @@
  {
   "category": "datascience",
   "city": "Hanover",
+  "eligibility_note": "Applications restricted to Dartmouth College Library Workers Union members during the first week, then open to the general public.",
   "posted": "Oct 19, 2026 (page shows posted 2026-10-19; Regular Full Time, term=No, Hybrid; requires Stata/SPSS/R/Python)",
   "state": "NH",
   "title": "Research Data Librarian",
@@ -788,76 +340,412 @@
   "url": "https://searchjobs.dartmouth.edu/postings/87555"
  },
  {
+  "category": "aiml",
+  "city": "New Haven",
+  "posted": "Oct 21, 2026 (page Published field)",
+  "state": "CT",
+  "title": "Machine Learning and Neuro-Artificial Intelligence Specialist",
+  "university": "Yale",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138764WDEXTERNALENUS"
+ },
+ {
+  "category": "analytics",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Research Informatics Analyst School of Medicine Brain Health",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/174109/research-informatics-analyst-school-of-medicine-brain-health/job"
+ },
+ {
+  "category": "aiml",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "AI Scientist/Engineer II- School of Medicine, BMI",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/170568/ai-scientist-engineer-ii--school-of-medicine%2c-bmi/job"
+ },
+ {
   "category": "engineering",
-  "city": "New Haven",
-  "posted": "Oct 13, 2026 (page postedDate field; FULL_TIME, regular staff)",
-  "state": "CT",
-  "title": "Lead Clinical Data Engineer",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138288WDEXTERNALENUS/Lead-Clinical-Data-Engineer"
+  "city": "Atlanta",
+  "eligibility_note": "Posting states position not eligible for visa sponsorship",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Data Engineer II (School of Medicine)",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/173883/data-engineer-ii-%28school-of-medicine%29/job"
+ },
+ {
+  "category": "aiml",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "AI Scientist/Engineer II - School of Medicine, Biomedical Engineering",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/174172/ai-scientist-engineer-ii---school-of-medicine%2c-biomedical-engineering/job"
+ },
+ {
+  "category": "analytics",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Data Analyst- School of Medicine, BMI",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job"
+ },
+ {
+  "category": "analytics",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Lead Research Informatics Analyst - School of Nursing - Office of Nursing Research",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/169430/lead-research-informatics-analyst---school-of-nursing---office-of-nursing-research/job"
+ },
+ {
+  "category": "analytics",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Data Analyst - School of Medicine Ophthalmology Eagle Eye Suite",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/172997/data-analyst---school-of-medicine-ophthalmology-eagle-eye-suite/job"
+ },
+ {
+  "category": "analytics",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Sr. Research Informatics Data Specialist - OIT",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/160777/sr-research-informatics-data-specialist---oit/job"
  },
  {
   "category": "datascience",
-  "city": "New Haven",
-  "posted": "Oct 6, 2026 (page postedDate field; FULL_TIME, regular staff; a second identical Data Coordinator 2 posting (138444) same day exists \u2014 only one added)",
-  "state": "CT",
-  "title": "Data Coordinator 2",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138443WDEXTERNALENUS/Data-Coordinator-2"
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Associate Scientist Bioinformatics - School of Medicine Orthopaedics",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/161397/associate-scientist-bioinformatics---school-of-medicine-orthopaedics/job"
  },
  {
   "category": "analytics",
-  "city": "West Haven",
-  "posted": "Oct 14, 2026 (page postedDate field; FULL_TIME, regular staff)",
-  "state": "CT",
-  "title": "Research Analyst",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138971WDEXTERNALENUS/Research-Analyst"
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Director for Accounting, Data Analytics and Business Intelligence - School of Medicine",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/167243/director-for-accounting--data-analytics-and-business-intelligence---school-of-medicine/job"
  },
  {
   "category": "datascience",
-  "city": "New Haven",
-  "posted": "Oct 9, 2026 (page postedDate field; FULL_TIME, regular staff)",
-  "state": "CT",
-  "title": "Computational Research Support Analyst",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138083WDEXTERNALENUS/Computational-Research-Support-Analyst"
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Assistant Scientist, Bioinformatics- School of Medicine, BMI",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/170304/assistant-scientist--bioinformatics--school-of-medicine--bmi/job"
+ },
+ {
+  "category": "datascience",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Senior Biostatistician - Office of Nursing Research - School of Nursing",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/173002/senior-biostatistician---office-of-nursing-research---school-of-nursing/job"
+ },
+ {
+  "category": "datascience",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Associate Director, Biostatistics | School of Medicine - Pediatrics, Innovation Research",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/169637/associate-director%2c-biostatistics-%7c-school-of-medicine-pediatrics/job"
+ },
+ {
+  "category": "aiml",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Artificial Intelligence (AI) Solutions Lead - AI and Automation",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/175043/artificial-intelligence-%28ai%29-solutions-lead---ai-and-automation/job"
+ },
+ {
+  "category": "aiml",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "Artificial Intelligence Platform and Service Lead",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/175147/artificial-intelligence-platform-and-service-lead/job"
+ },
+ {
+  "category": "engineering",
+  "city": "Atlanta",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "state": "GA",
+  "title": "The Carter Center: Applications Engineer, IT Applications and Data",
+  "university": "Emory University",
+  "url": "https://staff-emory.icims.com/jobs/174890/the-carter-center%3a--applications-engineer%2c-it-applications-and-data/job"
  },
  {
   "category": "analytics",
-  "city": "New Haven",
-  "posted": "Oct 8, 2026 (page postedDate field; Duration Type 'Staff'; the '2-year' mention on the page refers to the Swensen Fellowship program, not this role)",
-  "state": "CT",
-  "title": "Associate Director, Strategic Analysis",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138308WDEXTERNALENUS/Associate-Director-Strategic-Analysis"
+  "city": "Durham",
+  "posted": "Oct 17, 2026",
+  "state": "NC",
+  "title": "Consultant, IT",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Consultant%2C-IT-NC-27710/1431545500/"
  },
  {
   "category": "analytics",
-  "city": "New Haven",
-  "posted": "Oct 19, 2026 (page postedDate field; Duration Type 'Staff', Hybrid)",
-  "state": "CT",
-  "title": "Senior Strategy Analyst",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138765WDEXTERNALENUS/Senior-Strategy-Analyst"
+  "city": "Durham",
+  "posted": "Oct 15, 2026",
+  "state": "NC",
+  "title": "Management Engineer - Acute Care Analytics and Improvement",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Management-Engineer-Acute-Care-Analytics-and-Improvement-NC-27710/1440625500/"
+ },
+ {
+  "category": "aiml",
+  "city": "Durham",
+  "posted": "Oct 17, 2026",
+  "state": "NC",
+  "title": "Research Computing - AI Engagement Specialist",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Research-Computing-AI-Engagement-Specialist-NC-27710/1399812200/"
  },
  {
   "category": "analytics",
-  "city": "Ithaca",
-  "eligibility_note": "No visa sponsorship available; eligible for remote work within the US (periodic travel to Ithaca)",
-  "posted": "Oct 9, 2026 (page postedDate field; Job Type 'Regular', non-term)",
-  "state": "NY",
-  "title": "Senior Project Manager & Business Analyst",
-  "university": "Cornell",
-  "url": "https://jobs.hr.cornell.edu/us/en/job/CUICUGUSWDR00061574EXTERNALENUS/Senior-Project-Manager-Business-Analyst"
+  "city": "Durham",
+  "posted": "Oct 14, 2026",
+  "state": "NC",
+  "title": "Prospect Management Analyst I",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Prospect-Management-Analyst-I-NC-27710/1440197100/"
  },
  {
+  "category": "datascience",
+  "city": "Durham",
+  "posted": "Oct 19, 2026",
+  "state": "NC",
+  "title": "Biostatistician III",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Biostatistician-III-NC-27710/1412570900/"
+ },
+ {
+  "category": "datascience",
+  "city": "Durham",
+  "posted": "Oct 16, 2026",
+  "state": "NC",
+  "title": "ASSOCIATE DIRECTOR, BIOSTATISTICS DCRI",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-ASSOCIATE-DIRECTOR%2C-BIOSTATISTICS-DCRI-NC-27710/1359956600/"
+ },
+ {
+  "category": "analytics",
+  "city": "Durham",
+  "posted": "Oct 15, 2026",
+  "state": "NC",
+  "title": "Management Engineer - Coding and Clinical Documentation Integrity",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Management-Engineer-Coding-and-Clinical-Documentation-Integrity-NC-27710/1440484300/"
+ },
+ {
+  "category": "analytics",
+  "city": "Lexington",
+  "posted": "10/12/2026",
+  "state": "KY",
+  "title": "Data Analyst II",
+  "university": "University of Kentucky",
+  "url": "https://ukjobs.uky.edu/postings/651565"
+ },
+ {
+  "category": "analytics",
+  "city": "Lexington",
+  "posted": "10/12/2026",
+  "state": "KY",
+  "title": "Performance Analyst Principal/UKHC",
+  "university": "University of Kentucky",
+  "url": "https://ukjobs.uky.edu/postings/651688"
+ },
+ {
+  "category": "analytics",
+  "city": "Lexington",
+  "posted": "10/12/2026",
+  "state": "KY",
+  "title": "Performance Analyst Principal/UKHC",
+  "university": "University of Kentucky",
+  "url": "https://ukjobs.uky.edu/postings/651689"
+ },
+ {
+  "category": "analytics",
+  "city": "Austin",
+  "posted": "Oct 13, 2026",
+  "state": "TX",
+  "title": "Senior Data Analyst",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Senior-Data-Analyst_R_00049399"
+ },
+ {
+  "category": "aiml",
+  "city": "Austin",
+  "posted": "Oct 14, 2026 (CXS 'Posted 7 Days Ago')",
+  "state": "TX",
+  "title": "AI Engineer",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/AI-Engineer_R_00049413"
+ },
+ {
+  "category": "analytics",
+  "city": "Austin",
+  "posted": "Oct 16, 2026",
+  "state": "TX",
+  "title": "Senior HRIS Analyst",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Senior-HRIS-Analyst_R_00048443"
+ },
+ {
+  "category": "engineering",
+  "city": "Austin",
+  "eligibility_note": "US citizenship required",
+  "posted": "Oct 16, 2026",
+  "state": "TX",
+  "title": "Multi-Source Data Fusion Research Associate",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Multi-Source-Data-Fusion-Research-Associate_R_00049401"
+ },
+ {
+  "category": "engineering",
+  "city": "Austin",
+  "eligibility_note": "US citizenship required",
+  "posted": "Oct 19, 2026",
+  "state": "TX",
+  "title": "Robotics and Autonomy Engineer (ES)",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Robotics-and-Autonomy-Engineer--ES-_R_00049398"
+ },
+ {
+  "category": "engineering",
+  "city": "Austin",
+  "eligibility_note": "US citizenship required",
+  "posted": "Oct 16, 2026",
+  "state": "TX",
+  "title": "Assured PNT and Sensor Fusion Research Associate",
+  "university": "UT Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Assured-PNT-and-Sensor-Fusion-Research-Associate_R_00049394"
+ },
+ {
+  "category": "engineering",
+  "city": "Austin",
+  "eligibility_note": "US citizenship required",
+  "posted": "Oct 13, 2026 (reposted; CXS externalPath now ..._R_00048989-1)",
+  "state": "TX",
   "title": "Robotics and Autonomy Engineer (ESA)",
   "university": "UT Austin",
-  "city": "Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Robotics-and-Autonomy-Engineer--ESA-_R_00048989-1"
+ },
+ {
+  "category": "analytics",
+  "city": "College Station",
+  "posted": "Oct 15, 2026 (CXS 'Posted 6 Days Ago')",
   "state": "TX",
+  "title": "Education & Workforce Outcomes Analyst",
+  "university": "Texas A&M",
+  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/Education---Workforce-Outcomes-Analyst_R-098003-1"
+ },
+ {
   "category": "engineering",
-  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Robotics-and-Autonomy-Engineer--ESA-_R_00048989",
-  "posted": "Oct 13, 2026 (live browser 10/20: title + Posted 7 Days Ago confirmed; full-time, 40h, 'Expected to Continue' regular staff, Applied Research Laboratories, Pickle Research Campus)"
+  "city": "College Station",
+  "posted": "Oct 16, 2026 (CXS 'Posted 5 Days Ago')",
+  "state": "TX",
+  "title": "GCOOS Applications Specialist",
+  "university": "Texas A&M",
+  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/GCOOS-Applications-Specialist_R-098122-1"
+ },
+ {
+  "category": "analytics",
+  "city": "Stanford",
+  "evidence_note": "Re-verified live via Stanford's official Oracle HCM API: ExternalPostedStartDate 2026-10-13, still posted, ends 2026-11-13, ContractType null (continuing, not fixed-term).",
+  "posted": "Oct 13, 2026",
+  "state": "CA",
+  "title": "Research Data Analyst 2 (Hybrid Opportunity)",
+  "university": "Stanford",
+  "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201391?jobId=201391"
+ },
+ {
+  "category": "datascience",
+  "city": "Los Angeles",
+  "evidence_note": "Detail page fetched live today: title matches, Posted Date 10/10/2026, REQ20178874, not filled/expired.",
+  "posted": "Oct 10, 2026",
+  "state": "CA",
+  "title": "Associate Data Scientist",
+  "university": "University of Southern California",
+  "url": "https://usccareers.usc.edu/job/los-angeles/associate-data-scientist/1209/101773710528"
+ },
+ {
+  "category": "datascience",
+  "city": "Los Angeles",
+  "evidence_note": "Detail page fetched live today: title matches, Posted Date 10/16/2026, REQ20177952, not filled/expired.",
+  "posted": "Oct 16, 2026",
+  "state": "CA",
+  "title": "Data Scientist (ITS)",
+  "university": "University of Southern California",
+  "url": "https://usccareers.usc.edu/job/los-angeles/data-scientist-its/1209/97926279440"
+ },
+ {
+  "category": "analytics",
+  "city": "Berkeley",
+  "evidence_note": "Verified live via UC's own systemwide jobs portal (jobs.universityofcalifornia.edu), crawled <1 hour before report: Requisition 89358, Posting Date 10/14/2026, Full Time. Direct PeopleSoft page is cookie-walled in text fetch.",
+  "posted": "10/14/2026",
+  "state": "CA",
+  "title": "Research Analyst (Innovative Genomics Institute)",
+  "university": "UC Berkeley",
+  "url": "https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=89358&PostingSeq=1"
+ },
+ {
+  "category": "engineering",
+  "city": "Berkeley",
+  "evidence_note": "Verified live via UC's own systemwide jobs portal (jobs.universityofcalifornia.edu), crawled <1 hour before report: Requisition 89443, Posting Date 10/14/2026, Full Time. Direct PeopleSoft page is cookie-walled in text fetch.",
+  "posted": "10/14/2026",
+  "state": "CA",
+  "title": "Information System Analyst 2 (Office of Laboratory Animal Care)",
+  "university": "UC Berkeley",
+  "url": "https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=89443&PostingSeq=1"
+ },
+ {
+  "category": "analytics",
+  "city": "San Diego",
+  "evidence_note": "Detail page (employment.ucsd.edu) fetched live today: title matches (Research Data Analyst 3 - Medicine - 141794). UC systemwide portal confirms live: Requisition 141794, Posting Date 10/15/2026, Full Time, San Diego Health System.",
+  "posted": "10/15/2026 (filing deadline 10/29/2026)",
+  "state": "CA",
+  "title": "Research Data Analyst 3 - Medicine",
+  "university": "UC San Diego",
+  "url": "https://employment.ucsd.edu/research-data-analyst-3-medicine-141794/job/676856D6F83F082B2B0E513A200DDD9D"
+ },
+ {
+  "category": "engineering",
+  "city": "Sacramento",
+  "evidence_note": "Verified live via UC's own systemwide jobs portal, crawled <1 hour before report: Davis Health System, Full Time, Requisition 89168, Posting Date 10/8/2026, Work Location Sacramento. Direct PeopleSoft page is cookie-walled in text fetch (Berkeley pattern); URL verbatim from the portal's 'View full' link.",
+  "posted": "Oct 8, 2026",
+  "state": "CA",
+  "title": "Cloud Data Architect",
+  "university": "UC Davis",
+  "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89168&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant"
+ },
+ {
+  "category": "analytics",
+  "city": "San Diego",
+  "evidence_note": "Verified live via UC's own systemwide jobs portal, crawled <1 hour before report: Requisition 141747, Posting Date 10/8/2026, Full Time, San Diego. Direct jobs.ucsd.edu detail URL renders the generic careers landing in text fetch (JS site, same as UMich standing lesson); URL verbatim from the portal's 'View full' link.",
+  "posted": "Oct 8, 2026",
+  "state": "CA",
+  "title": "Associate Director, Data Insights and Analytics",
+  "university": "UC San Diego",
+  "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141747"
  }
 ]
