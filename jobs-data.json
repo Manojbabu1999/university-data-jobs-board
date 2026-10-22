@@ -9,33 +9,14 @@
   "url": "https://careers.umich.edu/job_detail/284170"
  },
  {
-  "category": "datascience",
-  "city": "Ann Arbor",
-  "posted": "10/07/2026",
-  "state": "MI",
-  "title": "Statistician Senior",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/284091/statistician-senior"
- },
- {
   "category": "analytics",
   "city": "Ann Arbor",
-  "eligibility_note": "Applicants will not be sponsored for work visas",
+  "eligibility_note": "Authorization to work in the U.S. is a precondition of employment, and applicants for this position will not be sponsored for work visas",
   "posted": "10/13/2026",
   "state": "MI",
   "title": "Business Intelligence/Data Analyst (Hybrid)",
   "university": "University of Michigan",
   "url": "https://careers.umich.edu/job_detail/284245/business-intelligencedata-analyst-hybrid"
- },
- {
-  "category": "analytics",
-  "city": "Ann Arbor",
-  "eligibility_note": "Authorization to work in the U.S. is a precondition; applicants will not be sponsored for work visas",
-  "posted": "10/14/2026",
-  "state": "MI",
-  "title": "Health Data Analyst",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/284377"
  },
  {
   "category": "engineering",
@@ -86,7 +67,7 @@
   "category": "aiml",
   "city": "Columbus",
   "eligibility_note": "Restricted to U.S. persons per export control regulations",
-  "posted": "Oct 16, 2026",
+  "posted": "Oct 16, 2026 (Workday Posted 6 Days Ago; live-browser re-verified 10/22; Full time, Regular 40h)",
   "state": "OH",
   "title": "Senior Engineer - SIMCenter",
   "university": "Ohio State",
@@ -104,7 +85,7 @@
  {
   "category": "analytics",
   "city": "Chicago",
-  "posted": "Oct 9, 2026",
+  "posted": "Oct 9, 2026 (Workday Posted 13 Days Ago; live-browser re-verified 10/22; Full time Hybrid, $70,000-$95,000)",
   "state": "IL",
   "title": "Business Analyst",
   "university": "University of Chicago",
@@ -193,7 +174,7 @@
   "category": "aiml",
   "city": "Fort Meade",
   "eligibility_note": "US citizenship required; listing requires current active TS/SCI clearance at application, on-site Ft Meade (page line: 'Current TS/SCI clearance required (must be active at the time of application)')",
-  "posted": "Oct 20, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Oct 19, 2026 (page Date; live-browser re-verified 10/22; on-site Ft Meade, Technical staff)",
   "state": "MD",
   "title": "AI/ML Research Scientist",
   "university": "MIT",
@@ -222,7 +203,7 @@
  {
   "category": "analytics",
   "city": "Boston",
-  "posted": "Oct 16, 2026 (page 'Published' field)",
+  "posted": "Oct 16, 2026 (Workday Posted 6 Days Ago; live-browser re-verified 10/22; Full time)",
   "state": "MA",
   "title": "Director of Enrollment Analytics",
   "university": "Northeastern University",
@@ -273,7 +254,8 @@
   "state": "MD",
   "title": "Business Intelligence Developer",
   "university": "Johns Hopkins",
-  "url": "https://jobs.hopkinsmedicine.org/job/102321/business-intelligence-analyst-information-technology-us-md-baltimore-johns-hopkins-health-system/"
+  "url": "https://jobs.hopkinsmedicine.org/job/102321/business-intelligence-analyst-information-technology-us-md-baltimore-johns-hopkins-health-system/",
+  "evidence_note": "Re-verified live 10/22: title matches; remote work limited to candidates located in MD, VA, DC, PA, DE, or FL."
  },
  {
   "category": "engineering",
@@ -285,18 +267,9 @@
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138288WDEXTERNALENUS/Lead-Clinical-Data-Engineer"
  },
  {
-  "category": "analytics",
-  "city": "West Haven",
-  "posted": "Oct 21, 2026 (page Published field)",
-  "state": "CT",
-  "title": "Research Analyst",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138971WDEXTERNALENUS/Research-Analyst"
- },
- {
   "category": "datascience",
   "city": "New Haven",
-  "posted": "Oct 10, 2026 (live page Published; prior carry-over note said Oct 6)",
+  "posted": "Oct 10, 2026 (live page Published; re-verified 10/22)",
   "state": "CT",
   "title": "Data Coordinator 2",
   "university": "Yale",
@@ -305,7 +278,7 @@
  {
   "category": "analytics",
   "city": "New Haven",
-  "posted": "Oct 16, 2026 (page Published field)",
+  "posted": "Oct 21, 2026 (page Published field; re-verified live 10/22)",
   "state": "CT",
   "title": "Associate Director, Strategic Analysis",
   "university": "Yale",
@@ -314,7 +287,7 @@
  {
   "category": "analytics",
   "city": "New Haven",
-  "posted": "Oct 19, 2026 (posted date unconfirmed on re-fetch 10/21; page live with matching title, no closed banner)",
+  "posted": "Oct 21, 2026 (page Published field; re-verified live 10/22)",
   "state": "CT",
   "title": "Senior Strategy Analyst",
   "university": "Yale",
@@ -323,7 +296,7 @@
  {
   "category": "analytics",
   "city": "Hanover",
-  "posted": "Oct 8, 2026 (page shows posted 2026-10-08; Regular Full Time, term=No; business-systems analyst, reports/data extracts/SQL \u2014 analytics-adjacent)",
+  "posted": "Oct 8, 2026 (page shows posted 2026-10-08; Regular Full Time, term=No; business-systems analyst, reports/data extracts/SQL — analytics-adjacent)",
   "state": "NH",
   "title": "Dining Systems Analyst",
   "university": "Dartmouth",
@@ -342,7 +315,7 @@
  {
   "category": "aiml",
   "city": "New Haven",
-  "posted": "Oct 21, 2026 (page Published field)",
+  "posted": "Oct 22, 2026 (page Published field; re-verified live 10/22)",
   "state": "CT",
   "title": "Machine Learning and Neuro-Artificial Intelligence Specialist",
   "university": "Yale",
@@ -747,5 +720,87 @@
   "title": "Associate Director, Data Insights and Analytics",
   "university": "UC San Diego",
   "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141747"
+ },
+ {
+  "title": "AHPS Data Disseminator Coordinator",
+  "university": "UNC Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://unc.peopleadmin.com/postings/327363",
+  "posted": "10/21/2026 (page Posting Open Date; UNC PeopleAdmin feed; fetched live 10/22)",
+  "evidence_note": "Data management/dissemination for the Add Health Parent Study; R/SAS/Stata desirable. Permanent Staff (EHRA NF), Full-Time, FTE 1.0, 40 hrs/wk; deadline 11/04/2026."
+ },
+ {
+  "title": "Senior Computational Scientist",
+  "university": "UNC Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "engineering",
+  "url": "https://unc.peopleadmin.com/postings/327372",
+  "posted": "10/21/2026 (page Posting Open Date; UNC PeopleAdmin feed; fetched live 10/22)",
+  "evidence_note": "Builds/runs the data platform for the Initiative for Generative Immunotherapy (ingestion/validation/transfer/cataloging pipelines, Python, APIs, cloud). Permanent Staff (EHRA NF), Full-Time Permanent; deadline 11/04/2026."
+ },
+ {
+  "title": "Data Coordinator (Soc/Clin Research Assistant – Advanced)",
+  "university": "UNC Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://unc.peopleadmin.com/postings/327001",
+  "posted": "10/14/2026 (page Posting Open Date; UNC PeopleAdmin feed; fetched live 10/22)",
+  "eligibility_note": "Not eligible for H-1B sponsorship",
+  "evidence_note": "Lineberger Clinical Trials oncology data role (data abstraction, integrity, reporting). Permanent Staff (SHRA), Full-Time, 40 hrs/wk, $55,886-$65,000; deadline 10/28/2026."
+ },
+ {
+  "title": "Data Analyst I - 530905",
+  "university": "University of Alabama",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "category": "analytics",
+  "url": "https://careers.ua.edu/jobs/data-analyst-i-530905-tuscaloosa-alabama-united-states",
+  "posted": "10/16/2026 (page Published 2026-10-16T21:27:38Z; fetched live 10/22)",
+  "evidence_note": "Leads research data collection for Project LIFT (5-yr EIR grant); no contingent-on-funding language on posting. Full-time salaried staff (Salaried E8), hybrid-eligible."
+ },
+ {
+  "title": "Data Analyst",
+  "university": "Purdue University",
+  "city": "West Lafayette",
+  "state": "IN",
+  "category": "analytics",
+  "url": "https://careers.purdue.edu/job/Data-Analyst/44632-en_US/",
+  "posted": "10/19/2026 (Posting Start Date 10/19/26; page live 10/22)",
+  "evidence_note": "Institutional Data Analytics + Assessment; Slate CRM/Cognos/Tableau; $58,000-$67,900; remote possible. Full-time regular staff (FLSA Exempt). Req Id 44632."
+ },
+ {
+  "title": "Senior Software Engineer",
+  "university": "Purdue University",
+  "city": "West Lafayette",
+  "state": "IN",
+  "category": "engineering",
+  "url": "https://careers.purdue.edu/job/Software-Engineer%2C-Senior/44662-en_US/",
+  "posted": "10/20/2026 (Posting Start Date 10/20/26; page live 10/22)",
+  "eligibility_note": "Borderline fit: research-software engineering for Midwestern Regional Climate Center & Indiana State Climate Office (data-driven applications/APIs, SQL databases); not a dedicated data-engineering title.",
+  "evidence_note": "Full-time regular staff (FLSA Exempt). Req Id 44662."
+ },
+ {
+  "title": "Procurement Operations Analyst",
+  "university": "Rice University",
+  "city": "Houston",
+  "state": "TX",
+  "category": "analytics",
+  "url": "https://jobs.rice.edu/jobs/procurement-operations-analyst-houston-texas-united-states",
+  "posted": "10/20/2026 (page Published 2026-10-20T20:19:12Z; fetched live 10/22)",
+  "evidence_note": "Procurement analytics/reporting/BI (dashboards/scorecards/KPIs, Power BI/Tableau, spend analytics); $56,560-$70,000. FULL_TIME staff, hybrid 2+ days/wk. Job #6318."
+ },
+ {
+  "title": "Data Management Analyst III, Dept of Emergency Medicine",
+  "university": "University of Florida",
+  "city": "Gainesville",
+  "state": "FL",
+  "category": "analytics",
+  "url": "https://explore.jobs.ufl.edu/en-us/job/541510/data-management-analyst-iii",
+  "posted": "Undated on UF portal (observed live 10/22/2026; Closes Oct 25, 2026)",
+  "evidence_note": "UF detail pages show no posted date; retained under the undated-with-positive-evidence rule (live on UF's own portal 10/22 with Closes Oct 25, 2026). Staff Full-Time, no term limit."
  }
 ]
