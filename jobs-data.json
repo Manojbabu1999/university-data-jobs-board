@@ -64,16 +64,6 @@
   "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Remote-Location/Reporting-and-Analytics-Analyst_R160865-1"
  },
  {
-  "category": "aiml",
-  "city": "Columbus",
-  "eligibility_note": "Restricted to U.S. persons per export control regulations",
-  "posted": "Oct 16, 2026 (Workday Posted 6 Days Ago; live-browser re-verified 10/22; Full time, Regular 40h)",
-  "state": "OH",
-  "title": "Senior Engineer - SIMCenter",
-  "university": "Ohio State",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Senior-Engineer---SIMCenter_R160615-1"
- },
- {
   "category": "analytics",
   "city": "Columbus",
   "posted": "Oct 9, 2026 (Published date on OSU Workday posting)",
@@ -94,11 +84,13 @@
  {
   "category": "analytics",
   "city": "Urbana",
-  "posted": "10/15/2026 (live browser 10/20: title + posted date confirmed; 100% full-time Civil Service, Apply Now active, closes Nov 5, 2026; detail page not re-extractable 10/21 but aggregator listing crawled today still shows it live, posted ~5 days ago)",
+  "posted": "10/15/2026 (live browser 10/23: Posted on 10/15/2026; 100% full-time Civil Service; applications due Nov 5, 2026)",
   "state": "IL",
   "title": "Senior Associate Data Visualization Specialist",
   "university": "University of Illinois Urbana-Champaign",
-  "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18250?c=illinois"
+  "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18250?c=illinois",
+  "eligibility_note": "This position is not eligible for any type of sponsorship for work authorization.",
+  "evidence_note": "Gies College of Business; live-browser verified 10/23."
  },
  {
   "category": "engineering",
@@ -250,12 +242,12 @@
  {
   "category": "analytics",
   "city": "Baltimore",
-  "posted": "Oct 14, 2026 (Requisition 676448; Published 2026-10-14; Full Time)",
+  "posted": "Oct 14, 2026 (no posted date shown on page; live-browser re-verified 10/23)",
   "state": "MD",
   "title": "Business Intelligence Developer",
   "university": "Johns Hopkins",
   "url": "https://jobs.hopkinsmedicine.org/job/102321/business-intelligence-analyst-information-technology-us-md-baltimore-johns-hopkins-health-system/",
-  "evidence_note": "Re-verified live 10/22: title matches; remote work limited to candidates located in MD, VA, DC, PA, DE, or FL."
+  "evidence_note": "Live-browser re-verified 10/23: title matches; Requisition 676448; Full Time; remote work limited to candidates located in MD, VA, DC, PA, DE, or FL."
  },
  {
   "category": "engineering",
@@ -265,15 +257,6 @@
   "title": "Lead Clinical Data Engineer",
   "university": "Yale",
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138288WDEXTERNALENUS/Lead-Clinical-Data-Engineer"
- },
- {
-  "category": "datascience",
-  "city": "New Haven",
-  "posted": "Oct 10, 2026 (live page Published; re-verified 10/22)",
-  "state": "CT",
-  "title": "Data Coordinator 2",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138443WDEXTERNALENUS/Data-Coordinator-2"
  },
  {
   "category": "analytics",
@@ -294,15 +277,6 @@
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138765WDEXTERNALENUS/Senior-Strategy-Analyst"
  },
  {
-  "category": "analytics",
-  "city": "Hanover",
-  "posted": "Oct 8, 2026 (page shows posted 2026-10-08; Regular Full Time, term=No; business-systems analyst, reports/data extracts/SQL — analytics-adjacent)",
-  "state": "NH",
-  "title": "Dining Systems Analyst",
-  "university": "Dartmouth",
-  "url": "https://searchjobs.dartmouth.edu/postings/87459"
- },
- {
   "category": "datascience",
   "city": "Hanover",
   "eligibility_note": "Applications restricted to Dartmouth College Library Workers Union members during the first week, then open to the general public.",
@@ -311,15 +285,6 @@
   "title": "Research Data Librarian",
   "university": "Dartmouth",
   "url": "https://searchjobs.dartmouth.edu/postings/87555"
- },
- {
-  "category": "aiml",
-  "city": "New Haven",
-  "posted": "Oct 22, 2026 (page Published field; re-verified live 10/22)",
-  "state": "CT",
-  "title": "Machine Learning and Neuro-Artificial Intelligence Specialist",
-  "university": "Yale",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138764WDEXTERNALENUS"
  },
  {
   "category": "analytics",
@@ -342,8 +307,8 @@
  {
   "category": "engineering",
   "city": "Atlanta",
-  "eligibility_note": "Posting states position not eligible for visa sponsorship",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
+  "eligibility_note": "This position is not eligible for visa sponsorship now or in the future.",
+  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed 10/23; no posted date shown)",
   "state": "GA",
   "title": "Data Engineer II (School of Medicine)",
   "university": "Emory University",
@@ -464,7 +429,8 @@
   "state": "GA",
   "title": "The Carter Center: Applications Engineer, IT Applications and Data",
   "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174890/the-carter-center%3a--applications-engineer%2c-it-applications-and-data/job"
+  "url": "https://staff-emory.icims.com/jobs/174890/the-carter-center%3a--applications-engineer%2c-it-applications-and-data/job",
+  "eligibility_note": "Applicants must be currently authorized to work in the United States for any employer."
  },
  {
   "category": "analytics",
@@ -532,29 +498,32 @@
  {
   "category": "analytics",
   "city": "Lexington",
-  "posted": "10/12/2026",
+  "posted": "10/12/2026 (no posted date field on page; live-browser re-verified 10/23; deadline to apply 10/26/2026)",
   "state": "KY",
   "title": "Data Analyst II",
   "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/651565"
+  "url": "https://ukjobs.uky.edu/postings/651565",
+  "evidence_note": "Live-browser verified 10/23: title matches, Req RE56080, Staff, Full-Time."
  },
  {
   "category": "analytics",
   "city": "Lexington",
-  "posted": "10/12/2026",
+  "posted": "10/12/2026 (no posted date field on page; live-browser re-verified 10/23; deadline to apply 10/26/2026)",
   "state": "KY",
   "title": "Performance Analyst Principal/UKHC",
   "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/651688"
+  "url": "https://ukjobs.uky.edu/postings/651688",
+  "evidence_note": "Live-browser verified 10/23: title matches, Req RE56091, Staff, Full-Time."
  },
  {
   "category": "analytics",
   "city": "Lexington",
-  "posted": "10/12/2026",
+  "posted": "10/12/2026 (no posted date field on page; live-browser re-verified 10/23; deadline to apply 10/26/2026)",
   "state": "KY",
   "title": "Performance Analyst Principal/UKHC",
   "university": "University of Kentucky",
-  "url": "https://ukjobs.uky.edu/postings/651689"
+  "url": "https://ukjobs.uky.edu/postings/651689",
+  "evidence_note": "Live-browser verified 10/23: title matches, Req RE56092, Staff, Full-Time."
  },
  {
   "category": "analytics",
@@ -633,15 +602,6 @@
   "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/Education---Workforce-Outcomes-Analyst_R-098003-1"
  },
  {
-  "category": "engineering",
-  "city": "College Station",
-  "posted": "Oct 16, 2026 (CXS 'Posted 5 Days Ago')",
-  "state": "TX",
-  "title": "GCOOS Applications Specialist",
-  "university": "Texas A&M",
-  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/GCOOS-Applications-Specialist_R-098122-1"
- },
- {
   "category": "analytics",
   "city": "Stanford",
   "evidence_note": "Re-verified live via Stanford's official Oracle HCM API: ExternalPostedStartDate 2026-10-13, still posted, ends 2026-11-13, ContractType null (continuing, not fixed-term).",
@@ -702,26 +662,6 @@
   "url": "https://employment.ucsd.edu/research-data-analyst-3-medicine-141794/job/676856D6F83F082B2B0E513A200DDD9D"
  },
  {
-  "category": "engineering",
-  "city": "Sacramento",
-  "evidence_note": "Verified live via UC's own systemwide jobs portal, crawled <1 hour before report: Davis Health System, Full Time, Requisition 89168, Posting Date 10/8/2026, Work Location Sacramento. Direct PeopleSoft page is cookie-walled in text fetch (Berkeley pattern); URL verbatim from the portal's 'View full' link.",
-  "posted": "Oct 8, 2026",
-  "state": "CA",
-  "title": "Cloud Data Architect",
-  "university": "UC Davis",
-  "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89168&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant"
- },
- {
-  "category": "analytics",
-  "city": "San Diego",
-  "evidence_note": "Verified live via UC's own systemwide jobs portal, crawled <1 hour before report: Requisition 141747, Posting Date 10/8/2026, Full Time, San Diego. Direct jobs.ucsd.edu detail URL renders the generic careers landing in text fetch (JS site, same as UMich standing lesson); URL verbatim from the portal's 'View full' link.",
-  "posted": "Oct 8, 2026",
-  "state": "CA",
-  "title": "Associate Director, Data Insights and Analytics",
-  "university": "UC San Diego",
-  "url": "http://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=141747"
- },
- {
   "title": "AHPS Data Disseminator Coordinator",
   "university": "UNC Chapel Hill",
   "city": "Chapel Hill",
@@ -763,16 +703,6 @@
   "evidence_note": "Leads research data collection for Project LIFT (5-yr EIR grant); no contingent-on-funding language on posting. Full-time salaried staff (Salaried E8), hybrid-eligible."
  },
  {
-  "title": "Data Analyst",
-  "university": "Purdue University",
-  "city": "West Lafayette",
-  "state": "IN",
-  "category": "analytics",
-  "url": "https://careers.purdue.edu/job/Data-Analyst/44632-en_US/",
-  "posted": "10/19/2026 (Posting Start Date 10/19/26; page live 10/22)",
-  "evidence_note": "Institutional Data Analytics + Assessment; Slate CRM/Cognos/Tableau; $58,000-$67,900; remote possible. Full-time regular staff (FLSA Exempt). Req Id 44632."
- },
- {
   "title": "Senior Software Engineer",
   "university": "Purdue University",
   "city": "West Lafayette",
@@ -802,5 +732,134 @@
   "url": "https://explore.jobs.ufl.edu/en-us/job/541510/data-management-analyst-iii",
   "posted": "Undated on UF portal (observed live 10/22/2026; Closes Oct 25, 2026)",
   "evidence_note": "UF detail pages show no posted date; retained under the undated-with-positive-evidence rule (live on UF's own portal 10/22 with Closes Oct 25, 2026). Staff Full-Time, no term limit."
+ },
+ {
+  "title": "Enterprise EFP&A Financial Analyst Senior",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/284604/enterprise-efpa-financial-analyst-senior",
+  "posted": "Oct 20, 2026 (Posting Begin/End 10/20/2026-11/10/2026; Full-Time Regular, Hybrid; $83,000-$95,000)"
+ },
+ {
+  "title": "Senior Data Engineer",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "engineering",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-Data-Engineer_R160521-1",
+  "posted": "Oct 21, 2026 (CXS 'Posted 2 Days Ago'; Full time, workerSubType Regular)"
+ },
+ {
+  "title": "Financial Analyst - Healthcare Operations",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Financial-Analyst---Healthcare-Operations_R160576-2",
+  "posted": "Oct 14, 2026 (CXS 'Posted 9 Days Ago'; Full time, workerSubType Regular)"
+ },
+ {
+  "title": "Senior Product Analyst",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-Product-Analyst_R159969",
+  "posted": "Oct 20, 2026 (repost of R159969; CXS 'Posted 3 Days Ago'; Full time, Regular)"
+ },
+ {
+  "title": "Lead Data Architect",
+  "university": "University of Chicago",
+  "city": "Chicago",
+  "state": "IL",
+  "category": "engineering",
+  "url": "https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Lead-Data-Architect_JR35609",
+  "posted": "Oct 21, 2026 (CXS 'Posted 2 Days Ago'; Full time, workerSubType Staff)"
+ },
+ {
+  "title": "Analyst, Budget",
+  "university": "University of Chicago",
+  "city": "Chicago",
+  "state": "IL",
+  "category": "analytics",
+  "url": "https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Analyst--Budget_JR35578",
+  "posted": "Oct 15, 2026 (CXS 'Posted 8 Days Ago'; Full time, workerSubType Staff)"
+ },
+ {
+  "title": "Statistician 2",
+  "university": "Yale",
+  "city": "New Haven",
+  "state": "CT",
+  "category": "datascience",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138919WDEXTERNALENUS/Statistician-2",
+  "posted": "Oct 22, 2026 (page Published; Time Type Full time, Duration Type Staff; $82,000-$131,500)",
+  "evidence_note": "Yale/Yale New Haven Hospital Center for Outcomes Research and Evaluation."
+ },
+ {
+  "title": "Data Governance Manager",
+  "university": "Princeton University",
+  "city": "Princeton",
+  "state": "NJ",
+  "category": "analytics",
+  "url": "https://main-princeton.icims.com/jobs/22353/data-governance-manager/job?hub=15",
+  "posted": "Oct 19, 2026 (page Published 2026-10-19T04:00:00Z; full-time; no term or sponsorship language)"
+ },
+ {
+  "title": "Data Analyst, Energy Management",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://careers.duke.edu/job/Durham-Data-Analyst%2C-Energy-Management-NC-27710/1433718900/",
+  "posted": "Oct 23, 2026 (Duke official search feed; Regular; on-site; $61,026-$106,641)"
+ },
+ {
+  "title": "Data Warehouse Developer",
+  "university": "Rice University",
+  "city": "Houston",
+  "state": "TX",
+  "category": "engineering",
+  "url": "https://jobs.rice.edu/jobs/data-warehouse-developer-houston-texas-united-states",
+  "posted": "Oct 22, 2026 (JSON-LD datePosted 2026-10-22T22:08:38Z; FULL_TIME; data engineering pipelines for Enterprise Data Warehouse)",
+  "eligibility_note": "This position is not eligible for employment visa sponsorship. Applicants must be authorized to work in the United States without requiring employer sponsorship now or in the future."
+ },
+ {
+  "title": "Business Analyst, AIS, Business Analytics",
+  "university": "Tulane University",
+  "city": "New Orleans",
+  "state": "LA",
+  "category": "analytics",
+  "url": "https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/508",
+  "posted": "Oct 16, 2026 (Oracle HCM ExternalPostedStartDate 2026-10-16; Staff, Full time, ContractType None; Job ID 508)"
+ },
+ {
+  "title": "Athletic Financial Reporting Specialist",
+  "university": "Texas A&M University",
+  "city": "College Station",
+  "state": "TX",
+  "category": "analytics",
+  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/College-Station-TX/Athletic-Financial-Reporting-Specialist_R-098155-1",
+  "posted": "Oct 21, 2026 (CXS 'Posted 2 Days Ago'; Full time, Job Type Staff; no term/grant language)"
+ },
+ {
+  "title": "Financial Analyst (4767C) Undergraduate Education",
+  "university": "UC Berkeley",
+  "city": "Berkeley",
+  "state": "CA",
+  "category": "analytics",
+  "url": "https://careerspub.universityofcalifornia.edu/psc/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=89395&PostingSeq=1&SiteId=21&languageCd=ENG&FOCUS=Applicant",
+  "posted": "10/15/2026 (UC systemwide portal Requisition 89395, Posting Date 10/15/2026, Full Time)"
+ },
+ {
+  "title": "Data Scientist I",
+  "university": "University of Florida",
+  "city": "Gainesville",
+  "state": "FL",
+  "category": "datascience",
+  "url": "https://explore.jobs.ufl.edu/en-us/job/541766/data-scientist-i",
+  "posted": "Oct 20, 2026 (page Advertised 20 Oct 2026; Staff Full-Time; applications close 27 Oct 2026; $61,000-$65,000)",
+  "evidence_note": "Live-browser verified 10/23: JOB NO 541766, MD-SURG-POPULATION HEALTH SCI (PLuS2 project); research software/data-pipelines/computational methods; no term or sponsorship language."
  }
 ]
