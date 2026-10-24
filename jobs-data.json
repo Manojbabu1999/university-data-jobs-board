@@ -2,15 +2,6 @@
  {
   "category": "analytics",
   "city": "Ann Arbor",
-  "posted": "10/09/2026",
-  "state": "MI",
-  "title": "Financial or Business Analyst Senior/Intermediate",
-  "university": "University of Michigan",
-  "url": "https://careers.umich.edu/job_detail/284170"
- },
- {
-  "category": "analytics",
-  "city": "Ann Arbor",
   "eligibility_note": "Authorization to work in the U.S. is a precondition of employment, and applicants for this position will not be sponsored for work visas",
   "posted": "10/13/2026",
   "state": "MI",
@@ -62,24 +53,6 @@
   "title": "Reporting and Analytics Specialist",
   "university": "Ohio State",
   "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Remote-Location/Reporting-and-Analytics-Analyst_R160865-1"
- },
- {
-  "category": "analytics",
-  "city": "Columbus",
-  "posted": "Oct 9, 2026 (Published date on OSU Workday posting)",
-  "state": "OH",
-  "title": "Senior Reporting and Analytics Analyst - Government Resource Center",
-  "university": "Ohio State",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Senior-Reporting-and-Analytics-Analyst---Government-Resource-Center_R160582-1"
- },
- {
-  "category": "analytics",
-  "city": "Chicago",
-  "posted": "Oct 9, 2026 (Workday Posted 13 Days Ago; live-browser re-verified 10/22; Full time Hybrid, $70,000-$95,000)",
-  "state": "IL",
-  "title": "Business Analyst",
-  "university": "University of Chicago",
-  "url": "https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Business-Analyst_JR35396"
  },
  {
   "category": "analytics",
@@ -200,15 +173,6 @@
   "title": "Director of Enrollment Analytics",
   "university": "Northeastern University",
   "url": "https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Director-of-Enrollment-Analytics_R143023"
- },
- {
-  "category": "analytics",
-  "city": "New York",
-  "posted": "Oct 9, 2026 (page 'Published')",
-  "state": "NY",
-  "title": "Senior Procure to Pay Data Analyst",
-  "university": "NYU",
-  "url": "https://uscareers-nyu.icims.com/jobs/16219/senior-procure-to-pay-data-analyst/job"
  },
  {
   "category": "engineering",
@@ -682,7 +646,7 @@
   "evidence_note": "Builds/runs the data platform for the Initiative for Generative Immunotherapy (ingestion/validation/transfer/cataloging pipelines, Python, APIs, cloud). Permanent Staff (EHRA NF), Full-Time Permanent; deadline 11/04/2026."
  },
  {
-  "title": "Data Coordinator (Soc/Clin Research Assistant – Advanced)",
+  "title": "Data Coordinator (Soc/Clin Research Assistant \u2013 Advanced)",
   "university": "UNC Chapel Hill",
   "city": "Chapel Hill",
   "state": "NC",
@@ -861,5 +825,74 @@
   "url": "https://explore.jobs.ufl.edu/en-us/job/541766/data-scientist-i",
   "posted": "Oct 20, 2026 (page Advertised 20 Oct 2026; Staff Full-Time; applications close 27 Oct 2026; $61,000-$65,000)",
   "evidence_note": "Live-browser verified 10/23: JOB NO 541766, MD-SURG-POPULATION HEALTH SCI (PLuS2 project); research software/data-pipelines/computational methods; no term or sponsorship language."
+ },
+ {
+  "title": "Data Architect Lead",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "engineering",
+  "url": "https://careers.umich.edu/job_detail/273999/data-architect-lead",
+  "posted": "Oct 23, 2026 (U-M full-time browse feed row 10/23/2026; detail page title verified live 10/24; Michigan Medicine BMC2 heart-failure registry, no term language)"
+ },
+ {
+  "title": "Clinical Informatics Specialist 4",
+  "university": "UC Davis",
+  "city": "Sacramento",
+  "state": "CA",
+  "category": "analytics",
+  "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88983&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
+  "posted": "10/21/2026",
+  "evidence_note": "Live-browser verified 10/24 via UC's own systemwide portal: Requisition 88983, Posting Date 10/21/2026, Full Time, Staff: Career, Enterprise Analytics and Data Services (EADS), UC Davis Health; Apply By Nov 4, 2026."
+ },
+ {
+  "title": "Systems Analyst II - 530957",
+  "university": "University of Alabama",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "category": "analytics",
+  "url": "https://careers.ua.edu/jobs/systems-analyst-ii-530957-tuscaloosa-alabama-united-states",
+  "posted": "10/22/2026 (page Published 2026-10-22T14:08:17Z; fetched live 10/24)",
+  "evidence_note": "Salaried E9, Mon-Fri, hybrid-eligible; SQL/reporting/data-insight duties. No term or sponsorship language."
+ },
+ {
+  "title": "Biostatistician",
+  "university": "UNC Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "datascience",
+  "url": "https://unc.peopleadmin.com/postings/327476",
+  "posted": "10/23/2026 (page Posting Open Date; UNC PeopleAdmin Atom feed 2026-10-22T22:18 ET)",
+  "evidence_note": "Permanent Staff (EHRA NF), Full-Time Permanent, FTE 1.0, 40 hrs/wk, $63,750-$82,450, Collaborative Studies Coordinating Center; deadline 11/13/2026."
+ },
+ {
+  "title": "Clinical Informatics Specialist",
+  "university": "Texas A&M University",
+  "city": "Dallas",
+  "state": "TX",
+  "category": "datascience",
+  "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMU_External/job/Dallas-TX/Clinical-Informatics-Specialist_R-089601-1",
+  "posted": "Oct 22, 2026 (page Published; CXS 'Posted 2 Days Ago')",
+  "evidence_note": "Borderline fit: clinical-informatics/EHR role (Health Science Center, College of Dentistry; EHR data integrity, reporting tools, HL7/FHIR, clinical data extraction), like the NYU clinical-informatics precedent. Job Type Staff, on-site Mon-Fri, $100,000-$120,000/yr; no term or sponsorship language."
+ },
+ {
+  "title": "AI Computational Scientist \u2013 Senior Software Engineer",
+  "university": "UT Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "aiml",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/details/AI-Computational-Scientist---Senior-Software-Engineer_R_00049221?q=R_00049221",
+  "posted": "Oct 23, 2026 (Workday 'Posted Yesterday' on 10/24/2026; live-browser verified 10/24)",
+  "evidence_note": "Jackson School of Geosciences; Full time, 40 hrs/wk, Position Duration 'Expected to Continue'; not temporary/fixed-term/grant-contingent."
+ },
+ {
+  "title": "Data Management Analyst Senior",
+  "university": "University of Kentucky",
+  "city": "Lexington",
+  "state": "KY",
+  "category": "analytics",
+  "url": "https://ukjobs.uky.edu/postings/652138",
+  "posted": "Undated on UK portal (observed live 10/24/2026; Deadline to Apply 11/05/2026; search-index live by Oct 19-21)",
+  "evidence_note": "Working title Clinical Research Associate Senior, Req RE56138, Clinical Research Support Office; Staff, Full-Time, remote-eligible, $44,678-$71,469."
  }
 ]
