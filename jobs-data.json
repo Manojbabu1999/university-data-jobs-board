@@ -3,7 +3,7 @@
   "category": "engineering",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 20, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
   "state": "MA",
   "title": "Software/Data Engineer",
   "university": "MIT",
@@ -13,7 +13,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 20, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Weather & Earth Systems",
   "university": "MIT",
@@ -23,7 +23,7 @@
   "category": "datascience",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 20, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
   "state": "MA",
   "title": "Data Scientist (Associate Staff)",
   "university": "MIT",
@@ -33,7 +33,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Oct 20, 2026 (observed live on careers.ll.mit.edu; no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
   "state": "MA",
   "title": "Machine Learning Developer",
   "university": "MIT",
@@ -233,26 +233,6 @@
   "evidence_note": "Builds/runs the data platform for the Initiative for Generative Immunotherapy (ingestion/validation/transfer/cataloging pipelines, Python, APIs, cloud). Permanent Staff (EHRA NF), Full-Time Permanent; deadline 11/04/2026."
  },
  {
-  "title": "Senior Software Engineer",
-  "university": "Purdue University",
-  "city": "West Lafayette",
-  "state": "IN",
-  "category": "engineering",
-  "url": "https://careers.purdue.edu/job/Software-Engineer%2C-Senior/44662-en_US/",
-  "posted": "10/20/2026 (Posting Start Date 10/20/26; page live 10/22)",
-  "eligibility_note": "Purdue University will not sponsor employment authorization for this position.",
-  "evidence_note": "Full-time regular staff (FLSA Exempt). Req Id 44662."
- },
- {
-  "title": "Enterprise EFP&A Financial Analyst Senior",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/284604/enterprise-efpa-financial-analyst-senior",
-  "posted": "Oct 20, 2026 (Posting Begin/End 10/20/2026-11/10/2026; Full-Time Regular, Hybrid; $83,000-$95,000)"
- },
- {
   "title": "Lead Data Architect",
   "university": "University of Chicago",
   "city": "Chicago",
@@ -320,7 +300,7 @@
   "evidence_note": "Permanent Staff (EHRA NF), Full-Time Permanent, FTE 1.0, 40 hrs/wk, $63,750-$82,450, Collaborative Studies Coordinating Center; deadline 11/13/2026."
  },
  {
-  "title": "AI Computational Scientist – Senior Software Engineer",
+  "title": "AI Computational Scientist \u2013 Senior Software Engineer",
   "university": "UT Austin",
   "city": "Austin",
   "state": "TX",
@@ -381,7 +361,7 @@
   "evidence_note": "Req 680806, Full Time, Johns Hopkins Health Plans; ETL design/development for Epic Cogito environment, data-quality profiling/cleansing before warehouse load. No sponsorship, term, or funding language."
  },
  {
-  "title": "Data Analyst, Senior – School of Medicine, Hematology",
+  "title": "Data Analyst, Senior \u2013 School of Medicine, Hematology",
   "university": "Emory University",
   "city": "Atlanta",
   "state": "GA",
@@ -391,7 +371,7 @@
   "evidence_note": "New in live iCIMS search Oct 25; absent from Oct 21/23 list; job ID in recent range. No sponsorship or term/funding language in fetched text."
  },
  {
-  "title": "Systems Analyst – Assistant Staff",
+  "title": "Systems Analyst \u2013 Assistant Staff",
   "university": "MIT",
   "city": "Lexington",
   "state": "MA",
@@ -402,7 +382,7 @@
   "evidence_note": "MIT Lincoln Laboratory, Counter-WMD Systems Group; duties include exploring AI, data analytics, sensor fusion; B.S. in Data Science/Statistics qualifying. Req 43372; Secret-level DoD clearance required."
  },
  {
-  "title": "Associate Data Analyst / Data Analyst – Gies College of Business",
+  "title": "Associate Data Analyst / Data Analyst \u2013 Gies College of Business",
   "university": "University of Illinois Urbana-Champaign",
   "city": "Urbana",
   "state": "IL",
@@ -504,16 +484,6 @@
   "posted": "10/27/2026 (CU Boulder official jobs feed, Requisition 75732; Posting End Date 11/08/2026)",
   "eligibility_note": "Visa sponsorship is not available for this position.",
   "evidence_note": "Office of Information Technology, University Staff, Full-Time; CRM data migration, source-to-target mapping, ETL/ELT, data quality, Salesforce Data Cloud. Detail page title verified live 10/29."
- },
- {
-  "title": "Data Analyst, Sponsored Programs Administration",
-  "university": "University of Illinois Urbana-Champaign",
-  "city": "Urbana",
-  "state": "IL",
-  "category": "analytics",
-  "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18243?c=illinois",
-  "posted": "10/20/2026 (page Posted date; Requisition 1038295; deadline Nov 11, 2026)",
-  "evidence_note": "100% full-time Civil Service; live-browser verified 10/29 via go.illinois.edu short link resolving to this CSOD requisition page; title matches, Apply Now shown, no expired notice."
  },
  {
   "title": "Biostatistics Senior Analyst - PREVENT Institute",
@@ -666,5 +636,46 @@
   "url": "https://careers.umich.edu/job_detail/279639/cadence-business-system-analyst-intermediatesenior",
   "posted": "Oct 22, 2026 (U-M official careers search feed row; detail page title verified live Nov 3; full-time regular)",
   "evidence_note": "Michigan Medicine Capacity Management; Epic Cadence scheduling workflows, queries/dashboards/reports, data insights."
+ },
+ {
+  "title": "Systems Analyst",
+  "university": "Purdue University",
+  "city": "West Lafayette",
+  "state": "IN",
+  "category": "analytics",
+  "url": "https://careers.purdue.edu/default/job/Systems-Analyst/44316-en_US",
+  "posted": "Undated on portal (observed live Nov 4, 2026; IDA+A data governance team)",
+  "eligibility_note": "Purdue University will not sponsor employment authorization for this position.",
+  "evidence_note": "Data governance team, Institutional Data Analytics + Assessment; data automation/integration/migration, data quality, ETL/automated feeds. FLSA Exempt, Professional 2, hybrid/100% remote options. Detail page title verified live Nov 4, 2026."
+ },
+ {
+  "title": "Data Science Analyst Senior/Intermediate",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "datascience",
+  "url": "https://careers.umich.edu/job_detail/285219/data-science-analyst-seniorintermediate",
+  "posted": "11/03/2026 (U-M official careers search feed row; detail page title verified live Nov 4; full-time regular; closes 12/03/2026)",
+  "evidence_note": "Michigan Medicine Anesthesiology Department; Apply Now shown. No term, funding, or sponsorship language on detail page."
+ },
+ {
+  "title": "Data Engineer III (OIT)",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "engineering",
+  "url": "https://staff-emory.icims.com/jobs/175922/data-engineer-iii-%28oit%29/job",
+  "posted": "Observed live in Emory's own iCIMS feed Nov 4, 2026 (no posted date shown; job ID above Nov 1 board max)",
+  "evidence_note": "OIT Architecture & Enterprise Apps; Regular Full-Time, Onsite; Apply Now shown. No term, funding, or sponsorship language on detail page. Live-browser verified Nov 4, 2026."
+ },
+ {
+  "title": "Senior Research Data/Informatics Specialist - School of Medicine, Pathology",
+  "university": "Emory University",
+  "city": "Atlanta",
+  "state": "GA",
+  "category": "analytics",
+  "url": "https://staff-emory.icims.com/jobs/175465/senior-research-data-informatics-specialist---school-of-medicine%2c-pathology/job",
+  "posted": "Observed live in Emory's own iCIMS feed Nov 4, 2026 (no posted date shown)",
+  "evidence_note": "SOM Pathology Admin; Regular Full-Time, Hybrid Remote; Apply Now shown. No term, funding, or sponsorship language on detail page. Live-browser verified Nov 4, 2026."
  }
 ]
