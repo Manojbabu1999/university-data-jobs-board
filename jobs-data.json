@@ -3,7 +3,7 @@
   "category": "engineering",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
   "state": "MA",
   "title": "Software/Data Engineer",
   "university": "MIT",
@@ -13,7 +13,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
   "state": "MA",
   "title": "AI/ML Engineer - Weather & Earth Systems",
   "university": "MIT",
@@ -23,7 +23,7 @@
   "category": "datascience",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
   "state": "MA",
   "title": "Data Scientist (Associate Staff)",
   "university": "MIT",
@@ -33,7 +33,7 @@
   "category": "aiml",
   "city": "Lexington",
   "eligibility_note": "US citizenship required",
-  "posted": "Observed live on careers.ll.mit.edu Nov 4, 2026 (no posted date shown)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
   "state": "MA",
   "title": "Machine Learning Developer",
   "university": "MIT",
@@ -42,7 +42,7 @@
  {
   "category": "engineering",
   "city": "New Haven",
-  "posted": "Oct 26, 2026 (page Published field updated from Oct 20; portal API postedDate Oct 13)",
+  "posted": "Nov 3, 2026 (page Published; re-verified live Nov 5, 2026; portal API postedDate Oct 13)",
   "state": "CT",
   "title": "Lead Clinical Data Engineer",
   "university": "Yale",
@@ -67,198 +67,14 @@
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138765WDEXTERNALENUS/Senior-Strategy-Analyst"
  },
  {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Research Informatics Analyst School of Medicine Brain Health",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174109/research-informatics-analyst-school-of-medicine-brain-health/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "AI Scientist/Engineer II- School of Medicine, BMI",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/170568/ai-scientist-engineer-ii--school-of-medicine%2c-bmi/job"
- },
- {
-  "category": "engineering",
-  "city": "Atlanta",
-  "eligibility_note": "This position is not eligible for visa sponsorship now or in the future.",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed 10/23; no posted date shown)",
-  "state": "GA",
-  "title": "Data Engineer II (School of Medicine)",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/173883/data-engineer-ii-%28school-of-medicine%29/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "AI Scientist/Engineer II - School of Medicine, Biomedical Engineering",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174172/ai-scientist-engineer-ii---school-of-medicine%2c-biomedical-engineering/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Data Analyst- School of Medicine, BMI",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Lead Research Informatics Analyst - School of Nursing - Office of Nursing Research",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/169430/lead-research-informatics-analyst---school-of-nursing---office-of-nursing-research/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Data Analyst - School of Medicine Ophthalmology Eagle Eye Suite",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/172997/data-analyst---school-of-medicine-ophthalmology-eagle-eye-suite/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Sr. Research Informatics Data Specialist - OIT",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/160777/sr-research-informatics-data-specialist---oit/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Associate Scientist Bioinformatics - School of Medicine Orthopaedics",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/161397/associate-scientist-bioinformatics---school-of-medicine-orthopaedics/job"
- },
- {
-  "category": "analytics",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Director for Accounting, Data Analytics and Business Intelligence - School of Medicine",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/167243/director-for-accounting--data-analytics-and-business-intelligence---school-of-medicine/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Assistant Scientist, Bioinformatics- School of Medicine, BMI",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/170304/assistant-scientist--bioinformatics--school-of-medicine--bmi/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Senior Biostatistician - Office of Nursing Research - School of Nursing",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/173002/senior-biostatistician---office-of-nursing-research---school-of-nursing/job"
- },
- {
-  "category": "datascience",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Associate Director, Biostatistics | School of Medicine - Pediatrics, Innovation Research",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/169637/associate-director%2c-biostatistics-%7c-school-of-medicine-pediatrics/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Artificial Intelligence (AI) Solutions Lead - AI and Automation",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/175043/artificial-intelligence-%28ai%29-solutions-lead---ai-and-automation/job"
- },
- {
-  "category": "aiml",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "Artificial Intelligence Platform and Service Lead",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/175147/artificial-intelligence-platform-and-service-lead/job"
- },
- {
-  "category": "engineering",
-  "city": "Atlanta",
-  "posted": "Oct 21, 2026 (observed live in Emory's own iCIMS feed; no posted date shown)",
-  "state": "GA",
-  "title": "The Carter Center: Applications Engineer, IT Applications and Data",
-  "university": "Emory University",
-  "url": "https://staff-emory.icims.com/jobs/174890/the-carter-center%3a--applications-engineer%2c-it-applications-and-data/job",
-  "eligibility_note": "Applicants must be currently authorized to work in the United States for any employer."
- },
- {
-  "title": "AHPS Data Disseminator Coordinator",
-  "university": "UNC Chapel Hill",
-  "city": "Chapel Hill",
-  "state": "NC",
-  "category": "analytics",
-  "url": "https://unc.peopleadmin.com/postings/327363",
-  "posted": "10/21/2026 (page Posting Open Date; UNC PeopleAdmin feed; fetched live 10/22)",
-  "evidence_note": "Data management/dissemination for the Add Health Parent Study; R/SAS/Stata desirable. Permanent Staff (EHRA NF), Full-Time, FTE 1.0, 40 hrs/wk; deadline 11/04/2026."
- },
- {
-  "title": "Senior Computational Scientist",
-  "university": "UNC Chapel Hill",
-  "city": "Chapel Hill",
-  "state": "NC",
-  "category": "engineering",
-  "url": "https://unc.peopleadmin.com/postings/327372",
-  "posted": "10/21/2026 (page Posting Open Date; UNC PeopleAdmin feed; fetched live 10/22)",
-  "evidence_note": "Builds/runs the data platform for the Initiative for Generative Immunotherapy (ingestion/validation/transfer/cataloging pipelines, Python, APIs, cloud). Permanent Staff (EHRA NF), Full-Time Permanent; deadline 11/04/2026."
- },
- {
-  "title": "Lead Data Architect",
-  "university": "University of Chicago",
-  "city": "Chicago",
-  "state": "IL",
-  "category": "engineering",
-  "url": "https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Lead-Data-Architect_JR35609",
-  "posted": "Oct 21, 2026 (CXS 'Posted 2 Days Ago'; Full time, workerSubType Staff)"
- },
- {
   "title": "Statistician 2",
   "university": "Yale",
   "city": "New Haven",
   "state": "CT",
   "category": "datascience",
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138919WDEXTERNALENUS/Statistician-2",
-  "posted": "Oct 22, 2026 (page Published; Time Type Full time, Duration Type Staff; $82,000-$131,500)",
+  "posted": "Nov 2, 2026 (page Published; re-verified live Nov 5, 2026; Time Type Full time, Duration Type Staff; $82,000-$131,500)",
   "evidence_note": "Yale/Yale New Haven Hospital Center for Outcomes Research and Evaluation."
- },
- {
-  "title": "Data Analyst, Energy Management",
-  "university": "Duke University",
-  "city": "Durham",
-  "state": "NC",
-  "category": "analytics",
-  "url": "https://careers.duke.edu/job/Durham-Data-Analyst%2C-Energy-Management-NC-27710/1433718900/",
-  "posted": "Oct 23, 2026 (Duke official search feed; Regular; on-site; $61,026-$106,641)"
  },
  {
   "title": "Data Architect Lead",
@@ -268,16 +84,6 @@
   "category": "engineering",
   "url": "https://careers.umich.edu/job_detail/273999/data-architect-lead",
   "posted": "Oct 23, 2026 (U-M full-time browse feed row 10/23/2026; detail page title verified live 10/24; Michigan Medicine BMC2 heart-failure registry, no term language)"
- },
- {
-  "title": "Clinical Informatics Specialist 4",
-  "university": "UC Davis",
-  "city": "Sacramento",
-  "state": "CA",
-  "category": "analytics",
-  "url": "https://careerspub.universityofcalifornia.edu/psc/ucdmed/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=88983&PostingSeq=1&SiteId=5&languageCd=ENG&FOCUS=Applicant",
-  "posted": "10/21/2026",
-  "evidence_note": "Live-browser verified 10/30 via UC's own systemwide portal: Requisition 88983, Full Time, Staff: Career, 100%, Enterprise Analytics and Data Services (EADS), UC Davis Health; Apply By Nov 4, 2026 at 11:59pm. (10/30 text-fetch hit a PeopleSoft cookie/session barrier; live browser confirmed the detail page.)"
  },
  {
   "title": "Systems Analyst II - 530957",
@@ -306,7 +112,7 @@
   "state": "TX",
   "category": "aiml",
   "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/details/AI-Computational-Scientist---Senior-Software-Engineer_R_00049221?q=R_00049221",
-  "posted": "Oct 23, 2026 (Workday 'Posted Yesterday' on 10/24/2026; live-browser verified 10/24)",
+  "posted": "Oct 23, 2026 (Workday 'Posted 13 Days Ago' on Nov 5, 2026; live-browser verified Nov 5, 2026; Full time, Regular, $100,000-$120,000; Position Duration 'Expected to Continue')",
   "evidence_note": "Jackson School of Geosciences; Full time, 40 hrs/wk, Position Duration 'Expected to Continue'; not temporary/fixed-term/grant-contingent. Workday CXS-confirmed live 10/30/2026 ('Posted 7 Days Ago').",
   "eligibility_note": "This position is not eligible for employer sponsorship."
  },
@@ -319,26 +125,6 @@
   "url": "https://ukjobs.uky.edu/postings/652138",
   "posted": "Undated on UK portal (observed live 10/24/2026; Deadline to Apply 11/05/2026; search-index live by Oct 19-21)",
   "evidence_note": "Working title Clinical Research Associate Senior, Req RE56138, Clinical Research Support Office; Staff, Full-Time, remote-eligible, $44,678-$71,469."
- },
- {
-  "title": "Financial Analyst Intermediate",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/284661",
-  "posted": "10/21/2026 (U-M full-time search feed row; detail page title verified live 10/25)",
-  "evidence_note": "SRO Finance Group, Survey Research Center; data analysis, querying/summarizing datasets, financial reporting. No term, funding, or sponsorship language."
- },
- {
-  "title": "Financial or Business Analyst Senior",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/284365",
-  "posted": "10/21/2026 (U-M full-time search feed row; detail page title verified live 10/25)",
-  "evidence_note": "Internal Medicine Department finance; budget/forecasting, variance reporting, decision support. Note: candidates must reside in Michigan for on-site availability. No term or sponsorship language."
  },
  {
   "title": "Higher Education Analyst I",
@@ -361,36 +147,15 @@
   "evidence_note": "Req 680806, Full Time, Johns Hopkins Health Plans; ETL design/development for Epic Cogito environment, data-quality profiling/cleansing before warehouse load. No sponsorship, term, or funding language."
  },
  {
-  "title": "Data Analyst, Senior \u2013 School of Medicine, Hematology",
-  "university": "Emory University",
-  "city": "Atlanta",
-  "state": "GA",
-  "category": "analytics",
-  "url": "https://staff-emory.icims.com/jobs/175117/data-analyst%2c-senior--school-of-medicine%2c-hematology/job",
-  "posted": "Observed live in Emory's iCIMS feed Oct 25, 2026 (no posted date shown; Emory pages carry boilerplate Published field)",
-  "evidence_note": "New in live iCIMS search Oct 25; absent from Oct 21/23 list; job ID in recent range. No sponsorship or term/funding language in fetched text."
- },
- {
   "title": "Systems Analyst \u2013 Assistant Staff",
   "university": "MIT",
   "city": "Lexington",
   "state": "MA",
   "category": "datascience",
   "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Assistant-Staff-MA-02420/1431876700/",
-  "posted": "Observed live on careers.ll.mit.edu Oct 25, 2026 (no posted date shown; search-index crawled Oct 21)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
   "eligibility_note": "US citizenship required",
   "evidence_note": "MIT Lincoln Laboratory, Counter-WMD Systems Group; duties include exploring AI, data analytics, sensor fusion; B.S. in Data Science/Statistics qualifying. Req 43372; Secret-level DoD clearance required."
- },
- {
-  "title": "Associate Data Analyst / Data Analyst \u2013 Gies College of Business",
-  "university": "University of Illinois Urbana-Champaign",
-  "city": "Urbana",
-  "state": "IL",
-  "category": "analytics",
-  "url": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18305?c=illinois",
-  "posted": "10/21/2026 (UC systemwide-style CSOD listing; live-browser verified 10/25; deadline Nov 10, 2026 6:00 pm CT)",
-  "eligibility_note": "This position is not eligible for any type of sponsorship for work authorization.",
-  "evidence_note": "Requisition 18305 (ID 1037986), 100% full-time; data analysis related to enrollment, retention, and graduation, plus dashboards/visualizations and academic-planning support."
  },
  {
   "title": "Senior Data Engineer",
@@ -423,16 +188,6 @@
   "evidence_note": "Supports an NIH-funded Gynecologic Oncology research study; page states Regular with no end date and no funding-contingency language."
  },
  {
-  "title": "Business Information Analyst Intermediate",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/284954/business-information-analyst-intermediate",
-  "posted": "10/28/2026 (U-M official careers search feed row; detail page title verified live 10/29; regular full-time)",
-  "eligibility_note": "Candidates must be currently eligible to work in the United States, as we are currently unable to sponsor visas for this job opening."
- },
- {
   "title": "Data Analyst, Enterprise Data Solutions",
   "university": "University of Nebraska System",
   "city": "Lincoln",
@@ -442,27 +197,6 @@
   "posted": "Undated on portal (observed live 10/29/2026; Application Review Date 11/9/26; Open Until Filled: Yes)",
   "eligibility_note": "Sponsorship will not be offered for this position.",
   "evidence_note": "Full-Time, Benefits Eligible, Enterprise Data Solutions team; detail page title verified live 10/29."
- },
- {
-  "title": "Research Project Manager",
-  "university": "UNC Chapel Hill",
-  "city": "Chapel Hill",
-  "state": "NC",
-  "category": "datascience",
-  "url": "https://unc.peopleadmin.com/postings/327709",
-  "posted": "10/27/2026 (page Posting Open Date; deadline 11/10/2026)",
-  "evidence_note": "Permanent Staff (EHRA NF), Full-Time Permanent, FTE 1.0, $81,434-$108,150; advanced statistical methods and bioinformatics/cheminformatics pipelines, omics data mining. Detail page title verified live 10/29."
- },
- {
-  "title": "Data Specialist",
-  "university": "University of Georgia",
-  "city": "Athens",
-  "state": "GA",
-  "category": "analytics",
-  "url": "https://www.ugajobsearch.com/postings/509936",
-  "posted": "10/21/2026 (page Posting Date; permanent, Full Time, FTE 1.00, Benefits Eligible)",
-  "eligibility_note": "We are unable to sponsor a work visa for this position.",
-  "evidence_note": "DAR-Information Technology; BI/analytics, Qlik/Power BI, Microsoft Fabric, ETL. Detail page title verified live 10/29."
  },
  {
   "title": "Senior Data Engineer",
@@ -494,17 +228,6 @@
   "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Biostatistics-Senior-Analyst---PREVENT-Institute_R161546-1",
   "posted": "Oct 28, 2026 (Workday Published; CXS 'Posted 2 Days Ago')",
   "evidence_note": "PREVENT Institute (Prevention Research, Equity, Value, Early Detection, Navigation and Translation); Position Type Regular, 40 hrs/wk; advanced biostatistics/predictive modeling, SAS/R/Python/SQL. No term, funding-contingency, or sponsorship language in fetched detail text. Detail page title verified live 10/30."
- },
- {
-  "title": "Lead Data Engineer",
-  "university": "Emory University",
-  "city": "Atlanta",
-  "state": "GA",
-  "category": "engineering",
-  "url": "https://staff-emory.icims.com/jobs/175302/lead-data-engineer/job",
-  "posted": "Undated on portal (observed live in Emory's own iCIMS feed Oct 30, 2026; job ID 175302 above Oct 29 board max 175147)",
-  "evidence_note": "OIT: Data Warehouse & BI; leads Emory's Unified Data Platform (Microsoft Fabric), integrating HR, Finance, Student and Research data. Regular Full-Time. Live-browser verified 10/30; no posted date displayed on Emory detail/search views, no term or sponsorship language seen. Detail page re-verified live 11/1/2026; page states not eligible for visa sponsorship now or in the future.",
-  "eligibility_note": "This position is not eligible for visa sponsorship now or in the future."
  },
  {
   "title": "Business Systems Analyst - Senior / Intermediate",
@@ -553,7 +276,7 @@
   "state": "MA",
   "category": "datascience",
   "url": "https://careers.ll.mit.edu/job/Lexington-Data-Scientist-andor-Systems-Analyst-MA-02420/1443848100/",
-  "posted": "Observed live on careers.ll.mit.edu Nov 1, 2026 (no posted date shown; job ID above Oct 31 board max)",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
   "eligibility_note": "US citizenship required",
   "evidence_note": "MIT Lincoln Laboratory, Bioanalytics Systems & Technologies Group; Technical Staff, onsite; analytic and AI/ML solutions over biological datasets. Page states selected candidate must be able to obtain and maintain a Secret-level DoD security clearance."
  },
@@ -564,7 +287,7 @@
   "state": "CT",
   "category": "datascience",
   "url": "https://careers.yale.edu/us/en/job/139313WD/Data-Scientist",
-  "posted": "10/30/2026 (page Job Posting Date; live-verified 11/2/2026)",
+  "posted": "Nov 5, 2026 (page Job Posting Date; live-verified Nov 5, 2026)",
   "evidence_note": "Office of Institutional Research, Office of the Provost; Full time, Duration Type Staff, Hybrid; $82,000-$131,500; Apply Now shown on Yale detail page."
  },
  {
@@ -677,5 +400,172 @@
   "url": "https://staff-emory.icims.com/jobs/175465/senior-research-data-informatics-specialist---school-of-medicine%2c-pathology/job",
   "posted": "Observed live in Emory's own iCIMS feed Nov 4, 2026 (no posted date shown)",
   "evidence_note": "SOM Pathology Admin; Regular Full-Time, Hybrid Remote; Apply Now shown. No term, funding, or sponsorship language on detail page. Live-browser verified Nov 4, 2026."
+ },
+ {
+  "title": "Software Engineer 2 \u2013 Data Integration",
+  "university": "Yale",
+  "city": "New Haven",
+  "state": "CT",
+  "category": "engineering",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138779WDEXTERNALENUS/Software-Engineer-2-Data-Integration",
+  "posted": "Oct 28, 2026 (page Job Posting Date; Phenom Published Nov 4, 2026)",
+  "evidence_note": "Workday CXS detail verified: Full time, Duration Type Staff, Hybrid, $82,500-$123,750. ETL processes extracting data from operational systems into data marts for reporting; Python, Databricks, SQL, Talend; Data Management team. No term or sponsorship language."
+ },
+ {
+  "title": "Assistant Director, Advancement Services & Analytics",
+  "university": "New York University",
+  "city": "New York",
+  "state": "NY",
+  "category": "analytics",
+  "url": "https://uscareers-nyu.icims.com/jobs/16502/assistant-director%2c-advancement-services-%26-analytics/job",
+  "posted": "Oct 30, 2026 (page Published)",
+  "evidence_note": "Job ID 2026-16502, UDAR Advancement Services & Analytics team; leads systems projects, Change Control Board, annual metrics reporting; supervises staff; relational databases and analytics tools, 'produce and analyze data'; hybrid; $85,000-$105,000. Analytics-team leadership/operations role. FT status not explicitly shown on fetched page (NYU staff posting, Category Business/Professional Administrative). No term or sponsorship language."
+ },
+ {
+  "title": "Learning Analytics Data Scientist",
+  "university": "Penn State",
+  "city": "University Park",
+  "state": "PA",
+  "category": "datascience",
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Learning-Analytics-Data-Scientist_REQ_0000082593-2",
+  "posted": "Oct 22, 2026 (page Published; boundary of 14-day window)",
+  "eligibility_note": "Penn State does not sponsor or take over sponsorship of a staff employment Visa. Applicants must be authorized to work in the U.S.",
+  "evidence_note": "Penn State IT, Data Empowered Learning team; predictive/descriptive models, ML, complex SQL, Python data stack; PSU_Staff site, full-time benefits described. No term or funding language."
+ },
+ {
+  "title": "AI/ML Computer Science Research and Development Engineer",
+  "university": "Penn State",
+  "city": "State College",
+  "state": "PA",
+  "category": "aiml",
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Computer-Science-Research-and-Development-Engineer_REQ_0000083630-2",
+  "posted": "Nov 2, 2026 (page Published)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "Applied Research Laboratory (ARL), Comprehensive Software Solutions Dept; AI/ML/DL/generative and agentic AI research; PyTorch/TensorFlow/JAX, Python; R&D Engineer - Software (ARL) staff track; full-time, on-site State College; $121,704-$231,000. No term or funding language."
+ },
+ {
+  "title": "Technical Staff: Medical Imaging AI",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Medical-Imaging-AI-MA-02420/1372903200/",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Human Health & Performance Systems Group; deep learning, medical imaging/signal processing, AI-enabled prototypes; Ph.D. (or M.S. + 5 yrs). Secret-level DoD clearance required."
+ },
+ {
+  "title": "Systems Analyst - Associate Staff",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "datascience",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Associate-Staff-MA-02420/1431876300/",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Counter-WMD Systems Group (same duties as the on-board Assistant Staff variant: AI, data analytics, sensor fusion, data analysis/statistical modeling; M.S. in Data Science/Statistics qualifying). Req 43371; Secret-level DoD clearance required."
+ },
+ {
+  "title": "Systems Analyst - Tech Staff",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "datascience",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Tech-Staff-MA-02420/1431875800/",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Counter-WMD Systems Group; same AI/data-analytics/sensor-fusion duties as the Assistant/Associate Staff variants, Ph.D.-level (Ph.D. or M.S. + 5 yrs). Req 43370; Secret-level DoD clearance required."
+ },
+ {
+  "title": "Staff Scientist - Systems Analyst",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "datascience",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Staff-Scientist-Systems-Analyst-MA-02420/1404795100/",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Homeland Protection Systems Group; data analysis, predictive analytics, ML applications, multi-sensor fusion, large-dataset processing/data exploitation. Req 43117; Secret-level DoD clearance required."
+ },
+ {
+  "title": "Software Engineer",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "engineering",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Software-Engineer-MA-02420/1443846700/",
+  "posted": "Observed live on careers.ll.mit.edu Nov 5, 2026 (no posted date shown)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Bioanalytics Systems & Technologies Group; medical/health data harmonization, data streaming applications, modeling/simulation; Python, PostgreSQL/MySQL, SQL; AI/ML or data science experience a plus. Distinct requisition (Req 43499) from the on-board Software/Data Engineer (Req 43407). Secret-level DoD clearance required."
+ },
+ {
+  "title": "Supply Chain Business Systems Analyst Intermediate",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/285292/supply-chain-business-systems-analyst-intermediate",
+  "posted": "Nov 4, 2026 (official U-M Careers search-feed rows, Job Opening ID 285292; detail page title verified live Nov 5, 2026)",
+  "evidence_note": "Detail page fetched live Nov 5 and confirmed: full-time, hybrid, Mon-Fri 8:00am-4:30pm, office in Ann Arbor. Michigan Medicine Supply Chain BSA work (PeopleSoft/GHX/Syft, ERP/EHR data systems, requirements, testing). No term-limit, funding-contingent, or grant language anywhere on the page. No sponsorship/citizenship language stated."
+ },
+ {
+  "title": "Senior Institutional Research Analyst & Consultant",
+  "university": "University of Notre Dame",
+  "city": "Notre Dame",
+  "state": "IN",
+  "category": "analytics",
+  "url": "https://careers.nd.edu/search-careers/3743990016501546-senior-institutional-research-analyst-consultant/",
+  "posted": "Undated on page; observed live on Notre Dame's own careers site (careers.nd.edu) Nov 5, 2026, applications accepted through November 12, 2026",
+  "evidence_note": "Verified by fetching careers.nd.edu today: page shows the exact title, unit Inst Resrch, Innovation, & Strategy (IRIS, Office of Strategic Planning), full-time staff role, pay up to $120,000, 3+ years data analysis/institutional research experience required, AI tools and predictive modeling/causal inference/ML listed as preferred. No term, funding-contingent, or grant language anywhere in the posting. Hybrid up to 2 days/week after onboarding. Posting states position 'is located in South Bend, Indiana'."
+ },
+ {
+  "title": "Software Engineer AI & Digital Health",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "aiml",
+  "url": "https://careers.umich.edu/job_detail/285213/software-engineer-ai-digital-health",
+  "posted": "Nov 2, 2026 (official U-M Careers search-feed rows, Job Opening ID 285213)",
+  "evidence_note": "Full-time Software Engineer (Senior/Intermediate), AI & Digital Health; builds AI-powered applications, LLM integrations, data pipelines. Posting notes it focuses on engineering the systems that enable AI research rather than developing new ML algorithms. No term/funding/sponsorship language."
+ },
+ {
+  "title": "Business Analyst III",
+  "university": "University of Georgia",
+  "city": "Athens",
+  "state": "GA",
+  "category": "analytics",
+  "url": "https://www.ugajobsearch.com/postings/510901",
+  "posted": "10/29/2026 (page Posting Date; detail page title verified live Nov 5, 2026)",
+  "evidence_note": "Posting S15990P, VPI-Student Financial Aid; Full Time, FTE 1.00, Benefits Eligible, open until filled; leads BI/analytics, data analysis, reporting, predictive modeling and management information systems. No term, funding, or sponsorship language on detail page."
+ },
+ {
+  "title": "Research Analyst, Kinder Institute for Urban Research",
+  "university": "Rice University",
+  "city": "Houston",
+  "state": "TX",
+  "category": "analytics",
+  "url": "https://jobs.rice.edu/jobs/research-analyst-kinder-institute-for-urban-research-houston-texas-united-states",
+  "posted": "10/26/2026 (page Published 2026-10-26T17:34:08Z; detail page title verified live Nov 5, 2026)",
+  "evidence_note": "FULL_TIME, full-time benefits-eligible, $66,000-$69,500, hybrid (3 days in-office/2 remote); data maintenance/analysis, statistical analysis in Stata/SAS/R, Community and Public Health Team. Closing Nov 6, 2026 11:59pm CST. No term, funding, or sponsorship language on detail page."
+ },
+ {
+  "title": "RCRC Clinical Data Manager I",
+  "university": "Rutgers University",
+  "city": "New Brunswick",
+  "state": "NJ",
+  "category": "analytics",
+  "url": "https://jobs.rutgers.edu/postings/283539",
+  "posted": "Undated on detail page (Posting Open Date blank); observed live on jobs.rutgers.edu Nov 5, 2026; listed in Rutgers' own search feed crawled Nov 4, 2026",
+  "evidence_note": "Posting Number 26ST2090, Full Time, 37.5 hours/week, Staff - 12 month, Grade 25S, $82,856-$126,775, Department Clinical & Translational R, RCRC / Rutgers Institute for Translational Medicine & Science. No term/funding/sponsorship language; offers contingent on pre-employment screenings."
+ },
+ {
+  "title": "RCRC Biostatistician II",
+  "university": "Rutgers University",
+  "city": "New Brunswick",
+  "state": "NJ",
+  "category": "datascience",
+  "url": "https://jobs.rutgers.edu/postings/282537",
+  "posted": "Undated on detail page (Posting Open Date blank); observed live on jobs.rutgers.edu Nov 5, 2026; listed in Rutgers' own search feed crawled Nov 4, 2026",
+  "evidence_note": "Posting Number 26ST1870, Full Time, 37.5 hours/week, Staff - 12 month, Grade 26S, $74,332-$106,121, Department Clinical & Translational R, RCRC. No term/funding/sponsorship language; offers contingent on pre-employment screenings."
  }
 ]
