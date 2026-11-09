@@ -173,7 +173,7 @@
   "evidence_note": "SOM Pathology Admin; Regular Full-Time, Hybrid Remote; Apply Now shown. No term, funding, or sponsorship language on detail page. Live-browser verified Nov 4, 2026."
  },
  {
-  "title": "Software Engineer 2 – Data Integration",
+  "title": "Software Engineer 2 \u2013 Data Integration",
   "university": "Yale",
   "city": "New Haven",
   "state": "CT",
@@ -189,7 +189,7 @@
   "state": "NY",
   "category": "analytics",
   "url": "https://uscareers-nyu.icims.com/jobs/16502/assistant-director%2c-advancement-services-%26-analytics/job",
-  "posted": "Oct 30, 2026 (page Published; live-browser verified Nov 6, 2026 — detail page shows '1 week ago')",
+  "posted": "Oct 30, 2026 (page Published; live-browser verified Nov 6, 2026 \u2014 detail page shows '1 week ago')",
   "evidence_note": "Job ID 2026-16502, UDAR Advancement Services & Analytics team; leads systems projects, Change Control Board, annual metrics reporting; supervises staff; relational databases and analytics tools, 'produce and analyze data'; hybrid; $85,000-$105,000. Analytics-team leadership/operations role. FT status not explicitly shown on fetched page (NYU staff posting, Category Business/Professional Administrative). No term or sponsorship language."
  },
  {
@@ -350,26 +350,6 @@
   "evidence_note": "Huntsman Cancer Institute, Office of Data Science & AI; Benefited Staff, Full Time, 40 hrs/week, External Posting; leads LLM/AI analytical systems, pipelines, dashboards (Python/R/Streamlit); no term/funding/sponsorship language on posting"
  },
  {
-  "title": "Analytics Developer",
-  "university": "USC",
-  "city": "San Diego",
-  "state": "CA",
-  "category": "analytics",
-  "url": "https://usccareers.usc.edu/job/san-diego/analytics-developer/1209/102779733056",
-  "posted": "2026-11-02 (Job ID REQ20182601, 'Posted Date 11/02/2026' and 'Published: 2026-11-02' on the USC posting page, verified by browser.open)",
-  "evidence_note": "USC Information Technology Services staff listing; Keck School of Medicine – Alzheimer Therapeutic Research Institute (ATRI); clinical-trial databases, R/Python programs, dashboards and analytics content for trial monitoring; on-site at ATRI San Diego at least 3 days/week; hourly rate $45.10–$59.33; no term, funding-end or sponsorship language in the posting."
- },
- {
-  "title": "Analytics Developer",
-  "university": "USC",
-  "city": "San Diego",
-  "state": "CA",
-  "category": "analytics",
-  "url": "https://usccareers.usc.edu/job/san-diego/analytics-developer/1209/102817058848",
-  "posted": "2026-11-03 (Job ID REQ20182606, 'Posted Date 11/03/2026' and 'Published: 2026-11-03' on the USC posting page, verified by browser.open)",
-  "evidence_note": "Same ATRI Analytics Developer description as REQ20182601 but a distinct posting (different Job ID and URL, posted one day later) – a second headcount for the same role; same FT/staff, on-site, duties and pay evidence as above; no term, funding-end or sponsorship language."
- },
- {
   "title": "Executive Director of Institutional Research",
   "university": "Nevada System of Higher Education",
   "city": "Reno",
@@ -388,7 +368,7 @@
   "url": "https://careers.ll.mit.edu/job/Lexington-Machine-Learning-Developer-MA-02420/1448348200/",
   "posted": "Nov 5, 2026 (page Date; live-browser verified Nov 7, 2026; Req 43612)",
   "eligibility_note": "US citizenship required",
-  "evidence_note": "MIT Lincoln Laboratory, Transportation Safety and Resilience Group (04-42); Technical Staff 5/6; ML algorithms and systems for autonomous and semi-autonomous vehicles — collision-avoidance logic, real-time contingency management, decision-support systems, reinforcement learning. Secret-level DoD clearance required. Distinct requisition from the ML Developer reported filled Nov 6 (Req 43612, Apply now verified Nov 7)."
+  "evidence_note": "MIT Lincoln Laboratory, Transportation Safety and Resilience Group (04-42); Technical Staff 5/6; ML algorithms and systems for autonomous and semi-autonomous vehicles \u2014 collision-avoidance logic, real-time contingency management, decision-support systems, reinforcement learning. Secret-level DoD clearance required. Distinct requisition from the ML Developer reported filled Nov 6 (Req 43612, Apply now verified Nov 7)."
  },
  {
   "title": "Systems Analyst",
@@ -510,7 +490,7 @@
   "state": "MD",
   "category": "analytics",
   "url": "https://hiring.jhu.edu/careers/job/1133916628946",
-  "posted": "Oct 29, 2026 (portal Date Created; live-browser verified Nov 8, 2026; Req 122930)",
+  "posted": "Oct 30, 2026 (portal Date Created; live-browser verified Nov 8, 2026; Req 122930)",
   "evidence_note": "Bloomberg School of Public Health, Dept of Health Policy and Management (Health Economics); Full-time, Exempt, Remote. Builds analytic datasets from large administrative databases (health insurance claims, EHRs, employment records, population surveys); data pipeline development, data linkage/cleaning, statistical and econometric analysis (IV, difference-in-differences); bachelor's + 3 years, SAS/SQL and Stata/R preferred; $49,200-$86,200. No term, end date, or funding-contingency language in full posting text."
  },
  {
@@ -520,7 +500,68 @@
   "state": "MD",
   "category": "analytics",
   "url": "https://hiring.jhu.edu/careers/job/1133916567223",
-  "posted": "Oct 27, 2026 (portal Date Created; live-browser verified Nov 8, 2026; Req 122892)",
+  "posted": "Oct 29, 2026 (portal Date Created; live-browser verified Nov 8, 2026; Req 122892)",
   "evidence_note": "Bloomberg School of Public Health, Dept of Health Policy and Management (Health Economics); Full-time, Exempt, Hybrid. Builds complex data models and conducts complex analysis for health economics/health services research (older adults, mental health/substance use, Medicare/Medicaid value, affordability); analytic datasets from claims/EHRs, econometric methods; master's required, 1 year experience, PhD preferred, STATA/R/SAS/SQL; $57,195-$100,040. No term, end date, or funding-contingency language."
+ },
+ {
+  "title": "Senior Data Engineer \u2013 Clinical & Healthcare Data",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "engineering",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-Data-Engineer---Clinical---Healthcare-Data_R147811-1",
+  "posted": "Nov 5, 2026 (page Published; detail page title verified live Nov 9, 2026)",
+  "evidence_note": "Req R147811-1, Position Type Regular, 40 hrs/week; Health System Shared Services, Analytics Center of Excellence; builds OMOP/Databricks pipelines for analytics and ML use cases. No term, funding-contingency, or sponsorship language in fetched detail text."
+ },
+ {
+  "title": "Senior AI and Data Science Consultant",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "aiml",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-AI-and-Data-Science-Consultant_R161284-1",
+  "posted": "Nov 2, 2026 (page Published; detail page title verified live Nov 9, 2026)",
+  "evidence_note": "Req R161284-1, Position Type Regular, 40 hrs/week; Health System Shared Services; ML, agentic/generative AI, MLOps. No term, funding-contingency, or sponsorship language in fetched detail text."
+ },
+ {
+  "title": "Data Management Analyst 1",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Data-Management-Analyst-1_R150689-1",
+  "posted": "Nov 3, 2026 (page Published; detail page title verified live Nov 9, 2026)",
+  "evidence_note": "Req R150689-1, Position Type Regular, 40 hrs/week; Health System Shared Services, Supply Chain Operations; master-data management/QA in Workday ERP. No term, funding-contingency, or sponsorship language in fetched detail text."
+ },
+ {
+  "title": "Senior Procure to Pay Data Analyst",
+  "university": "New York University",
+  "city": "New York",
+  "state": "NY",
+  "category": "analytics",
+  "url": "https://uscareers-nyu.icims.com/jobs/16219/senior-procure-to-pay-data-analyst/job",
+  "posted": "Nov 4, 2026 (page Published; Job 16219; detail page title verified live Nov 9, 2026)",
+  "evidence_note": "NYU staff posting; lead reporting/analytics/BI resource for Procure-to-Pay; bachelor's + 5 yrs data analytics/BI; $110,000-$130,000; Tableau/Power BI, AI/predictive analytics, data governance. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Academic Services Technology Solutions Specialist",
+  "university": "University of Notre Dame",
+  "city": "Notre Dame",
+  "state": "IN",
+  "category": "analytics",
+  "url": "https://careers.nd.edu/search-careers/3743990016556727-academic-services-technology-solutions-specialist/",
+  "posted": "Undated on portal (observed live Nov 9, 2026; search index first crawled Nov 8-9; applications accepted through Nov 22, 2026)",
+  "eligibility_note": "No visa sponsorship",
+  "evidence_note": "Office of the Registrar; full-time, M-F 8-5; Banner course-data structures, SQL/reporting queries, Tableau/Business Objects, data auditing/report development; bachelor's + 3 yrs; $62,000-$68,000; onsite 6-month ramp, then hybrid up to 2 days/week. No term or funding language."
+ },
+ {
+  "title": "Research Project Manager",
+  "university": "Rutgers University",
+  "city": "New Brunswick",
+  "state": "NJ",
+  "category": "datascience",
+  "url": "https://jobs.rutgers.edu/postings/283318",
+  "posted": "Oct 28, 2026 (detail page Posting Open Date; Posting Number 26ST2056; detail page title verified live Nov 9, 2026)",
+  "evidence_note": "Full Time, Staff - 12 month, Grade 07, $94,492-$144,715; Lead Analyst for the Center for Pharmacoepidemiology and Treatment Science \u2014 longitudinal modeling of very large healthcare datasets (EHR + claims), SAS/R/Stata. Appointment is standard Staff - 12 month with no end date or contingency clause (work supports NIH-funded research grants, same standing as the kept Rutgers Research Specialist)."
  }
 ]
