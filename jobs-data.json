@@ -31,26 +31,6 @@
   "evidence_note": "PREVENT Institute (Prevention Research, Equity, Value, Early Detection, Navigation and Translation); Position Type Regular, 40 hrs/wk; advanced biostatistics/predictive modeling, SAS/R/Python/SQL. No term, funding-contingency, or sponsorship language in fetched detail text. Detail page title verified live 10/30."
  },
  {
-  "title": "Business Systems Analyst - Senior / Intermediate",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/284855",
-  "posted": "Oct 27, 2026 (U-M official careers search feed row; detail page title verified live 11/07/2026; full-time, hybrid)",
-  "evidence_note": "Michigan Medicine HITS Business Applications; enterprise applications analysis/implementation/support. No term, funding, or sponsorship language in fetched detail text."
- },
- {
-  "title": "Business Systems Analyst - Intermediate",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/284856",
-  "posted": "Oct 27, 2026 (U-M official careers search feed row; detail page title verified live 11/07/2026; full-time, hybrid)",
-  "evidence_note": "Michigan Medicine HITS Business Applications; requirements analysis, application implementation/support. No term, funding, or sponsorship language in fetched detail text."
- },
- {
   "title": "Data Analyst (University Registrar)",
   "university": "Emory University",
   "city": "Atlanta",
@@ -121,17 +101,6 @@
   "evidence_note": "Alumni Affairs and Development, Analytics, Data Services & Compliance; complex reporting/analysis, data extraction/reconciliation. Detail page title verified live Nov 3, 2026."
  },
  {
-  "title": "Systems Analyst",
-  "university": "Purdue University",
-  "city": "West Lafayette",
-  "state": "IN",
-  "category": "analytics",
-  "url": "https://careers.purdue.edu/default/job/Systems-Analyst/44316-en_US",
-  "posted": "Undated on portal (observed live Nov 7, 2026; university search index shows full posting text crawled Nov 4, 2026; IDA+A data governance team)",
-  "eligibility_note": "Purdue University will not sponsor employment authorization for this position.",
-  "evidence_note": "Data governance team, Institutional Data Analytics + Assessment; data automation/integration/migration, data quality, ETL/automated feeds. FLSA Exempt, Professional 2, hybrid/100% remote options. Detail page title verified live Nov 4, 2026."
- },
- {
   "title": "Data Science Analyst Senior/Intermediate",
   "university": "University of Michigan",
   "city": "Ann Arbor",
@@ -160,16 +129,6 @@
   "url": "https://staff-emory.icims.com/jobs/175465/senior-research-data-informatics-specialist---school-of-medicine%2c-pathology/job",
   "posted": "Observed live in Emory's own iCIMS feed Nov 7, 2026 (no posted date shown)",
   "evidence_note": "SOM Pathology Admin; Regular Full-Time, Hybrid Remote; Apply Now shown. No term, funding, or sponsorship language on detail page. Live-browser verified Nov 4, 2026."
- },
- {
-  "title": "Software Engineer 2 – Data Integration",
-  "university": "Yale",
-  "city": "New Haven",
-  "state": "CT",
-  "category": "engineering",
-  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138779WDEXTERNALENUS/Software-Engineer-2-Data-Integration",
-  "posted": "Oct 28, 2026 (page Job Posting Date; live-browser verified Nov 6, 2026)",
-  "evidence_note": "Workday CXS detail verified: Full time, Duration Type Staff, Hybrid, $82,500-$123,750. ETL processes extracting data from operational systems into data marts for reporting; Python, Databricks, SQL, Talend; Data Management team. No term or sponsorship language."
  },
  {
   "title": "Assistant Director, Advancement Services & Analytics",
@@ -230,7 +189,7 @@
   "state": "MI",
   "category": "aiml",
   "url": "https://careers.umich.edu/job_detail/285213/software-engineer-ai-digital-health",
-  "posted": "Nov 2, 2026 (official U-M Careers search-feed rows, Job Opening ID 285213; detail page title verified live 11/07/2026)",
+  "posted": "Nov 2, 2026 (official U-M Careers search-feed rows, Job Opening ID 285213; re-posted/extended — Posting Begin/End 11/10/2026-11/19/2026, detail page title + Apply Now verified live 11/11/2026)",
   "evidence_note": "Full-time Software Engineer (Senior/Intermediate), AI & Digital Health; builds AI-powered applications, LLM integrations, data pipelines. Posting notes it focuses on engineering the systems that enable AI research rather than developing new ML algorithms. No term/funding/sponsorship language."
  },
  {
@@ -432,16 +391,6 @@
   "evidence_note": "Applied Research Laboratory (ARL), Cyber, Intelligence, Analytics & Operations (CIAO) Dept; focus on AI, Information Dominance, Cyber Warfare. Duties include data engineering for information storage/retrieval, data analysis across multiple modalities, data analytics techniques to transform raw data into meaningful information, algorithms to extract/analyze large structured and unstructured datasets. employmentType FULL_TIME; fully onsite Reston, VA; no term or funding language. ARL postings carry the standard 'You must be a U.S. citizen to apply' boilerplate (same treatment as the kept Penn State ARL role)."
  },
  {
-  "title": "Research Specialist (Evaluation Research Analyst)",
-  "university": "Rutgers University",
-  "city": "Piscataway",
-  "state": "NJ",
-  "category": "analytics",
-  "url": "https://jobs.rutgers.edu/postings/283231",
-  "posted": "Oct 27, 2026 (Posting Open Date 10/27/2026 on the Rutgers portal; Posting Number 26ST2047)",
-  "evidence_note": "Full Time, Staff - 12 month, Exempt, GSAPP School Psychology, Busch campus. Data administration/management/analysis, evaluation research, designing/generating project databases, quarterly/annual reporting to SAMHSA; advanced Excel plus 2+ statistical packages (SPSS, SAS, AMOS, MPlus, R), growth/hierarchical/structural-equation modeling. Master's or doctorate in quantitative methods. Caveat: the work evaluates SAMHSA Project AWARE grants and the salary boilerplate cites grant funds, but the appointment is the standard Rutgers Staff - 12 month (not labelled fixed-term/temporary), the same appointment type as the kept RCRC roles. Fresh Oct 27 re-posting of a role previously posted Jan/Feb 2026."
- },
- {
   "title": "Research Data Analyst",
   "university": "Johns Hopkins University",
   "city": "Baltimore",
@@ -561,5 +510,55 @@
   "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Coral-Gables-FL/Business-Systems-Analyst-3_R100101343",
   "posted": "Oct 30, 2026 (Workday CXS Posted 11 Days Ago; detail JSON verified Nov 10, 2026)",
   "evidence_note": "Req R100101343, Full time; collects detailed data and provides analysis for technology plans/strategies (Slate CRM/enrollment tech). No term or funding language in detail JSON."
+ },
+ {
+  "title": "Senior Reporting and Analytics Analyst - Government Resource Center",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Senior-Reporting-and-Analytics-Analyst---Government-Resource-Center_R162048-1",
+  "posted": "Nov 10, 2026 (Workday Published; detail page title verified live Nov 11, 2026; Req R162048-1)",
+  "evidence_note": "Government Resource Center (Ohio Colleges of Medicine); Position Type Regular, 40 hrs/wk; R data manipulation/analysis, R-Shiny interactive visualizations, SAS/SQL, claims/EHR data, data quality assurance; descriptive statistics for health-services research. No term, funding-contingency, or sponsorship language in fetched detail text."
+ },
+ {
+  "title": "Business Operations Analyst",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Associate-Project-Manager_R158304-1",
+  "posted": "Nov 6, 2026 (Workday Published; detail page title verified live Nov 11, 2026; Req R158304-1)",
+  "evidence_note": "Office of External Affairs, Advancement | Alumni Association (LAG Program); Position Type Regular, 40 hrs/wk; 60% of duties are business-operations analysis - gathering/analyzing/summarizing data, reports, dashboards, tracking tools, data integrity. No term, funding, or sponsorship language. (URL slug reads Associate Project Manager; page Job Title is Business Operations Analyst.)"
+ },
+ {
+  "title": "Business Operations Analyst - Cancer Prevention and Survivorship",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Business-Operations-Analyst---Cancer-Prevention-and-Survivorship_R161538-1",
+  "posted": "Oct 30, 2026 (Workday Published; CXS detail JSON verified Nov 11, 2026; Req R161538-1)",
+  "evidence_note": "Comprehensive Cancer Center, Sponsored Research; Position Type Regular, 40 hrs/wk; dedicated Data Management, Reporting, and Business Analytics duty block - builds/maintains databases tracking faculty/grants/publications, dashboards, metrics reports, KPI summaries. No term, funding, citizenship, or sponsorship language in detail JSON."
+ },
+ {
+  "title": "Lead Clinical Data Engineer",
+  "university": "Yale",
+  "city": "New Haven",
+  "state": "CT",
+  "category": "engineering",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138288WDEXTERNALENUS/Lead-Clinical-Data-Engineer",
+  "posted": "Nov 7, 2026 (page Published; detail page title + status OPEN verified live Nov 11, 2026; Req 138288WD)",
+  "evidence_note": "Yale School of Medicine / Yale New Haven Health System; Full time, Duration Type Staff, Remote, 40 hrs/wk; leads design/development of the Aligned Data Warehouse - ETL/data pipelines (T-SQL, SSIS, SQL Agent), Microsoft Fabric, Epic warehouse to OMOP CDM, NLP/LLM and GPU-based software integration. No sponsorship, citizenship, term, or funding language. Caveat: embedded Phenom postedDate reads 2026-10-13 (re-publish; page Published Nov 7 used per Yale convention)."
+ },
+ {
+  "title": "Statistician 2",
+  "university": "Yale",
+  "city": "New Haven",
+  "state": "CT",
+  "category": "datascience",
+  "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138919WDEXTERNALENUS/Statistician-2",
+  "posted": "Nov 2, 2026 (page Published; detail page title + status OPEN verified live Nov 11, 2026; Req 138919WD)",
+  "evidence_note": "Yale/Yale New Haven Hospital Center for Outcomes Research and Evaluation (CORE); Full time, Duration Type Staff, Hybrid, 40 hrs/wk; senior-level statistician - statistical and/or ML methods on health-outcomes data, statistical lead of project teams, SAS/R/Python, GLM/mixed/survival/Bayesian models. No sponsorship/citizenship language. Caveat: embedded Phenom postedDate reads 2026-10-22 (re-publish; page Published Nov 2 used per Yale convention). Role supports contract/grant-funded projects but appointment is standard Staff with no end date or contingency clause."
  }
 ]
