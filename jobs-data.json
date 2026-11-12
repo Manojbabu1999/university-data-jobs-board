@@ -21,16 +21,6 @@
   "evidence_note": "Full-Time, Benefits Eligible, Enterprise Data Solutions team; detail page title verified live 10/29."
  },
  {
-  "title": "Biostatistics Senior Analyst - PREVENT Institute",
-  "university": "Ohio State",
-  "city": "Columbus",
-  "state": "OH",
-  "category": "datascience",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Biostatistics-Senior-Analyst---PREVENT-Institute_R161546-1",
-  "posted": "Oct 28, 2026 (Workday Published; detail page title verified live 11/07/2026)",
-  "evidence_note": "PREVENT Institute (Prevention Research, Equity, Value, Early Detection, Navigation and Translation); Position Type Regular, 40 hrs/wk; advanced biostatistics/predictive modeling, SAS/R/Python/SQL. No term, funding-contingency, or sponsorship language in fetched detail text. Detail page title verified live 10/30."
- },
- {
   "title": "Data Analyst (University Registrar)",
   "university": "Emory University",
   "city": "Atlanta",
@@ -69,16 +59,6 @@
   "url": "https://careers.duke.edu/job/Durham-ASSOCIATE-IN-RESEARCH-NC-27710/1373072400/",
   "posted": "Oct 31, 2026 (Duke portal detail page Date; live-verified 11/2/2026)",
   "evidence_note": "Req 267538, Regular, On-Site (hybrid eligible); transformer/deep-learning models for large-scale single-cell multi-omics data, Biostatistics & Bioinformatics; Apply now shown."
- },
- {
-  "title": "Data Scientist III",
-  "university": "University of Florida",
-  "city": "Gainesville",
-  "state": "FL",
-  "category": "datascience",
-  "url": "https://careers.pageuppeople.com/674/cw/en-us/job/541844/data-scientist-iii",
-  "posted": "Oct 28, 2026 (page Advertised; Staff Full-Time; closes Nov 18, 2026)",
-  "evidence_note": "Office of Institutional Planning and Research; advanced modeling/predictive analytics, dashboards, Python/R/SAS/SQL/Snowflake/Tableau; $95,000 starting salary. Detail page title verified live Nov 3, 2026."
  },
  {
   "title": "Quantitative Associate",
@@ -201,16 +181,6 @@
   "url": "https://www.ugajobsearch.com/postings/510901",
   "posted": "10/29/2026 (page Posting Date; detail page title verified live Nov 5, 2026)",
   "evidence_note": "Posting S15990P, VPI-Student Financial Aid; Full Time, FTE 1.00, Benefits Eligible, open until filled; leads BI/analytics, data analysis, reporting, predictive modeling and management information systems. No term, funding, or sponsorship language on detail page."
- },
- {
-  "title": "RCRC Clinical Data Manager I",
-  "university": "Rutgers University",
-  "city": "New Brunswick",
-  "state": "NJ",
-  "category": "analytics",
-  "url": "https://jobs.rutgers.edu/postings/283539",
-  "posted": "Undated on detail page (Posting Open Date blank); observed live on jobs.rutgers.edu Nov 7, 2026; listed in Rutgers' own search feed",
-  "evidence_note": "Posting Number 26ST2090, Full Time, 37.5 hours/week, Staff - 12 month, Grade 25S, $82,856-$126,775, Department Clinical & Translational R, RCRC / Rutgers Institute for Translational Medicine & Science. No term/funding/sponsorship language; offers contingent on pre-employment screenings."
  },
  {
   "title": "AI and Data Science Solution Engineer",
@@ -462,16 +432,6 @@
   "evidence_note": "Office of the Registrar; full-time, M-F 8-5; Banner course-data structures, SQL/reporting queries, Tableau/Business Objects, data auditing/report development; bachelor's + 3 yrs; $62,000-$68,000; onsite 6-month ramp, then hybrid up to 2 days/week. No term or funding language."
  },
  {
-  "title": "Research Project Manager",
-  "university": "Rutgers University",
-  "city": "New Brunswick",
-  "state": "NJ",
-  "category": "datascience",
-  "url": "https://jobs.rutgers.edu/postings/283318",
-  "posted": "Oct 28, 2026 (detail page Posting Open Date; Posting Number 26ST2056; detail page title verified live Nov 9, 2026)",
-  "evidence_note": "Full Time, Staff - 12 month, Grade 07, $94,492-$144,715; Lead Analyst for the Center for Pharmacoepidemiology and Treatment Science — longitudinal modeling of very large healthcare datasets (EHR + claims), SAS/R/Stata. Appointment is standard Staff - 12 month with no end date or contingency clause (work supports NIH-funded research grants, same standing as the kept Rutgers Research Specialist)."
- },
- {
   "title": "Clinical Informatics Senior Analyst – Pathology",
   "university": "Ohio State",
   "city": "Columbus",
@@ -560,5 +520,118 @@
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138919WDEXTERNALENUS/Statistician-2",
   "posted": "Nov 2, 2026 (page Published; detail page title + status OPEN verified live Nov 11, 2026; Req 138919WD)",
   "evidence_note": "Yale/Yale New Haven Hospital Center for Outcomes Research and Evaluation (CORE); Full time, Duration Type Staff, Hybrid, 40 hrs/wk; senior-level statistician - statistical and/or ML methods on health-outcomes data, statistical lead of project teams, SAS/R/Python, GLM/mixed/survival/Bayesian models. No sponsorship/citizenship language. Caveat: embedded Phenom postedDate reads 2026-10-22 (re-publish; page Published Nov 2 used per Yale convention). Role supports contract/grant-funded projects but appointment is standard Staff with no end date or contingency clause."
+ },
+ {
+  "title": "Solutions Architect",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "engineering",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/University-Hospital/Solutions-Architect_R160319-1",
+  "posted": "Nov 12, 2026 (Workday Published; CXS detail JSON verified Nov 12, 2026; Req R160319-1)",
+  "evidence_note": "Position Type Regular, 40 hrs/wk; top-level technical authority for enterprise data and analytics initiatives; target-state lakehouse architecture (Azure/Databricks, Delta Lake, medallion bronze/silver/gold), ETL/ELT standards, dbt data modeling, data quality/governance, AI/ML use cases. No term, funding, or sponsorship language in detail JSON."
+ },
+ {
+  "title": "Senior Research Associate",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "datascience",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Senior-Research-Associate_R161526",
+  "posted": "Nov 2, 2026 (Workday CXS Posted; detail JSON verified Nov 12, 2026; Req R161526)",
+  "evidence_note": "Position Type Regular, 40 hrs/wk, Research S4 senior methodologist in Institutional Research and Planning; advanced/predictive analytics, statistical modeling, ML for student success, ranking simulations; R/SPSS/SAS/Stata; full-lifecycle survey research and program evaluation. No term, funding, or sponsorship language in detail JSON."
+ },
+ {
+  "title": "Healthcare Operations Analyst – Oncology Services",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Healthcare-Operations-Analyst---Oncology-Services_R159079-2",
+  "posted": "Nov 3, 2026 (Workday CXS Posted; detail JSON verified Nov 12, 2026; Req R159079-2)",
+  "evidence_note": "Position Type Regular, 40 hrs/wk, James Cancer Hospital Business Operations; maintains productivity models and benchmarks, operational and labor management metrics, business analytics support to the Clinical Enterprise, fiscal and analytics oversight. No term, funding, or sponsorship language in detail JSON."
+ },
+ {
+  "title": "Nursing Business Operations Analyst",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "analytics",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Nursing-Business-Operations-Analyst_R161177-1",
+  "posted": "Nov 3, 2026 (Workday CXS Posted; detail JSON verified Nov 12, 2026; Req R161177-1)",
+  "evidence_note": "Position Type Regular, 40 hrs/wk, Nursing Business Office; business analytics and oversight: financial performance monitoring, variance analyses, forecasting and trends analysis, labor productivity metrics, cost-center staffing models. No term, funding, or sponsorship language in detail JSON."
+ },
+ {
+  "title": "Research Analyst 2",
+  "university": "University of Miami",
+  "city": "Miami",
+  "state": "FL",
+  "category": "analytics",
+  "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Research-Analyst-3_R100101969",
+  "posted": "Nov 11, 2026 (Workday Published; CXS detail JSON verified Nov 12, 2026; Req R100101969)",
+  "evidence_note": "Full-time Staff, Dept. of Obstetrics & Gynecology; prepares data, conducts statistical analysis, summarizes results; identifies data sources, verifies accuracy of reports. No term, funding, or sponsorship language in detail JSON. (URL slug reads Research-Analyst-3; detail JSON title is Research Analyst 2.)"
+ },
+ {
+  "title": "Research Data Manager",
+  "university": "University of Miami",
+  "city": "Miami",
+  "state": "FL",
+  "category": "analytics",
+  "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Research-Data-Manager_R100098913",
+  "posted": "Nov 11, 2026 (Workday Published; CXS detail JSON verified Nov 12, 2026; Req R100098913)",
+  "evidence_note": "Full-time Staff, Transplant and Cellular Therapy Program; gathers/abstracts/submits patient data (NMDP/CIBMTR), validation audits, maintains data integrity of program databases. No term, funding, or sponsorship language in detail JSON."
+ },
+ {
+  "title": "Business Intelligence Analyst Lead",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "analytics",
+  "url": "https://careers.umich.edu/job_detail/283969/business-intelligence-analyst-lead",
+  "posted": "11/10/2026 (U-M official careers search feed row, Job Opening ID 283969; detail page title + Apply Now verified live Nov 12, 2026)",
+  "evidence_note": "Revenue Cycle Analytics team, Michigan Medicine; builds complex BI solutions — reports, dashboards, data products — SQL, Tableau/Power BI, Epic Clarity/Caboodle. Feed filters confirm full-time Regular. No term, funding-contingency, citizenship, or sponsorship language in fetched detail text."
+ },
+ {
+  "title": "Engineering Manager, Data Analytics Practice",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "engineering",
+  "url": "https://careers.duke.edu/job/Durham-Engineering-Manager%2C-Data-Analytics-Practice-NC-27710/1448557000/",
+  "posted": "Undated on Duke portal (Req 276732; observed live Nov 12, 2026; Req above Oct 23 req 275265)",
+  "evidence_note": "Req 276732, Regular, Hybrid; leads Duke OIT's Data Analytics Practice team building enterprise data platforms (warehouses, lakes, analytics/AI enablement); SQL/Python, data modeling, dbt, orchestration, governance. Detail page title verified live Nov 12, 2026. No term, funding, citizenship, or sponsorship language in fetched text."
+ },
+ {
+  "title": "Applied AI/ML Researcher",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Applied-AIML-Researcher-MA-02420/1288187600/",
+  "posted": "Nov 7, 2026 (page Date; detail page title verified live Nov 12, 2026; Req 42073)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Cyber Operations & Analysis Technology Group; AI/ML + cyber security, LLMs/RAG, data engineering; bachelor's + 10 yrs. Top Secret clearance required. Distinct requisition from the board's Req 43566 Applied AI/ML Researcher (Group 51)."
+ },
+ {
+  "title": "Staff Scientist – AI/ML Developer",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Staff-Scientist-AI-ML-Developer-MA-02420/1448929600/",
+  "posted": "Nov 9, 2026 (page Date; detail page title verified live Nov 12, 2026; Req 43657)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Homeland Protection Systems Group; prototypes/applies state-of-the-art ML: time-series analysis, NLP, graph analytics, multi-modal learning; Python/Git, backend dev. Current TS/SCI clearance preferred; Secret-level DoD clearance required."
+ },
+ {
+  "title": "Autonomy Engineer–Technical Staff",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "aiml",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Autonomy-Engineer-Technical-Staff-MA-02420/1407533700/",
+  "posted": "Nov 3, 2026 (page Date; detail page title + clearance language verified live Nov 12, 2026; Req 43134)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Tactical Autonomy Group; senior autonomous-systems developer; AI/ML, computer vision, guidance/planning, estimation; C++/Python/ROS. Secret-level DoD clearance required. Caveat: re-post of an older requisition carrying a fresh in-window page date; robotics/autonomy role with AI/ML as a core research topic."
  }
 ]
