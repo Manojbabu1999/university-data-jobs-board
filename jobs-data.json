@@ -27,7 +27,7 @@
   "state": "CT",
   "category": "datascience",
   "url": "https://careers.yale.edu/us/en/job/139313WD/Data-Scientist",
-  "posted": "Nov 10, 2026 (page Published; re-published — live page date Nov 10, 2026; detail page title + status OPEN verified live Nov 13, 2026)",
+  "posted": "Nov 13, 2026 (page Published; re-published — live page date Nov 13, 2026; detail page title + status OPEN verified live Nov 14, 2026)",
   "evidence_note": "Office of Institutional Research, Office of the Provost; Full time, Duration Type Staff, Hybrid; $82,000-$131,500; Apply Now shown on Yale detail page."
  },
  {
@@ -81,16 +81,6 @@
   "evidence_note": "SOM Pathology Admin; Regular Full-Time, Hybrid Remote; Apply Now shown. No term, funding, or sponsorship language on detail page. Live-browser verified Nov 4, 2026."
  },
  {
-  "title": "Assistant Director, Advancement Services & Analytics",
-  "university": "New York University",
-  "city": "New York",
-  "state": "NY",
-  "category": "analytics",
-  "url": "https://uscareers-nyu.icims.com/jobs/16502/assistant-director%2c-advancement-services-%26-analytics/job",
-  "posted": "Oct 30, 2026 (page Published; live-browser verified Nov 6, 2026 — detail page shows '1 week ago')",
-  "evidence_note": "Job ID 2026-16502, UDAR Advancement Services & Analytics team; leads systems projects, Change Control Board, annual metrics reporting; supervises staff; relational databases and analytics tools, 'produce and analyze data'; hybrid; $85,000-$105,000. Analytics-team leadership/operations role. FT status not explicitly shown on fetched page (NYU staff posting, Category Business/Professional Administrative). No term or sponsorship language."
- },
- {
   "title": "AI/ML Computer Science Research and Development Engineer",
   "university": "Penn State",
   "city": "State College",
@@ -100,27 +90,6 @@
   "posted": "Nov 2, 2026 (page Published)",
   "eligibility_note": "US citizenship required",
   "evidence_note": "Applied Research Laboratory (ARL), Comprehensive Software Solutions Dept; AI/ML/DL/generative and agentic AI research; PyTorch/TensorFlow/JAX, Python; R&D Engineer - Software (ARL) staff track; full-time, on-site State College; $121,704-$231,000. No term or funding language."
- },
- {
-  "title": "Technical Staff: Medical Imaging AI",
-  "university": "MIT",
-  "city": "Lexington",
-  "state": "MA",
-  "category": "aiml",
-  "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Medical-Imaging-AI-MA-02420/1372903200/",
-  "posted": "Oct 30, 2026 (page Date; live-browser verified Nov 7, 2026; Req 42828)",
-  "eligibility_note": "US citizenship required",
-  "evidence_note": "MIT Lincoln Laboratory, Human Health & Performance Systems Group; deep learning, medical imaging/signal processing, AI-enabled prototypes; Ph.D. (or M.S. + 5 yrs). Secret-level DoD clearance required."
- },
- {
-  "title": "Supply Chain Business Systems Analyst Intermediate",
-  "university": "University of Michigan",
-  "city": "Ann Arbor",
-  "state": "MI",
-  "category": "analytics",
-  "url": "https://careers.umich.edu/job_detail/285292/supply-chain-business-systems-analyst-intermediate",
-  "posted": "Nov 4, 2026 (official U-M Careers search-feed rows, Job Opening ID 285292; detail page title verified live 11/07/2026)",
-  "evidence_note": "Detail page fetched live Nov 5 and confirmed: full-time, hybrid, Mon-Fri 8:00am-4:30pm, office in Ann Arbor. Michigan Medicine Supply Chain BSA work (PeopleSoft/GHX/Syft, ERP/EHR data systems, requirements, testing). No term-limit, funding-contingent, or grant language anywhere on the page. No sponsorship/citizenship language stated."
  },
  {
   "title": "Software Engineer AI & Digital Health",
@@ -291,16 +260,6 @@
   "evidence_note": "Applied Research Laboratory (ARL), Cyber, Intelligence, Analytics & Operations (CIAO) Dept; focus on AI, Information Dominance, Cyber Warfare. Duties include data engineering for information storage/retrieval, data analysis across multiple modalities, data analytics techniques to transform raw data into meaningful information, algorithms to extract/analyze large structured and unstructured datasets. employmentType FULL_TIME; fully onsite Reston, VA; no term or funding language. ARL postings carry the standard 'You must be a U.S. citizen to apply' boilerplate (same treatment as the kept Penn State ARL role)."
  },
  {
-  "title": "Research Data Analyst",
-  "university": "Johns Hopkins University",
-  "city": "Baltimore",
-  "state": "MD",
-  "category": "analytics",
-  "url": "https://hiring.jhu.edu/careers/job/1133916628946",
-  "posted": "Oct 30, 2026 (portal Date Created; live-browser verified Nov 8, 2026; Req 122930)",
-  "evidence_note": "Bloomberg School of Public Health, Dept of Health Policy and Management (Health Economics); Full-time, Exempt, Remote. Builds analytic datasets from large administrative databases (health insurance claims, EHRs, employment records, population surveys); data pipeline development, data linkage/cleaning, statistical and econometric analysis (IV, difference-in-differences); bachelor's + 3 years, SAS/SQL and Stata/R preferred; $49,200-$86,200. No term, end date, or funding-contingency language in full posting text."
- },
- {
   "title": "Senior AI and Data Science Consultant",
   "university": "Ohio State",
   "city": "Columbus",
@@ -372,16 +331,6 @@
   "evidence_note": "Req R100102796, Full time, on-site; leads clinical-application management/enhancements and data-accuracy checks/audits. No term, funding, citizenship, or sponsorship language in detail JSON."
  },
  {
-  "title": "Business Systems Analyst 3 – Slate & Enrollment Technology",
-  "university": "University of Miami",
-  "city": "Coral Gables",
-  "state": "FL",
-  "category": "analytics",
-  "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Coral-Gables-FL/Business-Systems-Analyst-3_R100101343",
-  "posted": "Oct 30, 2026 (Workday CXS Posted 11 Days Ago; detail JSON verified Nov 10, 2026)",
-  "evidence_note": "Req R100101343, Full time; collects detailed data and provides analysis for technology plans/strategies (Slate CRM/enrollment tech). No term or funding language in detail JSON."
- },
- {
   "title": "Senior Reporting and Analytics Analyst - Government Resource Center",
   "university": "Ohio State",
   "city": "Columbus",
@@ -402,16 +351,6 @@
   "evidence_note": "Office of External Affairs, Advancement | Alumni Association (LAG Program); Position Type Regular, 40 hrs/wk; 60% of duties are business-operations analysis - gathering/analyzing/summarizing data, reports, dashboards, tracking tools, data integrity. No term, funding, or sponsorship language. (URL slug reads Associate Project Manager; page Job Title is Business Operations Analyst.)"
  },
  {
-  "title": "Business Operations Analyst - Cancer Prevention and Survivorship",
-  "university": "Ohio State",
-  "city": "Columbus",
-  "state": "OH",
-  "category": "analytics",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Business-Operations-Analyst---Cancer-Prevention-and-Survivorship_R161538-1",
-  "posted": "Oct 30, 2026 (Workday Published; CXS detail JSON verified Nov 11, 2026; Req R161538-1)",
-  "evidence_note": "Comprehensive Cancer Center, Sponsored Research; Position Type Regular, 40 hrs/wk; dedicated Data Management, Reporting, and Business Analytics duty block - builds/maintains databases tracking faculty/grants/publications, dashboards, metrics reports, KPI summaries. No term, funding, citizenship, or sponsorship language in detail JSON."
- },
- {
   "title": "Lead Clinical Data Engineer",
   "university": "Yale",
   "city": "New Haven",
@@ -428,7 +367,7 @@
   "state": "CT",
   "category": "datascience",
   "url": "https://careers.yale.edu/us/en/job/YUCYUHUS138919WDEXTERNALENUS/Statistician-2",
-  "posted": "Nov 13, 2026 (page Published; re-published — live page date Nov 13, 2026; detail page title + status OPEN verified live Nov 13, 2026; Req 138919WD)",
+  "posted": "Nov 13, 2026 (page Published; re-published — live page date Nov 13, 2026; detail page title + status OPEN verified live Nov 14, 2026; Req 138919WD)",
   "evidence_note": "Yale/Yale New Haven Hospital Center for Outcomes Research and Evaluation (CORE); Full time, Duration Type Staff, Hybrid, 40 hrs/wk; senior-level statistician - statistical and/or ML methods on health-outcomes data, statistical lead of project teams, SAS/R/Python, GLM/mixed/survival/Bayesian models. No sponsorship/citizenship language. Caveat: embedded Phenom postedDate reads 2026-10-22 (re-publish; live page Published Nov 13, 2026 used). Role supports contract/grant-funded projects but appointment is standard Staff with no end date or contingency clause."
  },
  {
@@ -502,17 +441,6 @@
   "evidence_note": "Req 276732, Regular, Hybrid; leads Duke OIT's Data Analytics Practice team building enterprise data platforms (warehouses, lakes, analytics/AI enablement); SQL/Python, data modeling, dbt, orchestration, governance. Detail page title verified live Nov 12, 2026. No term, funding, citizenship, or sponsorship language in fetched text."
  },
  {
-  "title": "Applied AI/ML Researcher",
-  "university": "MIT",
-  "city": "Lexington",
-  "state": "MA",
-  "category": "aiml",
-  "url": "https://careers.ll.mit.edu/job/Lexington-Applied-AIML-Researcher-MA-02420/1288187600/",
-  "posted": "Nov 7, 2026 (page Date; detail page title verified live Nov 12, 2026; Req 42073)",
-  "eligibility_note": "US citizenship required",
-  "evidence_note": "MIT Lincoln Laboratory, Cyber Operations & Analysis Technology Group; AI/ML + cyber security, LLMs/RAG, data engineering; bachelor's + 10 yrs. Top Secret clearance required. Distinct requisition from the board's Req 43566 Applied AI/ML Researcher (Group 51)."
- },
- {
   "title": "Staff Scientist – AI/ML Developer",
   "university": "MIT",
   "city": "Lexington",
@@ -522,17 +450,6 @@
   "posted": "Nov 9, 2026 (page Date; detail page title verified live Nov 12, 2026; Req 43657)",
   "eligibility_note": "US citizenship required",
   "evidence_note": "MIT Lincoln Laboratory, Homeland Protection Systems Group; prototypes/applies state-of-the-art ML: time-series analysis, NLP, graph analytics, multi-modal learning; Python/Git, backend dev. Current TS/SCI clearance preferred; Secret-level DoD clearance required."
- },
- {
-  "title": "Autonomy Engineer–Technical Staff",
-  "university": "MIT",
-  "city": "Lexington",
-  "state": "MA",
-  "category": "aiml",
-  "url": "https://careers.ll.mit.edu/job/Lexington-Autonomy-Engineer-Technical-Staff-MA-02420/1407533700/",
-  "posted": "Nov 3, 2026 (page Date; detail page title + clearance language verified live Nov 12, 2026; Req 43134)",
-  "eligibility_note": "US citizenship required",
-  "evidence_note": "MIT Lincoln Laboratory, Tactical Autonomy Group; senior autonomous-systems developer; AI/ML, computer vision, guidance/planning, estimation; C++/Python/ROS. Secret-level DoD clearance required. Caveat: re-post of an older requisition carrying a fresh in-window page date; robotics/autonomy role with AI/ML as a core research topic."
  },
  {
   "title": "Full-Stack AI Engineer",
@@ -657,26 +574,6 @@
   "evidence_note": "Dept of Surgery, BSD SUR - Research Services. Scheduled Weekly Hours 40, Benefits Eligible Yes, $100,000-$140,000, 5-7 yrs experience. Statistical design/analysis for surgical trials and registries; partners with data scientists/engineers. Detail page read in full: no fixed-term or funding-contingency language."
  },
  {
-  "title": "Clinical Research Data Manager I",
-  "university": "University of Chicago",
-  "city": "Chicago",
-  "state": "IL",
-  "category": "analytics",
-  "url": "https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Clinical-Research-Data-Manager-I_JR35742",
-  "posted": "2026-10-30 (\"Published: 2026-10-30\" on the Workday detail page; CXS feed showed \"Posted 14 Days Ago\") — exactly on the cutoff, in window",
-  "evidence_note": "BSD MED - Hematology and Oncology, Clinical Research Data Managers Cluster 5. Scheduled Weekly Hours 40, Benefits Eligible Yes, $50,000-$65,000, <2 yrs experience. Clinical research data collection/entry/analysis/reporting. Detail page read in full: no fixed-term or funding-contingency language."
- },
- {
-  "title": "Senior Clinical Research Data Manager",
-  "university": "University of Chicago",
-  "city": "Chicago",
-  "state": "IL",
-  "category": "analytics",
-  "url": "https://uchicago.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Senior-Clinical-Research-Data-Manager_JR35746",
-  "posted": "2026-10-30 (\"Published: 2026-10-30\" on the Workday detail page; CXS feed showed \"Posted 14 Days Ago\") — exactly on the cutoff, in window",
-  "evidence_note": "BSD MED - Hematology and Oncology. Scheduled Weekly Hours 40, Benefits Eligible Yes, $60,000-$75,000, 2-5 yrs experience. Owns data management for moderate/high-complexity clinical studies. Detail page read in full: no fixed-term or funding-contingency language."
- },
- {
   "title": "Research Data Analyst 2",
   "university": "Stanford University",
   "city": "Stanford",
@@ -695,16 +592,6 @@
   "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201646?jobId=201646",
   "posted": "Nov 6, 2026 (HCM ExternalPostedStartDate; ends Nov 16, 2026; API detail verified Nov 13, 2026; Id 201646)",
   "evidence_note": "Division of Clinical Informatics; clinically applied ML/foundation models, SQL/Python; full-time staff. No term/funding/sponsorship language."
- },
- {
-  "title": "Software Developer Associate",
-  "university": "Stanford University",
-  "city": "Stanford",
-  "state": "CA",
-  "category": "engineering",
-  "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201585?jobId=201585",
-  "posted": "Oct 30, 2026 (HCM ExternalPostedStartDate; API detail verified Nov 13, 2026; Id 201585)",
-  "evidence_note": "Psychiatry labs (Solomon/Keller); software for storage/management/access/analysis of human electrophysiology data, Python APIs; full-time staff. No term/funding/sponsorship language."
  },
  {
   "title": "Applied Research Lead, AI for Teaching",
@@ -728,14 +615,14 @@
   "evidence_note": "Agentic AI infrastructure, Stanford Law School liftlab; $117,536-$165,000; full-time staff. No term/funding/sponsorship language."
  },
  {
-  "title": "SCI-CTO Data Manager – Gyn Onc (Hybrid)",
+  "title": "SCI-CTO Data Aide – Gyn Onc (Hybrid)",
   "university": "Stanford University",
   "city": "Stanford",
   "state": "CA",
   "category": "analytics",
   "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201717?jobId=201717",
   "posted": "Nov 12, 2026 (HCM ExternalPostedStartDate; API detail verified Nov 13, 2026; Id 201717)",
-  "evidence_note": "Stanford Cancer Institute Clinical Trials Office; research data manager, databases/data integrity; full-time staff, hybrid. No term/funding/sponsorship language."
+  "evidence_note": "Stanford Cancer Institute Clinical Trials Office; research data manager, databases/data integrity; full-time staff, hybrid. No term/funding/sponsorship language. Title corrected Nov 14, 2026: Oracle HCM API title is 'SCI-CTO Data Aide – Gyn Onc (Hybrid)' (description calls it Research Data Manager (Data Aide) – GynOnc)."
  },
  {
   "title": "Research Associate",
@@ -786,5 +673,127 @@
   "url": "https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/GIS-Data-Specialist_REQ-0000138539",
   "posted": "Nov 5, 2026 (CXS startDate; detail verified Nov 13, 2026; REQ-0000138539)",
   "evidence_note": "Regular position, 100% FTE; Taskar Center for Accessible Technology; geospatial tools/dashboards, data integration/standardization, SQL/NoSQL, data management. No term/funding/sponsorship language."
+ },
+ {
+  "title": "Analyst, IT, SR",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "aiml",
+  "url": "https://careers.duke.edu/job/Durham-Analyst%2C-IT%2C-SR-NC-27710/1450171900/",
+  "posted": "Nov 12, 2026 (Duke careers search feed; detail page title verified live Nov 14, 2026; Req 277291)",
+  "evidence_note": "Dept. of Surgery, Laboratory of Transformative Administration; Regular, Hybrid. Turns complex questions into analyses and builds data-science/ML/LLM applications (Python, R, SQL), incl. LLM evaluation (prompt design, retrieval-based approaches) and Microsoft Fabric. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Management Engineer – Behavioral Health",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://careers.duke.edu/job/Durham-Management-Engineer-Behavioral-Health-NC-27710/1450249600/",
+  "posted": "Nov 12, 2026 (Duke careers search feed; detail page title verified live Nov 14, 2026; Req 277234)",
+  "evidence_note": "Duke Health, Acute Care Analytics & Improvement; Regular, Hybrid. Enterprise-wide data analytics, labor/productivity and performance management; KPI analytics, dashboards (Tableau/Power BI), SQL/data engineering. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Developer ETL – Cloud Data Engineer – Level 2",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "engineering",
+  "url": "https://careers.duke.edu/job/Durham-Developer-ETL-Cloud-Data-Engineer-Level-2-NC-27710/1404184500/",
+  "posted": "Nov 11, 2026 (Duke careers search feed; detail page title verified live Nov 14, 2026; Req 271625)",
+  "evidence_note": "ACE – Analytics Foundations, Duke Health Technology Solutions; prior-sweep miss. ETL processes for data integration/warehousing (SSIS, Azure Data Factory, SQL, lakehouse/data warehouse). Regular staff. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Developer – Analytics Engineer – Level 2",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "engineering",
+  "url": "https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Level-2-NC-27710/1446949500/",
+  "posted": "Nov 2, 2026 (Duke careers search feed; detail page title verified live Nov 14, 2026; Req 276591)",
+  "evidence_note": "ACE – Analytics Foundations; prior-sweep miss. SQL, data transformations, semantic models, Power BI dashboards, ETL/ELT and data pipelines, Microsoft Fabric transition. Regular staff. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Data & Bioinformatics Specialist",
+  "university": "University of Michigan",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "category": "datascience",
+  "url": "https://careers.umich.edu/job_detail/285696/data-bioinformatics-specialist",
+  "posted": "11/13/2026 (U-M official careers search feed row; detail Posting Begin/End 11/13/2026-1/01/2027; detail page title verified live Nov 14, 2026)",
+  "evidence_note": "MM Michigan Neuroscience Institute; Full-Time, Regular, Exempt, Hybrid; Apply Now shown. Institute-wide expert in computational research, bioinformatics, data science, statistical analysis and emerging AI methodologies — genomic/transcriptomic/spatial/neuroimaging data, ML, reproducible workflows. No term or funding language ('sponsor' appears only re grant sponsors / NIH data-sharing policy)."
+ },
+ {
+  "title": "Data Scientist / Systems Analyst",
+  "university": "MIT",
+  "city": "Lexington",
+  "state": "MA",
+  "category": "datascience",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Data-Scientist-Systems-Analyst-MA-02420/1450392900/",
+  "posted": "Nov 12-13, 2026 (estimated from requisition sequence — highest req observed, issued after Req 43657 posted Nov 9; portal detail pages show no posted date)",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Group 25 Bioanalytics Systems & Technologies; Technical Staff 5/6 (PhD or master's + 7 yrs); full AI/ML lifecycle — generative modeling, data strategy, RAG/LLM tooling, data lakes/warehouses, scalable ML data pipelines, model evaluation; onsite. Secret-level DoD clearance required. No term or funding language. Caveat: re-posting under a new requisition — an earlier Req 43500 of the same title was published Oct 26-30."
+ },
+ {
+  "title": "Business Analyst, HR Roles and Accesses",
+  "university": "Purdue University",
+  "city": "West Lafayette",
+  "state": "IN",
+  "category": "analytics",
+  "url": "https://careers.purdue.edu/job/Business-Analyst,-HR-Roles-and-Accesses/44915-en_US",
+  "posted": "Nov 6, 2026 (HigherEdJobs mirror Published; Purdue's own page carries no posted date; detail page title verified live Nov 14, 2026; Job ID 44915)",
+  "eligibility_note": "Purdue University will not sponsor employment authorization for this position.",
+  "evidence_note": "Purdue Human Resources; FLSA Exempt, benefits-eligible; at the intersection of HR, data, systems, reporting, and technology — Excel, Cognos, SuccessFactors, Tableau, Report Center; Data Analysis and Query Writing among required skills; recurring access analysis/audits, sensitive HR data management. No term or funding language. HR-data analyst role; kept as analytics fit."
+ },
+ {
+  "title": "Data Analyst, Workforce & Education",
+  "university": "University of Nebraska System",
+  "city": "Lincoln",
+  "state": "NE",
+  "category": "analytics",
+  "url": "https://jobs.nebraska.edu/UniversityNebraskaSystem/job/Data-Analyst,-Workforce-%26-Education/2518-en_US/",
+  "posted": "Nov 14, 2026 (Posting Start Date 11/14/26 on the detail page; detail page title verified live Nov 14, 2026)",
+  "evidence_note": "NSWERS (Nebraska Statewide Workforce & Educational Reporting System); independent analytical work on statewide longitudinal administrative data — data preparation, cohort/measure construction, statistical analysis, data-quality verification, visualization, reporting; works with research scientists and data scientists. Full-Time, Benefits Eligible, Open Until Filled, Application Review Date 11/30/26, advertised minimum $80,000, on-site Lincoln. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Systems Engineer (Research and Development Scientist and Engineer 2)",
+  "university": "Stanford University",
+  "city": "Stanford",
+  "state": "CA",
+  "category": "engineering",
+  "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201757?jobId=201757",
+  "posted": "Nov 13, 2026 (Oracle HCM API; closes Nov 23, 2026; API detail verified Nov 14, 2026; Id 201757)",
+  "evidence_note": "Full-time, Research category, interdisciplinary Neuro-AI project building a foundation model of the brain ('digital twin') with Wu Tsai Neurosciences, Bio-X, and HAI; high-throughput data acquisition and storage, signal processing, designing databases in Python/MySQL for big data, networking/cloud storage. No fixed-term or funding-contingent language. Borderline fit: systems/instrumentation engineering on an AI/ML project rather than a classic data-engineering role; kept for the data-acquisition/storage/database core."
+ },
+ {
+  "title": "Research Associate",
+  "university": "University of California, Los Angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "category": "analytics",
+  "url": "https://jobs.ucla.edu/jobs/11968",
+  "posted": "Nov 6, 2026 (page Published Nov 6, 2026, 20:45 UTC; detail page title verified live Nov 14, 2026)",
+  "evidence_note": "Agile Visual Analytics Lab (AVAL); same Nov 6 batch as kept jobs 11969/11970. Applied research — data collection, data management, analysis, reporting products; ETL (Alteryx, KNIME), data analysis (Stata/SPSS/R), data visualization (Tableau, Power BI, Python, D3). Full-time staff. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Senior Research Associate",
+  "university": "University of California, Los Angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "category": "analytics",
+  "url": "https://jobs.ucla.edu/jobs/11971",
+  "posted": "Nov 6, 2026 (same AVAL batch as jobs 11968/11969/11970, Published Nov 6, 2026; live page shows no Published field — Apply deadline Nov 21, 2026; detail page title + open status verified live Nov 14, 2026)",
+  "evidence_note": "Agile Visual Analytics Lab (AVAL); UC Payroll Title RSCH DATA ANL 3 RP; Full Time, Appointment Type Staff: Career, Fully Remote; anticipated hiring pay $100,000-$125,000/yr. Same Nov 6 batch as kept jobs 11968/11969/11970. Data collection, management, analysis, visualization and reporting. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Senior Research Associate",
+  "university": "University of California, Los Angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "category": "analytics",
+  "url": "https://jobs.ucla.edu/jobs/11972",
+  "posted": "Nov 6, 2026 (same AVAL batch as jobs 11968/11969/11970, Published Nov 6, 2026; live page shows no Published field — Apply deadline Nov 21, 2026; detail page title + open status verified live Nov 14, 2026)",
+  "evidence_note": "Agile Visual Analytics Lab (AVAL); UC Payroll Title RSCH DATA ANL 3 RP; Full Time, Appointment Type Staff: Career, Fully Remote; anticipated hiring pay $100,000-$125,000/yr (page shows a '$100,00.00' typo). Same Nov 6 batch as kept jobs 11968/11969/11970. Data collection, management, analysis, visualization and reporting. No term, funding, or sponsorship language."
  }
 ]
