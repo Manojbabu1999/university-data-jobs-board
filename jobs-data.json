@@ -11,16 +11,6 @@
   "evidence_note": "Full-Time, Benefits Eligible, Enterprise Data Solutions team; detail page title verified live 10/29."
  },
  {
-  "title": "Data Governance Manager",
-  "university": "Emory University",
-  "city": "Atlanta",
-  "state": "GA",
-  "category": "analytics",
-  "url": "https://staff-emory.icims.com/jobs/175423/data-governance-manager/job",
-  "posted": "Observed live in Emory's iCIMS feed Nov 7, 2026 (no posted date shown; Emory pages carry boilerplate Published field)",
-  "evidence_note": "New in live iCIMS search Nov 1; job ID 175423 above Oct 30 board max 175302. University-wide data governance program, supervises staff. No term, funding, or sponsorship language in fetched text."
- },
- {
   "title": "Data Scientist",
   "university": "Yale",
   "city": "New Haven",
@@ -29,16 +19,6 @@
   "url": "https://careers.yale.edu/us/en/job/139313WD/Data-Scientist",
   "posted": "Nov 13, 2026 (page Published; re-published — live page date Nov 13, 2026; detail page title + status OPEN verified live Nov 14, 2026)",
   "evidence_note": "Office of Institutional Research, Office of the Provost; Full time, Duration Type Staff, Hybrid; $82,000-$131,500; Apply Now shown on Yale detail page."
- },
- {
-  "title": "Associate in Research",
-  "university": "Duke University",
-  "city": "Durham",
-  "state": "NC",
-  "category": "aiml",
-  "url": "https://careers.duke.edu/job/Durham-ASSOCIATE-IN-RESEARCH-NC-27710/1373072400/",
-  "posted": "Oct 31, 2026 (Duke portal detail page Date; live-verified 11/2/2026)",
-  "evidence_note": "Req 267538, Regular, On-Site (hybrid eligible); transformer/deep-learning models for large-scale single-cell multi-omics data, Biostatistics & Bioinformatics; Apply now shown."
  },
  {
   "title": "Quantitative Associate",
@@ -270,16 +250,6 @@
   "evidence_note": "Req R161284-1, Position Type Regular, 40 hrs/week; Health System Shared Services; ML, agentic/generative AI, MLOps. No term, funding-contingency, or sponsorship language in fetched detail text."
  },
  {
-  "title": "Data Management Analyst 1",
-  "university": "Ohio State",
-  "city": "Columbus",
-  "state": "OH",
-  "category": "analytics",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Data-Management-Analyst-1_R150689-1",
-  "posted": "Nov 3, 2026 (page Published; detail page title verified live Nov 9, 2026)",
-  "evidence_note": "Req R150689-1, Position Type Regular, 40 hrs/week; Health System Shared Services, Supply Chain Operations; master-data management/QA in Workday ERP. No term, funding-contingency, or sponsorship language in fetched detail text."
- },
- {
   "title": "Senior Procure to Pay Data Analyst",
   "university": "New York University",
   "city": "New York",
@@ -502,17 +472,6 @@
   "evidence_note": "Job ID 175729, SOM Office of Fiscal Affairs; financial analytics workbook (Excel, updated daily in budget season), budget analysis, trends/projections, complex financial reports for SOM leadership. Bachelor's in Accounting/Finance/Statistics/Math or data-analytics focus. Hybrid Remote, GA residency. Full description verified via HigherEdJobs mirror of the iCIMS listing (iCIMS detail fetch truncates the description); no term, funding, or sponsorship language anywhere in the full text."
  },
  {
-  "title": "IT Data Technologist - Facilities Services - UTK",
-  "university": "University of Tennessee",
-  "city": "Knoxville",
-  "state": "TN",
-  "category": "analytics",
-  "url": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8886",
-  "posted": "Nov 9, 2026 (UT Oracle HCM page Published 2026-11-09; HigherEdJobs Posting Date 11/09/2026)",
-  "eligibility_note": "No visa sponsorship — applicants must be legally authorized to work in the US without need for sponsorship now or in the future.",
-  "evidence_note": "Job ID 8886, UT Knoxville Facilities Services; supports/improves technology systems, applications and data resources; data analysis, data warehousing, data visualization, BI, statistical programming, data prep (SQL/Python/R); collects/validates/maintains/analyzes Facilities data for operational and strategic decisions. Full time, on-site Knoxville, UT market range MR09. Direct URL is UT's own Oracle HCM candidate-experience tenant. No term or funding language in the posting. CAVEAT: two aggregator mirrors show earlier dates for this req (UniversityJobs Jul 8, unipositions Sep 4); the university's own Oracle HCM page and HigherEdJobs both carry Nov 9, 2026, which is used as the posted date."
- },
- {
   "title": "Senior Business Operations Analyst - Government Resource Center",
   "university": "Ohio State",
   "city": "Columbus",
@@ -643,16 +602,6 @@
   "url": "https://jobs.ucla.edu/jobs/11970",
   "posted": "Nov 6, 2026 (page Published Nov 6, 2026, 20:37 UTC; detail verified Nov 13, 2026)",
   "evidence_note": "Agile Visual Analytics Lab (AVAL); second opening of same role (different JD link TBD_1000606 vs TBD_1000594); payroll title Research Data Analyst 2 RP; RP union staff; ETL, Tableau/Power BI, R/Python. No term/funding/sponsorship language."
- },
- {
-  "title": "Business Intelligence Analyst",
-  "university": "Arizona State University",
-  "city": "Phoenix",
-  "state": "AZ",
-  "category": "analytics",
-  "url": "https://asu.wd1.myworkdayjobs.com/en-US/ASUStaffCareers/job/Campus-Downtown-Phoenix/Business-Intelligence-Analyst_JR129067",
-  "posted": "Nov 9, 2026 (CXS startDate; detail verified Nov 13, 2026; JR129067)",
-  "evidence_note": "Downtown Phoenix campus; Job Profile Business and Data Analyst 2; builds college BI foundation in Amazon Redshift, SQL ETL/ELT, Tableau dashboards, data governance; 'Funding: No Federal Funding'; only background-check contingency language."
  },
  {
   "title": "Revenue Integrity Analyst",
@@ -795,5 +744,210 @@
   "url": "https://jobs.ucla.edu/jobs/11972",
   "posted": "Nov 6, 2026 (same AVAL batch as jobs 11968/11969/11970, Published Nov 6, 2026; live page shows no Published field — Apply deadline Nov 21, 2026; detail page title + open status verified live Nov 14, 2026)",
   "evidence_note": "Agile Visual Analytics Lab (AVAL); UC Payroll Title RSCH DATA ANL 3 RP; Full Time, Appointment Type Staff: Career, Fully Remote; anticipated hiring pay $100,000-$125,000/yr (page shows a '$100,00.00' typo). Same Nov 6 batch as kept jobs 11968/11969/11970. Data collection, management, analysis, visualization and reporting. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Senior Data Analyst",
+  "university": "University of Pennsylvania",
+  "city": "Philadelphia",
+  "state": "PA",
+  "category": "analytics",
+  "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/SteinbergDietrich-Hall/Senior-Data-Analyst_JR00129983-1",
+  "posted": "Nov 6, 2026 (Workday Published; detail page title verified live Nov 15, 2026; JR00129983-1)",
+  "evidence_note": "Wharton School, Office of the Deputy Dean — Senior Analyst for Institutional Research and Data Administration; data collection/validation/analysis/dissemination, Tableau/Power BI dashboards, data governance, Python/R, database management/query optimization; bachelor's + 4-6 yrs; $84,961-$120,000. Full-time staff. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Senior Database Administrator",
+  "university": "University of Pennsylvania",
+  "city": "Philadelphia",
+  "state": "PA",
+  "category": "engineering",
+  "url": "https://upenn.wd1.myworkdayjobs.com/en-US/careers-at-penn/job/Vet-School-Deans-Office/Senior-Database-Administrator_JR00129733-1",
+  "posted": "Nov 2, 2026 (Workday Published; detail page title verified live Nov 15, 2026; JR00129733-1)",
+  "evidence_note": "School of Veterinary Medicine; leads SQL Server + Snowflake cloud data environment administration/optimization, reporting solutions, data management/governance; explicitly supports research and data science initiatives incl. data cleansing, transformation, and preparation for ML/DL applications. Bachelor's + 3-5 yrs; $84,961-$110,000. Full-time staff. No term, funding, or sponsorship language. Borderline fit: core is DBA/infrastructure, kept for the data-environment + ML data-prep duties."
+ },
+ {
+  "title": "Data Science Senior Analyst, AI Engineer",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "aiml",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1",
+  "posted": "Nov 13, 2026 (Workday CXS startDate; endDate Nov 30, 2026; detail JSON verified Nov 15, 2026; Req R162476-1)",
+  "evidence_note": "Position Type Regular, 40 hrs/wk, Full time; Advancement | Business Intelligence; end-to-end applied AI/ML — predictive modeling, machine learning, generative AI, statistical methods for fundraising/engagement/marketing. No term, funding-contingency, or sponsorship language."
+ },
+ {
+  "title": "Data Integration Developer",
+  "university": "Ohio State",
+  "city": "Columbus",
+  "state": "OH",
+  "category": "engineering",
+  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Resource-Planning-Analyst_R162113",
+  "posted": "Nov 13, 2026 (Workday CXS startDate; endDate Nov 19, 2026; detail JSON verified Nov 15, 2026; Req R162113)",
+  "eligibility_note": "No visa sponsorship",
+  "evidence_note": "Position Type Regular, Full time; FAES | Extension Administration; manages data analysis, extraction, and integration of disparate systems; ETL processes/logic, data dashboards (Tableau). (URL slug reads Resource-Planning-Analyst; page Job Title is Data Integration Developer.) No term or funding language."
+ },
+ {
+  "title": "Biostatistician II",
+  "university": "University of Southern California",
+  "city": "San Diego",
+  "state": "CA",
+  "category": "datascience",
+  "url": "https://usc.wd5.myworkdayjobs.com/en-US/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-II_REQ20181725",
+  "posted": "Nov 13, 2026 (Workday CXS Posted 2 Days Ago; detail JSON verified Nov 15, 2026; Req REQ20181725)",
+  "evidence_note": "Keck School of Medicine, Epstein Family Alzheimer's Therapeutic Research Institute (ATRI) Biostatistics Section; clinical-trials biostatistics, statistical programming; Full time. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Planning Analyst",
+  "university": "Arizona State University",
+  "city": "Tempe",
+  "state": "AZ",
+  "category": "analytics",
+  "url": "https://asu.wd1.myworkdayjobs.com/en-US/ASUStaffCareers/job/Campus-Tempe/Planning-Analyst_JR128241-1",
+  "posted": "Nov 10, 2026 (Workday CXS Posted 5 Days Ago; detail JSON verified Nov 15, 2026; JR128241-1; closes Dec 1, 2026)",
+  "evidence_note": "Job Profile Business and Data Analyst 1; Full time, $54,600-$70,000. Manages/analyzes institutional-quality data (student success, enrollment, financial aid, citations, awards) for benchmarking; statistical reports, presentations, data visualizations. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Coordinator (Business and Data Analyst 1)",
+  "university": "Arizona State University",
+  "city": "Tempe",
+  "state": "AZ",
+  "category": "analytics",
+  "url": "https://asu.wd1.myworkdayjobs.com/en-US/ASUStaffCareers/job/Campus-Tempe/Coordinator_JR129150-1",
+  "posted": "Nov 13, 2026 (Workday CXS Posted 2 Days Ago; detail JSON verified Nov 15, 2026; JR129150-1; closes Nov 19, 2026)",
+  "evidence_note": "Job Profile Business and Data Analyst 1; Full time, $55,000-$57,000. Data integrity, operational reporting, system auditing, data-driven insights. No term, funding, or sponsorship language. (Portal display title is 'Coordinator'; job-profile title shown in parentheses.)"
+ },
+ {
+  "title": "Consultant, IT (PRMO Business Intelligence)",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://careers.duke.edu/job/Durham-Consultant%2C-IT-NC-27710/1431545500/",
+  "posted": "Nov 15, 2026 (Duke careers search-feed row; detail page title verified live Nov 15, 2026; Req 273653)",
+  "evidence_note": "Regular, 100% Remote; BI platform and strategy lead for the Patient Revenue Management Organization BI team — BI standards/governance, analytics strategy, Analysis Services cubes, dashboards/KPIs, Epic Clarity/Caboodle. 10+ yrs BI/analytics in healthcare. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Associate Vice Provost, Institutional Research and Strategic Analytics",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://careers.duke.edu/job/Durham-Associate-Vice-Provost%2C-Institutional-Research-and-Strategic-Analytics-NC-27710/1448979000/",
+  "posted": "Nov 9, 2026 (Duke careers search-feed row; detail page title verified live Nov 15, 2026; Req 277117)",
+  "evidence_note": "Regular, On-Site; Duke's chief institutional research officer — institutional data, reporting, analytics, assessment, benchmarking, predictive modeling, data governance, enterprise data warehouse. Master's + 7 yrs IR/analytics leadership. No term/funding/sponsorship language. Applications routed through executive search firm Isaacson, Miller (stated on the Duke posting itself), not a Duke Apply Now button."
+ },
+ {
+  "title": "Clinical Data Manager",
+  "university": "Duke University",
+  "city": "Durham",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://careers.duke.edu/job/Durham-Clinical-Data-Manager-NC-27710/1449363000/",
+  "posted": "Nov 10, 2026 (Duke careers search-feed row; detail page title verified live Nov 15, 2026; Req 277206)",
+  "evidence_note": "Regular, On-Site; Dept. of Surgery; REDCap/SQL/Epic Clarity-Caboodle, data validation/QA, EDC, SAS/R/SPSS analysis, data tables/visualizations. $61,026-$101,959. No term, funding, or sponsorship language ('grant-funded studies' refers to the studies, not the appointment)."
+ },
+ {
+  "title": "Data Analytics Engineer, College of Natural Sciences",
+  "university": "University of Texas at Austin",
+  "city": "Austin",
+  "state": "TX",
+  "category": "engineering",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/utstaff/job/ut-main-campus/data-analytics-engineer--college-of-natural-sciences_r_00049943",
+  "posted": "Nov 11, 2026 (Workday Published; detail page title verified live Nov 15, 2026; Req r_00049943)",
+  "eligibility_note": "Not eligible for employer-sponsored work authorization",
+  "evidence_note": "Full-time staff, 40 hrs/wk, Position Duration: Expected to Continue (continuing, not fixed-term), Exempt, hybrid/flex available. Relational data structures, ETL/orchestration, dashboards/BI in the UT Data Hub framework. No funding-contingency or end-date language."
+ },
+ {
+  "title": "Research Project Manager (Data Analysis Project Manager)",
+  "university": "UNC-Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://unc.peopleadmin.com/postings/328479",
+  "posted": "Nov 10, 2026 (PeopleAdmin Posting Open Date; deadline Nov 24, 2026; Posting 328479)",
+  "evidence_note": "Permanent Staff (EHRA NF), Full-Time Permanent, FTE 1, $81,434-$108,150. Data Analysis Project Manager — high-dimensional data analyses, novel statistical methods, bioinformatics/cheminformatics pipelines, omics/high-throughput data, R/Python. No term, funding, or sponsorship language."
+ },
+ {
+  "title": "Director of Prospect Research and Analytics",
+  "university": "UNC-Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://unc.peopleadmin.com/postings/328033",
+  "posted": "Nov 2, 2026 (PeopleAdmin Posting Open Date; deadline Nov 19, 2026; Posting 328033)",
+  "evidence_note": "Permanent Staff (EHRA NF), Full-Time Permanent, FTE 1. Prospect identification, donor pipeline, campaign reporting, data analysis, BI tools; supervises one Development Data Analyst. No term/funding/sponsorship language."
+ },
+ {
+  "title": "Senior Research Associate for Faculty Analysis",
+  "university": "UNC-Chapel Hill",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "category": "analytics",
+  "url": "https://unc.peopleadmin.com/postings/328167",
+  "posted": "Nov 4, 2026 (PeopleAdmin Posting Open Date; deadline Dec 3, 2026; Posting 328167)",
+  "evidence_note": "Permanent Staff (EHRA NF), Full-Time Permanent, FTE 1, Office of Institutional Research, Planning, and Assessment. Data analysis/reporting/evaluation, advanced stats (R/SAS/SPSS/Stata), SQL/Python, Power BI/Tableau dashboards. No term/funding/sponsorship language."
+ },
+ {
+  "title": "Research Data Analyst",
+  "university": "Johns Hopkins University",
+  "city": "Baltimore",
+  "state": "MD",
+  "category": "analytics",
+  "url": "https://hiring.jhu.edu/careers/job/1133916628946",
+  "posted": "Nov 2, 2026 (HigherEdJobs, Chronicle, DiversityJobs agree; JHU page Date Created Oct 29, 2026; Req 122930)",
+  "evidence_note": "Dept. of Health Policy and Management; Full Time, Exempt, Remote, $49,200-$86,200. Research data pipeline development/maintenance, health economics/health services research. Page title verified on hiring.jhu.edu. No term/funding language. Caveat: mirrors date the posting Nov 2 while the JHU page shows Date Created Oct 29."
+ },
+ {
+  "title": "Data Engineer I",
+  "university": "Johns Hopkins University",
+  "city": "Baltimore",
+  "state": "MD",
+  "category": "engineering",
+  "url": "https://hiring.jhu.edu/careers/job/1133916258550",
+  "posted": "Nov 12, 2026 (HigherEdJobs, Chronicle, edtech agree; JHU page Date Created Oct 30, 2026; Req 122940)",
+  "evidence_note": "Dept. of Epidemiology; Full Time, Exempt, $87,635-$153,545. Complex data pipelines from raw acquisition to visualization; mathematical/statistical models of infectious disease transmission. No term/funding language. Caveat: JHU's Eightfold detail page is JS-rendered — title tied to this job ID via JHU's own search result and three mirrors; detail body not text-verifiable."
+ },
+ {
+  "title": "Programmer Analyst II (IT Collaboration & Reporting)",
+  "university": "University of Alabama",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "category": "analytics",
+  "url": "https://careers.pageuppeople.com/669/cw/en-us/job/531060/programmer-analyst-ii-531060",
+  "posted": "Nov 3, 2026 (PageUp Advertised date; closes Nov 17, 2026; Job 531060)",
+  "evidence_note": "Regular Full-time (Benefits eligible), Enterprise Technology, $62,800-$81,700, hybrid-eligible. Reporting solutions in Power BI/ARGOS/Tableau; supports Microsoft Fabric data warehouse; OLAP, data warehousing, data lakes, dashboard design. No term/funding/sponsorship language. Borderline fit: Programmer Analyst title, kept for the BI/reporting + data-warehouse function."
+ },
+ {
+  "title": "Director of Strategic Analytics",
+  "university": "Louisiana State University",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "category": "analytics",
+  "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0146-Thomas-D-Boyd-Hall/Director-of-Strategic-Analytics_R00122080",
+  "posted": "Nov 13, 2026 (Workday Posting Date; best consideration by Nov 30, 2026; closes Mar 9, 2027; Req R00122080)",
+  "eligibility_note": "Valid U.S. work authorization required at time of hire",
+  "evidence_note": "Full time, Professional/Unclassified, Office of Data & Strategic Analytics. Regression, predictive modeling, enrollment/financial forecasting; SAS/SQL/Python/R; Tableau dashboards; integrates AI tools into analytical workflows. No term/funding language."
+ },
+ {
+  "title": "Senior Institutional Research Analyst",
+  "university": "Louisiana State University",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "category": "analytics",
+  "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0146-Thomas-D-Boyd-Hall/Senior-Institutional-Research-Analyst_R00122081",
+  "posted": "Nov 13, 2026 (Workday Posting Date; best consideration by Nov 30, 2026; closes Mar 9, 2027; Req R00122081)",
+  "eligibility_note": "Valid U.S. work authorization required at time of hire",
+  "evidence_note": "Full time, Professional/Unclassified, Office of Data & Strategic Analytics – Institutional Research. Federal/state/national surveys, compliance reporting; extract/transform/validate data from Workday and legacy systems; SQL/SAS. No term/funding language."
+ },
+ {
+  "title": "DBA Analyst 1 or 2",
+  "university": "Louisiana State University",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "category": "engineering",
+  "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Pennington-Biomedical/DBA-Analyst-1-or-2_R00122059",
+  "posted": "Nov 6, 2026 (Workday Posting Date; closes Nov 20, 2026; Req R00122059)",
+  "eligibility_note": "No visa sponsorship",
+  "evidence_note": "Full time, Professional/Unclassified, Pennington Biomedical Research Center, $55,000-$75,000. Database administration plus ETL, data warehouse/analytics support, data modeling, reporting, analytics, data governance; SQL/T-SQL/SQL Server. No term/funding language. Borderline fit: DBA core, kept for the ETL/data-warehouse/analytics duties."
  }
 ]
