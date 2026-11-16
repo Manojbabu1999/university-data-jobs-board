@@ -246,7 +246,7 @@
   "state": "OH",
   "category": "aiml",
   "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Health-System-Shared-Services/Senior-AI-and-Data-Science-Consultant_R161284-1",
-  "posted": "Nov 2, 2026 (page Published; detail page title verified live Nov 9, 2026)",
+  "posted": "Nov 2, 2026 (page Published; detail page title verified live Nov 9, 2026; CXS feed + detail JSON re-verified live Nov 16, 2026; closes Nov 23)",
   "evidence_note": "Req R161284-1, Position Type Regular, 40 hrs/week; Health System Shared Services; ML, agentic/generative AI, MLOps. No term, funding-contingency, or sponsorship language in fetched detail text."
  },
  {
@@ -279,16 +279,6 @@
   "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Clinical-Informatics-Senior-Analyst---Pathology_R161922-2",
   "posted": "Nov 9, 2026 (Workday CXS Posted Yesterday; detail JSON verified Nov 10, 2026)",
   "evidence_note": "Req R161922-2, Position Type Regular, 40 hrs/wk, Full time; College of Medicine / Pathology informatics incl. data governance, AI/computational pathology, Epic Beaker. No term, funding-contingency, or sponsorship language in detail JSON."
- },
- {
-  "title": "Research Associate – Biomedical Informatics",
-  "university": "Ohio State",
-  "city": "Columbus",
-  "state": "OH",
-  "category": "datascience",
-  "url": "https://osu.wd1.myworkdayjobs.com/en-US/OSUCareers/job/Columbus-Campus/Research-Associate---Biomedical-Informatics_R162093-1",
-  "posted": "Nov 9, 2026 (Workday CXS Posted Yesterday; detail JSON verified Nov 10, 2026)",
-  "evidence_note": "Req R162093-1, Position Type Regular, Full time; genomic/clinical data work in Dr. Qing Wu's lab — biostatistical + machine-learning methods (GWAS, polygenic scores), R/Python. No fixed-term language ('grant-related research summaries' is a writing duty, not funding contingency). No citizenship/sponsorship language."
  },
  {
   "title": "Clinical Informaticist 3 (Lead)",
@@ -549,7 +539,7 @@
   "state": "CA",
   "category": "datascience",
   "url": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201646?jobId=201646",
-  "posted": "Nov 6, 2026 (HCM ExternalPostedStartDate; ends Nov 16, 2026; API detail verified Nov 13, 2026; Id 201646)",
+  "posted": "Nov 6, 2026 (HCM ExternalPostedStartDate; ends Nov 16, 2026; API detail re-verified Nov 16, 2026 — record still served with full description, posted/end dates nulled on closing day; Id 201646)",
   "evidence_note": "Division of Clinical Informatics; clinically applied ML/foundation models, SQL/Python; full-time staff. No term/funding/sponsorship language."
  },
  {
@@ -949,5 +939,129 @@
   "posted": "Nov 6, 2026 (Workday Posting Date; closes Nov 20, 2026; Req R00122059)",
   "eligibility_note": "No visa sponsorship",
   "evidence_note": "Full time, Professional/Unclassified, Pennington Biomedical Research Center, $55,000-$75,000. Database administration plus ETL, data warehouse/analytics support, data modeling, reporting, analytics, data governance; SQL/T-SQL/SQL Server. No term/funding language. Borderline fit: DBA core, kept for the ETL/data-warehouse/analytics duties."
+ },
+ {
+  "category": "aiml",
+  "city": "Lexington",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "MIT Lincoln Laboratory, Cyber Operations & Analysis Technology Group (05-57); Technical Staff 5/6; applies AI/ML and cyber security expertise — AI/ML for data analysis and software system design, LLM/RAG experience desired, data architecture and data engineering preferred; Python/C/C++/Java. Top Secret-level DoD clearance required. No term or funding language.",
+  "posted": "Nov 13-16, 2026 (estimated from requisition sequence — highest req observed, issued after Req 43696 posted Nov 12-13; portal detail pages show no posted date; detail page title verified live Nov 16, 2026; Req 43711)",
+  "state": "MA",
+  "title": "Applied AI/Cyber Researcher: Technical Staff",
+  "university": "MIT",
+  "url": "https://careers.ll.mit.edu/job/Lexington-Applied-AICyber-Researcher-Technical-Staff-MA-02420/1450663800/"
+ },
+ {
+  "category": "aiml",
+  "city": "Durham",
+  "evidence_note": "Req 271044, Regular, Hybrid; Senior Analyst IT, OIT Research Computing. Helps researchers use/adapt/build with AI tools incl. LLMs, MCP integrations, HPC, cloud services and data platforms; develops AI services incl. shared training datasets; Python/R/MATLAB, model training and inference, GPUs. No term, funding-contingency, citizenship, or sponsorship language in fetched detail text. NOTE: re-posting — same Req 271044 previously closed Oct 29; re-posted with a new Nov 15 window.",
+  "posted": "Nov 15, 2026 (Duke careers search feed row, crawled Nov 16, 2026; detail page title + Req verified live Nov 16, 2026)",
+  "state": "NC",
+  "title": "Research Computing - AI Engagement Specialist",
+  "university": "Duke University",
+  "url": "https://careers.duke.edu/job/Durham-Research-Computing-AI-Engagement-Specialist-NC-27710/1399812200/"
+ },
+ {
+  "category": "analytics",
+  "city": "Knoxville",
+  "eligibility_note": "No visa sponsorship — posting states applicants must be legally authorized to work in the US on a full-time basis without need now or in the future for sponsorship.",
+  "evidence_note": "Job 8886, RequisitionType Non-Exempt Staff, JobSchedule Full time (per Oracle HCM API JSON); on-site Knoxville, UT market range MR09. Duties: collect/validate/maintain/analyze Facilities Services data; reports, dashboards, visualizations; data quality and reporting standards; ETL processes; design/build/maintain data warehouses, lakehouses and cloud data platforms; SQL/Python/R, Tableau/Power BI; AI/ML understanding and prompt engineering. No term, funding-contingency, or end-date language (ContractType null, ExternalPostedEndDate null). Caveat: two aggregator mirrors show earlier dates (Jul 8 / Sep 4) for what appears to be an earlier identical posting; the live Oracle HCM record's posted start date is Nov 9, 2026. Re-added Nov 16 after a Nov 15 'no longer available' drop — HCM API + detail page live again Nov 16.",
+  "posted": "Nov 9, 2026 (Oracle HCM API ExternalPostedStartDate 2026-11-09T13:24:35+00:00; corroborated by HigherEdJobs Posting Date 11/09/2026 and the Oracle HCM detail page Published 2026-11-09T13:24:35Z; detail page title verified by direct fetch Nov 16)",
+  "state": "TN",
+  "title": "IT Data Technologist - Facilities Services - UTK",
+  "university": "University of Tennessee",
+  "url": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8886"
+ },
+ {
+  "category": "engineering",
+  "city": "Knoxville",
+  "eligibility_note": "No visa sponsorship — posting states verbatim 'SPONSORSHIP IS NOT AVAILABLE AT THIS TIME'.",
+  "evidence_note": "Job 10651, RequisitionType Exempt Staff, JobSchedule Full time (per Oracle HCM API JSON); UT System Administration, 400 W Summit Hill Dr, Knoxville; $75,000-$85,000. SQL/Python data workflows, SQL Server, ETL/ELT (SSIS), Power BI dashboards/semantic models/DAX, data validation and quality, institutional reporting; collaborates with Institutional Research departments. No term, funding-contingency, or end-date language.",
+  "posted": "Nov 6, 2026 (Oracle HCM API ExternalPostedStartDate 2026-11-06T19:55:24+00:00; corroborated by HigherEdJobs Posting Date 11/06/2026)",
+  "state": "TN",
+  "title": "Data Developer II - Academic Affairs, Research and Student Success, UT System Administration",
+  "university": "University of Tennessee",
+  "url": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10651"
+ },
+ {
+  "category": "analytics",
+  "city": "Coral Gables",
+  "evidence_note": "Full time, Staff, no end date. Graduate School BI reporting: designs/builds/maintains BI reports and dashboards, data modeling, works with ETL developers, collects/integrates data from SIS/admissions/National Student Clearinghouse. Full description scanned: no term, funding, or sponsorship language (only 'Temporary' hit is standard current-employee boilerplate).",
+  "posted": "Nov 10, 2026 (Workday CXS detail startDate 2026-11-10; Req R100102376)",
+  "state": "FL",
+  "title": "BI Report Developer 1 (On-Site/in person)",
+  "university": "University of Miami",
+  "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Coral-Gables-FL/BI-Report-Developer-1_R100102376"
+ },
+ {
+  "category": "analytics",
+  "city": "Miami",
+  "evidence_note": "Full time, Staff, remote, no end date. Dept. of Public Health, Florida Cancer Data System: senior technical resource for cancer-registry record linkage (probabilistic/deterministic/hybrid), advanced statistical methods, Python/Julia, STATA/SAS/R. No term/funding/sponsorship language. Second live requisition of the same role already on the board as R100102381 (posted Nov 6) — both reqs live in today's feed with near-identical descriptions, so this is a second opening, not a re-post.",
+  "posted": "Nov 12, 2026 (Workday CXS detail startDate 2026-11-12; Req R100102863)",
+  "state": "FL",
+  "title": "Lead Research Analyst",
+  "university": "University of Miami",
+  "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Lead-Research-Analyst_R100102863"
+ },
+ {
+  "category": "datascience",
+  "city": "St. Louis",
+  "evidence_note": "Full time, Scheduled Hours 40, no end date. Schwartz Lab: designs/develops algorithms and software for omics datasets (genomic/proteomic/clinical), data management/analysis solutions, data verification/management. Full description scanned: no term, funding, or sponsorship language ('citizenship' hit is EEO boilerplate only).",
+  "posted": "Nov 6, 2026 (Workday CXS detail startDate 2026-11-06; JR98497)",
+  "state": "MO",
+  "title": "Bioinformaticist - Gastroenterology/Hepatology",
+  "university": "Washington University in St. Louis",
+  "url": "https://wustl.wd1.myworkdayjobs.com/en-US/External/job/Washington-University-Medical-Campus/Bioinformaticist---Gastroenterology-Hepatology_JR98497"
+ },
+ {
+  "category": "datascience",
+  "city": "St. Louis",
+  "evidence_note": "Full time, Scheduled Hours 40, no end date. Leads complex data analysis, data curation/harmonization, database structure for longitudinal/cross-sectional data; supervises data processing/analysis. Full description scanned: no term, funding, or sponsorship language.",
+  "posted": "Nov 6, 2026 (Workday CXS detail startDate 2026-11-06; JR98498)",
+  "state": "MO",
+  "title": "Senior Bioinformaticist - Gastroenterology/Hepatology",
+  "university": "Washington University in St. Louis",
+  "url": "https://wustl.wd1.myworkdayjobs.com/en-US/External/job/Washington-University-Medical-Campus/Senior-Bioinformaticist---Gastroenterology-Hepatology_JR98498"
+ },
+ {
+  "category": "engineering",
+  "city": "Philadelphia",
+  "evidence_note": "Full time, no end date. Advancement Prospect Analytics: Snowflake data warehousing, data products, dashboards and predictive models (Qlik Cloud, Posit Connect), ETL/integrations across 18 schools. Job profile Application Developer Senior. Full description scanned: no term, funding, or sponsorship language. (URL slug reads Analytics-Engineer; page title is Snowflake Advancement Intelligence Engineer.)",
+  "posted": "Nov 10, 2026 (Workday CXS detail startDate 2026-11-10; JR00128453)",
+  "state": "PA",
+  "title": "Snowflake Advancement Intelligence Engineer",
+  "university": "University of Pennsylvania",
+  "url": "https://upenn.wd1.myworkdayjobs.com/en-US/careers-at-penn/job/FMC-Tower-Development/Analytics-Engineer_JR00128453"
+ },
+ {
+  "category": "datascience",
+  "city": "San Diego",
+  "evidence_note": "Full time, no end date. Keck School of Medicine, Epstein Family Alzheimer's Therapeutic Research Institute (ATRI) Biostatistics Section: statistical programming/analyses for clinical trials, analysis-ready datasets, QC/QA. Distinct from the already-listed Biostatistician II REQ20181725 (same unit, also Nov 13). No term, funding, or sponsorship language in full description.",
+  "posted": "Nov 13, 2026 (Workday CXS detail startDate 2026-11-13; REQ20181723)",
+  "state": "CA",
+  "title": "Biostatistician I",
+  "university": "University of Southern California",
+  "url": "https://usc.wd5.myworkdayjobs.com/en-US/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-I_REQ20181723"
+ },
+ {
+  "category": "engineering",
+  "city": "Austin",
+  "evidence_note": "Full time, 40 hrs/wk, Position Duration: Expected to Continue (continuing, not fixed-term), no end date. Dell Medical School: leads design/build/optimization of ETL/ELT pipelines, data lake/warehouse/marts, curated analytics-ready datasets, feature engineering/model-training support, AI/ML adoption enablement. Full description scanned: no term, funding-contingency, or sponsorship language (no sponsor/visa hits at all, unlike the kept UT role R_00049943).",
+  "posted": "Nov 6, 2026 (Workday CXS detail startDate 2026-11-06; R_00049321)",
+  "state": "TX",
+  "title": "Senior Data Engineer",
+  "university": "University of Texas at Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/utstaff/job/AUSTIN-TX/Senior-Data-Engineer_R_00049321"
+ },
+ {
+  "category": "analytics",
+  "city": "Austin",
+  "eligibility_note": "US citizenship required",
+  "evidence_note": "Full time, 40 hrs/wk, Position Duration: Expected to Continue, no end date. Applied Research Laboratories HR: compensation data analysis with analytical/statistical methods, HRIS, workforce metrics, HR statistical reports, HR database QA. HR-analytics fit (same precedent as kept Purdue HR-data analyst). No term/funding language. Applied Research Laboratories is a DoD University Affiliated Research Center; posting states 'US Citizen: Applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.'",
+  "posted": "Nov 9, 2026 (Workday CXS detail startDate 2026-11-09; R_00049898)",
+  "state": "TX",
+  "title": "Senior HR Analyst - Compensation and Workforce Analytics",
+  "university": "University of Texas at Austin",
+  "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/utstaff/job/PICKLE-RESEARCH-CAMPUS/Senior-HR-Analyst---Compensation-and-Workforce-Analytics_R_00049898"
  }
 ]
